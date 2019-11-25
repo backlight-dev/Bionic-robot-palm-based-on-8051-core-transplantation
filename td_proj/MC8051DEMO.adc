@@ -1,0 +1,72 @@
+#set_pin_assignment	{ GPIO_0 }	{ LOCATION = A7; }
+#set_pin_assignment	{ GPIO_1 }	{ LOCATION = A8; }
+#set_pin_assignment	{ GPIO_2 }	{ LOCATION = E7; }
+#set_pin_assignment	{ GPIO_3 }	{ LOCATION = C16; }
+#set_pin_assignment	{ GPIO_4 }	{ LOCATION = C15; }
+
+set_pin_assignment	{ GPIO_0 }	{ LOCATION = A13; }
+set_pin_assignment	{ GPIO_1 }	{ LOCATION = D8;  }
+set_pin_assignment	{ GPIO_2 }	{ LOCATION = B14; }
+set_pin_assignment	{ GPIO_3 }	{ LOCATION = B8;  }
+set_pin_assignment	{ GPIO_4 }	{ LOCATION = B6; }
+set_pin_assignment	{ GPIO_5 }	{ LOCATION = C6; }
+set_pin_assignment	{ GPIO_6 }	{ LOCATION = B10; }
+set_pin_assignment	{ GPIO_7 }	{ LOCATION = B16; }
+set_pin_assignment	{ GPIO_8 }	{ LOCATION = C16; }
+set_pin_assignment	{ GPIO_9 }	{ LOCATION = C15;  }
+set_pin_assignment	{ GPIO_10}	{ LOCATION = C5;  }
+set_pin_assignment	{ GPIO_11}	{ LOCATION = C7;  }
+set_pin_assignment	{ GPIO_12}	{ LOCATION = C9;  }
+set_pin_assignment	{ GPIO_13}	{ LOCATION = A11; }
+set_pin_assignment	{ GPIO_14}	{ LOCATION = C11; }
+set_pin_assignment	{ GPIO_15}	{ LOCATION = B15; }
+
+#set_pin_assignment	{ GPIO_0 }	{ LOCATION = M3; }
+#set_pin_assignment	{ GPIO_1 }	{ LOCATION = M4;  }
+#set_pin_assignment	{ GPIO_2 }	{ LOCATION = N3; }
+#set_pin_assignment	{ GPIO_3 }	{ LOCATION = N4;  }
+#set_pin_assignment	{ GPIO_4 }	{ LOCATION = M5; }
+#set_pin_assignment	{ GPIO_5 }	{ LOCATION = P4; }
+#set_pin_assignment	{ GPIO_6 }	{ LOCATION = N5; }
+#set_pin_assignment	{ GPIO_7 }	{ LOCATION = P5; }
+#set_pin_assignment	{ GPIO_8 }	{ LOCATION = R7; }
+#set_pin_assignment	{ GPIO_9 }	{ LOCATION = T7;  }
+
+
+set_pin_assignment	{ key }	    { LOCATION = T4; }
+
+set_pin_assignment	{ key_0 }	{ LOCATION = N6; }
+set_pin_assignment	{ key_1 }	{ LOCATION = P8; }
+set_pin_assignment	{ key_2 }	{ LOCATION = N8;}
+set_pin_assignment	{ key_3 }	{ LOCATION = R9; }
+set_pin_assignment	{ key_4 }	{ LOCATION = P9; }
+set_pin_assignment	{ key_5 }	{ LOCATION = N9; }
+set_pin_assignment	{ key_6 }	{ LOCATION = T14; }
+set_pin_assignment	{ key_7 }	{ LOCATION = R14; }
+set_pin_assignment	{ key_8 }	{ LOCATION = T15; }
+set_pin_assignment	{ key_9 }	{ LOCATION = R15; }
+set_pin_assignment	{ key_10}	{ LOCATION = A7;  }
+set_pin_assignment	{ key_11}	{ LOCATION = A8;  }
+set_pin_assignment	{ key_12}	{ LOCATION = A10; }
+set_pin_assignment	{ key_13}	{ LOCATION = A6;  }
+set_pin_assignment	{ key_14}	{ LOCATION = A4;  }
+set_pin_assignment	{ key_15}	{ LOCATION = A12; }
+#set_pin_assignment	{ keyled }	{ LOCATION = M3; }
+set_pin_assignment	{ pllclk }	{ LOCATION = A9; }
+set_pin_assignment	{ sysclk }	{ LOCATION = K14; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

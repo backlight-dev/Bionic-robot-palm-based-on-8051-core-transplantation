@@ -1,0 +1,3105 @@
+============================================================
+   Tang Dynasty, V4.6.14314
+   Copyright:   Shanghai Anlogic Infotech Co., Ltd.
+                2011 - 2021
+   Executable = C:/Anlogic/TD4.6.2/bin/td.exe
+   Built at =   11:20:06 Sep 19 2019
+   Run by =     NiceFamily
+   Run Date =   Fri Nov  8 08:17:59 2019
+
+   Run on =     NICEFAMILY-PC
+============================================================
+RUN-1002 : start command "open_project mc8051_top.al"
+GUI-8003 ERROR: mc8051_ram.v is missing!
+GUI-8003 ERROR: mc8051_rom.v is missing!
+GUI-8003 ERROR: ../MC8051OnBoard.v is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_p.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_core_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_core_struc.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_cy_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_cy_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_cy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_ovcy_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_ovcy_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_ovcy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alucore_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alucore_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alucore_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alumux_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alumux_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alumux_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_divider_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_divider_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_divider_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_mltplr_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_mltplr_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_mltplr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_fsm_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_fsm_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_fsm_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_mem_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_mem_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_mem_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/dcml_adjust_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/dcml_adjust_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/dcml_adjust_rtl_cfg.vhd is missing!
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/mc8051_p.vhd'
+HDL-1007 : analyze VHDL file mc8051_ram.vhd
+HDL-1007 : analyze entity mc8051_ram in mc8051_ram.vhd(19)
+HDL-1007 : analyze architecture ram_arch in mc8051_ram.vhd(33)
+HDL-1007 : analyze configuration mc8051_ram_sim_cfg in mc8051_ram.vhd(50)
+HDL-1007 : analyze VHDL file mc8051_ramx.vhd
+HDL-1007 : analyze entity mc8051_ramx in mc8051_ramx.vhd(19)
+HDL-1007 : analyze architecture ramx_arch in mc8051_ramx.vhd(32)
+HDL-1007 : analyze configuration mc8051_ramx_sim_cfg in mc8051_ramx.vhd(47)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_p.vhd
+HDL-1007 : analyze package mc8051_p in ../vhdl/mc8051_p.vhd(69)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_ovcy.vhd
+HDL-1007 : analyze entity addsub_ovcy in ../vhdl/addsub_ovcy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_ovcy.vhd(85)
+HDL-1007 : analyze configuration addsub_ovcy_rtl_cfg in ../vhdl/addsub_ovcy.vhd(159)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_cy.vhd
+HDL-1007 : analyze entity addsub_cy in ../vhdl/addsub_cy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_cy.vhd(85)
+HDL-1007 : analyze configuration addsub_cy_rtl_cfg in ../vhdl/addsub_cy.vhd(115)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_core.vhd
+HDL-1007 : analyze entity addsub_core in ../vhdl/addsub_core.vhd(76)
+HDL-1007 : analyze architecture struc in ../vhdl/addsub_core.vhd(91)
+HDL-1007 : analyze configuration addsub_core_struc_cfg in ../vhdl/addsub_core.vhd(142)
+HDL-1007 : analyze VHDL file ../vhdl/alucore.vhd
+HDL-1007 : analyze entity alucore in ../vhdl/alucore.vhd(73)
+HDL-1007 : analyze architecture rtl in ../vhdl/alucore.vhd(94)
+HDL-1007 : analyze configuration alucore_rtl_cfg in ../vhdl/alucore.vhd(191)
+HDL-1007 : analyze VHDL file ../vhdl/alumux.vhd
+HDL-1007 : analyze entity alumux in ../vhdl/alumux.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/alumux.vhd(125)
+HDL-1007 : analyze configuration alumux_rtl_cfg in ../vhdl/alumux.vhd(494)
+HDL-1007 : analyze VHDL file ../vhdl/comb_divider.vhd
+HDL-1007 : analyze entity comb_divider in ../vhdl/comb_divider.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_divider.vhd(82)
+HDL-1007 : analyze configuration comb_divider_rtl_cfg in ../vhdl/comb_divider.vhd(130)
+HDL-1007 : analyze VHDL file ../vhdl/comb_mltplr.vhd
+HDL-1007 : analyze entity comb_mltplr in ../vhdl/comb_mltplr.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_mltplr.vhd(82)
+HDL-1007 : analyze configuration comb_mltplr_rtl_cfg in ../vhdl/comb_mltplr.vhd(104)
+HDL-1007 : analyze VHDL file ../vhdl/control_fsm.vhd
+HDL-1007 : analyze entity control_fsm in ../vhdl/control_fsm.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_fsm.vhd(126)
+HDL-1007 : analyze configuration control_fsm_rtl_cfg in ../vhdl/control_fsm.vhd(2231)
+HDL-1007 : analyze VHDL file ../vhdl/control_mem.vhd
+HDL-1007 : analyze entity control_mem in ../vhdl/control_mem.vhd(75)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_mem.vhd(206)
+HDL-1007 : analyze configuration control_mem_rtl_cfg in ../vhdl/control_mem.vhd(1285)
+HDL-1007 : analyze VHDL file ../vhdl/dcml_adjust.vhd
+HDL-1007 : analyze entity dcml_adjust in ../vhdl/dcml_adjust.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/dcml_adjust.vhd(90)
+HDL-1007 : analyze configuration dcml_adjust_rtl_cfg in ../vhdl/dcml_adjust.vhd(168)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_alu.vhd
+HDL-1007 : analyze entity mc8051_alu in ../vhdl/mc8051_alu.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_alu.vhd(104)
+HDL-1007 : analyze configuration mc8051_alu_struc_cfg in ../vhdl/mc8051_alu.vhd(235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_control.vhd
+HDL-1007 : analyze entity mc8051_control in ../vhdl/mc8051_control.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_control.vhd(142)
+HDL-1007 : analyze configuration mc8051_control_struc_cfg in ../vhdl/mc8051_control.vhd(344)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_siu.vhd
+HDL-1007 : analyze entity mc8051_siu in ../vhdl/mc8051_siu.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_siu.vhd(92)
+HDL-1007 : analyze configuration mc8051_siu_rtl_cfg in ../vhdl/mc8051_siu.vhd(1235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_tmrctr.vhd
+HDL-1007 : analyze entity mc8051_tmrctr in ../vhdl/mc8051_tmrctr.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_tmrctr.vhd(96)
+HDL-1007 : analyze configuration mc8051_tmrctr_rtl_cfg in ../vhdl/mc8051_tmrctr.vhd(797)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_core.vhd
+HDL-1007 : analyze entity mc8051_core in ../vhdl/mc8051_core.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_core.vhd(121)
+HDL-1007 : analyze configuration mc8051_core_struc_cfg in ../vhdl/mc8051_core.vhd(276)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_top.vhd
+HDL-1007 : analyze entity mc8051_top in ../vhdl/mc8051_top.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_top.vhd(104)
+HDL-1007 : analyze configuration mc8051_top_struc_cfg in ../vhdl/mc8051_top.vhd(200)
+HDL-8007 ERROR: 'mc8051_rom_sim_cfg' is not compiled in library 'work' in ../vhdl/mc8051_top.vhd(206)
+HDL-8007 ERROR: ignore unit mc8051_top_struc_cfg due to previous errors in ../vhdl/mc8051_top.vhd(215)
+HDL-1007 : VHDL file '../vhdl/mc8051_top.vhd' ignored due to errors
+HDL-1007 : analyze VHDL file MC8051OnBoard.vhd
+HDL-1007 : analyze entity mc8051onboard in MC8051OnBoard.vhd(9)
+HDL-1007 : analyze architecture rtl in MC8051OnBoard.vhd(19)
+HDL-1007 : analyze verilog file al_ip/pll.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom_td.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom.v
+GUI-8384 ERROR: Analyze file(s) failed ...
+RUN-1002 : start command "import_device eagle_s20.db -package BG256"
+ARC-1001 : Device Initialization.
+ARC-1001 : ------------------------------------------------------------------
+ARC-1001 :            OPTION            |          IO          |   SETTING   
+ARC-1001 : ------------------------------------------------------------------
+ARC-1001 :   cso_b/cclk/mosi/miso/dout  |  T3/R11/T10/P10/S11  |    gpio    
+ARC-1001 :             done             |         P13          |    gpio    
+ARC-1001 :           program_b          |          T2          |  dedicated  
+ARC-1001 :        tdi/tms/tck/tdo       |   C12/A15/C14/E14    |  dedicated  
+ARC-1001 : ------------------------------------------------------------------
+ARC-1004 : Device setting, marked 5 dedicate IOs in total.
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/mc8051_p.vhd'
+HDL-1007 : analyze VHDL file mc8051_ram.vhd
+HDL-1007 : analyze entity mc8051_ram in mc8051_ram.vhd(19)
+HDL-1007 : analyze architecture ram_arch in mc8051_ram.vhd(33)
+HDL-1007 : analyze configuration mc8051_ram_sim_cfg in mc8051_ram.vhd(50)
+HDL-1007 : analyze VHDL file mc8051_ramx.vhd
+HDL-1007 : analyze entity mc8051_ramx in mc8051_ramx.vhd(19)
+HDL-1007 : analyze architecture ramx_arch in mc8051_ramx.vhd(32)
+HDL-1007 : analyze configuration mc8051_ramx_sim_cfg in mc8051_ramx.vhd(47)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_p.vhd
+HDL-1007 : analyze package mc8051_p in ../vhdl/mc8051_p.vhd(69)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_ovcy.vhd
+HDL-1007 : analyze entity addsub_ovcy in ../vhdl/addsub_ovcy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_ovcy.vhd(85)
+HDL-1007 : analyze configuration addsub_ovcy_rtl_cfg in ../vhdl/addsub_ovcy.vhd(159)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_cy.vhd
+HDL-1007 : analyze entity addsub_cy in ../vhdl/addsub_cy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_cy.vhd(85)
+HDL-1007 : analyze configuration addsub_cy_rtl_cfg in ../vhdl/addsub_cy.vhd(115)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_core.vhd
+HDL-1007 : analyze entity addsub_core in ../vhdl/addsub_core.vhd(76)
+HDL-1007 : analyze architecture struc in ../vhdl/addsub_core.vhd(91)
+HDL-1007 : analyze configuration addsub_core_struc_cfg in ../vhdl/addsub_core.vhd(142)
+HDL-1007 : analyze VHDL file ../vhdl/alucore.vhd
+HDL-1007 : analyze entity alucore in ../vhdl/alucore.vhd(73)
+HDL-1007 : analyze architecture rtl in ../vhdl/alucore.vhd(94)
+HDL-1007 : analyze configuration alucore_rtl_cfg in ../vhdl/alucore.vhd(191)
+HDL-1007 : analyze VHDL file ../vhdl/alumux.vhd
+HDL-1007 : analyze entity alumux in ../vhdl/alumux.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/alumux.vhd(125)
+HDL-1007 : analyze configuration alumux_rtl_cfg in ../vhdl/alumux.vhd(494)
+HDL-1007 : analyze VHDL file ../vhdl/comb_divider.vhd
+HDL-1007 : analyze entity comb_divider in ../vhdl/comb_divider.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_divider.vhd(82)
+HDL-1007 : analyze configuration comb_divider_rtl_cfg in ../vhdl/comb_divider.vhd(130)
+HDL-1007 : analyze VHDL file ../vhdl/comb_mltplr.vhd
+HDL-1007 : analyze entity comb_mltplr in ../vhdl/comb_mltplr.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_mltplr.vhd(82)
+HDL-1007 : analyze configuration comb_mltplr_rtl_cfg in ../vhdl/comb_mltplr.vhd(104)
+HDL-1007 : analyze VHDL file ../vhdl/control_fsm.vhd
+HDL-1007 : analyze entity control_fsm in ../vhdl/control_fsm.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_fsm.vhd(126)
+HDL-1007 : analyze configuration control_fsm_rtl_cfg in ../vhdl/control_fsm.vhd(2231)
+HDL-1007 : analyze VHDL file ../vhdl/control_mem.vhd
+HDL-1007 : analyze entity control_mem in ../vhdl/control_mem.vhd(75)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_mem.vhd(206)
+HDL-1007 : analyze configuration control_mem_rtl_cfg in ../vhdl/control_mem.vhd(1285)
+HDL-1007 : analyze VHDL file ../vhdl/dcml_adjust.vhd
+HDL-1007 : analyze entity dcml_adjust in ../vhdl/dcml_adjust.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/dcml_adjust.vhd(90)
+HDL-1007 : analyze configuration dcml_adjust_rtl_cfg in ../vhdl/dcml_adjust.vhd(168)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_alu.vhd
+HDL-1007 : analyze entity mc8051_alu in ../vhdl/mc8051_alu.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_alu.vhd(104)
+HDL-1007 : analyze configuration mc8051_alu_struc_cfg in ../vhdl/mc8051_alu.vhd(235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_control.vhd
+HDL-1007 : analyze entity mc8051_control in ../vhdl/mc8051_control.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_control.vhd(142)
+HDL-1007 : analyze configuration mc8051_control_struc_cfg in ../vhdl/mc8051_control.vhd(344)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_siu.vhd
+HDL-1007 : analyze entity mc8051_siu in ../vhdl/mc8051_siu.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_siu.vhd(92)
+HDL-1007 : analyze configuration mc8051_siu_rtl_cfg in ../vhdl/mc8051_siu.vhd(1235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_tmrctr.vhd
+HDL-1007 : analyze entity mc8051_tmrctr in ../vhdl/mc8051_tmrctr.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_tmrctr.vhd(96)
+HDL-1007 : analyze configuration mc8051_tmrctr_rtl_cfg in ../vhdl/mc8051_tmrctr.vhd(797)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_core.vhd
+HDL-1007 : analyze entity mc8051_core in ../vhdl/mc8051_core.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_core.vhd(121)
+HDL-1007 : analyze configuration mc8051_core_struc_cfg in ../vhdl/mc8051_core.vhd(276)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_top.vhd
+HDL-1007 : analyze entity mc8051_top in ../vhdl/mc8051_top.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_top.vhd(104)
+HDL-1007 : analyze configuration mc8051_top_struc_cfg in ../vhdl/mc8051_top.vhd(200)
+HDL-8007 ERROR: 'mc8051_rom_sim_cfg' is not compiled in library 'work' in ../vhdl/mc8051_top.vhd(206)
+HDL-8007 ERROR: ignore unit mc8051_top_struc_cfg due to previous errors in ../vhdl/mc8051_top.vhd(215)
+HDL-1007 : VHDL file '../vhdl/mc8051_top.vhd' ignored due to errors
+HDL-1007 : analyze VHDL file MC8051OnBoard.vhd
+HDL-1007 : analyze entity mc8051onboard in MC8051OnBoard.vhd(9)
+HDL-1007 : analyze architecture rtl in MC8051OnBoard.vhd(19)
+HDL-1007 : analyze verilog file al_ip/pll.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom_td.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom.v
+RUN-1002 : start command "clean_project I:/Version1_6_TDV4/td_proj/mc8051_top.al"
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/mc8051_p.vhd'
+HDL-1007 : analyze VHDL file mc8051_ram.vhd
+HDL-1007 : analyze entity mc8051_ram in mc8051_ram.vhd(19)
+HDL-1007 : analyze architecture ram_arch in mc8051_ram.vhd(33)
+HDL-1007 : analyze configuration mc8051_ram_sim_cfg in mc8051_ram.vhd(50)
+HDL-1007 : analyze VHDL file mc8051_ramx.vhd
+HDL-1007 : analyze entity mc8051_ramx in mc8051_ramx.vhd(19)
+HDL-1007 : analyze architecture ramx_arch in mc8051_ramx.vhd(32)
+HDL-1007 : analyze configuration mc8051_ramx_sim_cfg in mc8051_ramx.vhd(47)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_p.vhd
+HDL-1007 : analyze package mc8051_p in ../vhdl/mc8051_p.vhd(69)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_ovcy.vhd
+HDL-1007 : analyze entity addsub_ovcy in ../vhdl/addsub_ovcy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_ovcy.vhd(85)
+HDL-1007 : analyze configuration addsub_ovcy_rtl_cfg in ../vhdl/addsub_ovcy.vhd(159)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_cy.vhd
+HDL-1007 : analyze entity addsub_cy in ../vhdl/addsub_cy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_cy.vhd(85)
+HDL-1007 : analyze configuration addsub_cy_rtl_cfg in ../vhdl/addsub_cy.vhd(115)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_core.vhd
+HDL-1007 : analyze entity addsub_core in ../vhdl/addsub_core.vhd(76)
+HDL-1007 : analyze architecture struc in ../vhdl/addsub_core.vhd(91)
+HDL-1007 : analyze configuration addsub_core_struc_cfg in ../vhdl/addsub_core.vhd(142)
+HDL-1007 : analyze VHDL file ../vhdl/alucore.vhd
+HDL-1007 : analyze entity alucore in ../vhdl/alucore.vhd(73)
+HDL-1007 : analyze architecture rtl in ../vhdl/alucore.vhd(94)
+HDL-1007 : analyze configuration alucore_rtl_cfg in ../vhdl/alucore.vhd(191)
+HDL-1007 : analyze VHDL file ../vhdl/alumux.vhd
+HDL-1007 : analyze entity alumux in ../vhdl/alumux.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/alumux.vhd(125)
+HDL-1007 : analyze configuration alumux_rtl_cfg in ../vhdl/alumux.vhd(494)
+HDL-1007 : analyze VHDL file ../vhdl/comb_divider.vhd
+HDL-1007 : analyze entity comb_divider in ../vhdl/comb_divider.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_divider.vhd(82)
+HDL-1007 : analyze configuration comb_divider_rtl_cfg in ../vhdl/comb_divider.vhd(130)
+HDL-1007 : analyze VHDL file ../vhdl/comb_mltplr.vhd
+HDL-1007 : analyze entity comb_mltplr in ../vhdl/comb_mltplr.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_mltplr.vhd(82)
+HDL-1007 : analyze configuration comb_mltplr_rtl_cfg in ../vhdl/comb_mltplr.vhd(104)
+HDL-1007 : analyze VHDL file ../vhdl/control_fsm.vhd
+HDL-1007 : analyze entity control_fsm in ../vhdl/control_fsm.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_fsm.vhd(126)
+HDL-1007 : analyze configuration control_fsm_rtl_cfg in ../vhdl/control_fsm.vhd(2231)
+HDL-1007 : analyze VHDL file ../vhdl/control_mem.vhd
+HDL-1007 : analyze entity control_mem in ../vhdl/control_mem.vhd(75)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_mem.vhd(206)
+HDL-1007 : analyze configuration control_mem_rtl_cfg in ../vhdl/control_mem.vhd(1285)
+HDL-1007 : analyze VHDL file ../vhdl/dcml_adjust.vhd
+HDL-1007 : analyze entity dcml_adjust in ../vhdl/dcml_adjust.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/dcml_adjust.vhd(90)
+HDL-1007 : analyze configuration dcml_adjust_rtl_cfg in ../vhdl/dcml_adjust.vhd(168)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_alu.vhd
+HDL-1007 : analyze entity mc8051_alu in ../vhdl/mc8051_alu.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_alu.vhd(104)
+HDL-1007 : analyze configuration mc8051_alu_struc_cfg in ../vhdl/mc8051_alu.vhd(235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_control.vhd
+HDL-1007 : analyze entity mc8051_control in ../vhdl/mc8051_control.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_control.vhd(142)
+HDL-1007 : analyze configuration mc8051_control_struc_cfg in ../vhdl/mc8051_control.vhd(344)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_siu.vhd
+HDL-1007 : analyze entity mc8051_siu in ../vhdl/mc8051_siu.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_siu.vhd(92)
+HDL-1007 : analyze configuration mc8051_siu_rtl_cfg in ../vhdl/mc8051_siu.vhd(1235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_tmrctr.vhd
+HDL-1007 : analyze entity mc8051_tmrctr in ../vhdl/mc8051_tmrctr.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_tmrctr.vhd(96)
+HDL-1007 : analyze configuration mc8051_tmrctr_rtl_cfg in ../vhdl/mc8051_tmrctr.vhd(797)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_core.vhd
+HDL-1007 : analyze entity mc8051_core in ../vhdl/mc8051_core.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_core.vhd(121)
+HDL-1007 : analyze configuration mc8051_core_struc_cfg in ../vhdl/mc8051_core.vhd(276)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_top.vhd
+HDL-1007 : analyze entity mc8051_top in ../vhdl/mc8051_top.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_top.vhd(104)
+HDL-1007 : analyze configuration mc8051_top_struc_cfg in ../vhdl/mc8051_top.vhd(200)
+HDL-8007 ERROR: 'mc8051_rom_sim_cfg' is not compiled in library 'work' in ../vhdl/mc8051_top.vhd(206)
+HDL-8007 ERROR: ignore unit mc8051_top_struc_cfg due to previous errors in ../vhdl/mc8051_top.vhd(215)
+HDL-1007 : VHDL file '../vhdl/mc8051_top.vhd' ignored due to errors
+HDL-1007 : analyze VHDL file MC8051OnBoard.vhd
+HDL-1007 : analyze entity mc8051onboard in MC8051OnBoard.vhd(9)
+HDL-1007 : analyze architecture rtl in MC8051OnBoard.vhd(19)
+HDL-1007 : analyze verilog file al_ip/pll.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom_td.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom.v
+GUI-8003 ERROR: mc8051_ram.v is missing!
+GUI-8003 ERROR: mc8051_rom.v is missing!
+GUI-8003 ERROR: ../MC8051OnBoard.v is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_p.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_core_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_core_struc.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_cy_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_cy_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_cy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_ovcy_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_ovcy_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_ovcy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alucore_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alucore_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alucore_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alumux_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alumux_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alumux_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_divider_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_divider_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_divider_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_mltplr_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_mltplr_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_mltplr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_fsm_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_fsm_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_fsm_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_mem_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_mem_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_mem_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/dcml_adjust_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/dcml_adjust_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/dcml_adjust_rtl_cfg.vhd is missing!
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/mc8051_p.vhd'
+HDL-1007 : analyze VHDL file mc8051_ram.vhd
+HDL-1007 : analyze entity mc8051_ram in mc8051_ram.vhd(19)
+HDL-1007 : analyze architecture ram_arch in mc8051_ram.vhd(33)
+HDL-1007 : analyze configuration mc8051_ram_sim_cfg in mc8051_ram.vhd(50)
+HDL-1007 : analyze VHDL file mc8051_ramx.vhd
+HDL-1007 : analyze entity mc8051_ramx in mc8051_ramx.vhd(19)
+HDL-1007 : analyze architecture ramx_arch in mc8051_ramx.vhd(32)
+HDL-1007 : analyze configuration mc8051_ramx_sim_cfg in mc8051_ramx.vhd(47)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_p.vhd
+HDL-1007 : analyze package mc8051_p in ../vhdl/mc8051_p.vhd(69)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_ovcy.vhd
+HDL-1007 : analyze entity addsub_ovcy in ../vhdl/addsub_ovcy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_ovcy.vhd(85)
+HDL-1007 : analyze configuration addsub_ovcy_rtl_cfg in ../vhdl/addsub_ovcy.vhd(159)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_cy.vhd
+HDL-1007 : analyze entity addsub_cy in ../vhdl/addsub_cy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_cy.vhd(85)
+HDL-1007 : analyze configuration addsub_cy_rtl_cfg in ../vhdl/addsub_cy.vhd(115)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_core.vhd
+HDL-1007 : analyze entity addsub_core in ../vhdl/addsub_core.vhd(76)
+HDL-1007 : analyze architecture struc in ../vhdl/addsub_core.vhd(91)
+HDL-1007 : analyze configuration addsub_core_struc_cfg in ../vhdl/addsub_core.vhd(142)
+HDL-1007 : analyze VHDL file ../vhdl/alucore.vhd
+HDL-1007 : analyze entity alucore in ../vhdl/alucore.vhd(73)
+HDL-1007 : analyze architecture rtl in ../vhdl/alucore.vhd(94)
+HDL-1007 : analyze configuration alucore_rtl_cfg in ../vhdl/alucore.vhd(191)
+HDL-1007 : analyze VHDL file ../vhdl/alumux.vhd
+HDL-1007 : analyze entity alumux in ../vhdl/alumux.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/alumux.vhd(125)
+HDL-1007 : analyze configuration alumux_rtl_cfg in ../vhdl/alumux.vhd(494)
+HDL-1007 : analyze VHDL file ../vhdl/comb_divider.vhd
+HDL-1007 : analyze entity comb_divider in ../vhdl/comb_divider.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_divider.vhd(82)
+HDL-1007 : analyze configuration comb_divider_rtl_cfg in ../vhdl/comb_divider.vhd(130)
+HDL-1007 : analyze VHDL file ../vhdl/comb_mltplr.vhd
+HDL-1007 : analyze entity comb_mltplr in ../vhdl/comb_mltplr.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_mltplr.vhd(82)
+HDL-1007 : analyze configuration comb_mltplr_rtl_cfg in ../vhdl/comb_mltplr.vhd(104)
+HDL-1007 : analyze VHDL file ../vhdl/control_fsm.vhd
+HDL-1007 : analyze entity control_fsm in ../vhdl/control_fsm.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_fsm.vhd(126)
+HDL-1007 : analyze configuration control_fsm_rtl_cfg in ../vhdl/control_fsm.vhd(2231)
+HDL-1007 : analyze VHDL file ../vhdl/control_mem.vhd
+HDL-1007 : analyze entity control_mem in ../vhdl/control_mem.vhd(75)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_mem.vhd(206)
+HDL-1007 : analyze configuration control_mem_rtl_cfg in ../vhdl/control_mem.vhd(1285)
+HDL-1007 : analyze VHDL file ../vhdl/dcml_adjust.vhd
+HDL-1007 : analyze entity dcml_adjust in ../vhdl/dcml_adjust.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/dcml_adjust.vhd(90)
+HDL-1007 : analyze configuration dcml_adjust_rtl_cfg in ../vhdl/dcml_adjust.vhd(168)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_alu.vhd
+HDL-1007 : analyze entity mc8051_alu in ../vhdl/mc8051_alu.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_alu.vhd(104)
+HDL-1007 : analyze configuration mc8051_alu_struc_cfg in ../vhdl/mc8051_alu.vhd(235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_control.vhd
+HDL-1007 : analyze entity mc8051_control in ../vhdl/mc8051_control.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_control.vhd(142)
+HDL-1007 : analyze configuration mc8051_control_struc_cfg in ../vhdl/mc8051_control.vhd(344)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_siu.vhd
+HDL-1007 : analyze entity mc8051_siu in ../vhdl/mc8051_siu.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_siu.vhd(92)
+HDL-1007 : analyze configuration mc8051_siu_rtl_cfg in ../vhdl/mc8051_siu.vhd(1235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_tmrctr.vhd
+HDL-1007 : analyze entity mc8051_tmrctr in ../vhdl/mc8051_tmrctr.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_tmrctr.vhd(96)
+HDL-1007 : analyze configuration mc8051_tmrctr_rtl_cfg in ../vhdl/mc8051_tmrctr.vhd(797)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_core.vhd
+HDL-1007 : analyze entity mc8051_core in ../vhdl/mc8051_core.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_core.vhd(121)
+HDL-1007 : analyze configuration mc8051_core_struc_cfg in ../vhdl/mc8051_core.vhd(276)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_top.vhd
+HDL-1007 : analyze entity mc8051_top in ../vhdl/mc8051_top.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_top.vhd(104)
+HDL-1007 : analyze configuration mc8051_top_struc_cfg in ../vhdl/mc8051_top.vhd(200)
+HDL-1007 : analyze VHDL file MC8051OnBoard.vhd
+HDL-1007 : analyze entity mc8051onboard in MC8051OnBoard.vhd(9)
+HDL-1007 : analyze architecture rtl in MC8051OnBoard.vhd(19)
+HDL-1007 : analyze verilog file al_ip/pll.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom_td.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom.v
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/mc8051_p.vhd'
+HDL-1007 : analyze VHDL file mc8051_ram.vhd
+HDL-1007 : analyze entity mc8051_ram in mc8051_ram.vhd(19)
+HDL-1007 : analyze architecture ram_arch in mc8051_ram.vhd(33)
+HDL-1007 : analyze configuration mc8051_ram_sim_cfg in mc8051_ram.vhd(50)
+HDL-1007 : analyze VHDL file mc8051_ramx.vhd
+HDL-1007 : analyze entity mc8051_ramx in mc8051_ramx.vhd(19)
+HDL-1007 : analyze architecture ramx_arch in mc8051_ramx.vhd(32)
+HDL-1007 : analyze configuration mc8051_ramx_sim_cfg in mc8051_ramx.vhd(47)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_p.vhd
+HDL-1007 : analyze package mc8051_p in ../vhdl/mc8051_p.vhd(69)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_ovcy.vhd
+HDL-1007 : analyze entity addsub_ovcy in ../vhdl/addsub_ovcy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_ovcy.vhd(85)
+HDL-1007 : analyze configuration addsub_ovcy_rtl_cfg in ../vhdl/addsub_ovcy.vhd(159)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_cy.vhd
+HDL-1007 : analyze entity addsub_cy in ../vhdl/addsub_cy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_cy.vhd(85)
+HDL-1007 : analyze configuration addsub_cy_rtl_cfg in ../vhdl/addsub_cy.vhd(115)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_core.vhd
+HDL-1007 : analyze entity addsub_core in ../vhdl/addsub_core.vhd(76)
+HDL-1007 : analyze architecture struc in ../vhdl/addsub_core.vhd(91)
+HDL-1007 : analyze configuration addsub_core_struc_cfg in ../vhdl/addsub_core.vhd(142)
+HDL-1007 : analyze VHDL file ../vhdl/alucore.vhd
+HDL-1007 : analyze entity alucore in ../vhdl/alucore.vhd(73)
+HDL-1007 : analyze architecture rtl in ../vhdl/alucore.vhd(94)
+HDL-1007 : analyze configuration alucore_rtl_cfg in ../vhdl/alucore.vhd(191)
+HDL-1007 : analyze VHDL file ../vhdl/alumux.vhd
+HDL-1007 : analyze entity alumux in ../vhdl/alumux.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/alumux.vhd(125)
+HDL-1007 : analyze configuration alumux_rtl_cfg in ../vhdl/alumux.vhd(494)
+HDL-1007 : analyze VHDL file ../vhdl/comb_divider.vhd
+HDL-1007 : analyze entity comb_divider in ../vhdl/comb_divider.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_divider.vhd(82)
+HDL-1007 : analyze configuration comb_divider_rtl_cfg in ../vhdl/comb_divider.vhd(130)
+HDL-1007 : analyze VHDL file ../vhdl/comb_mltplr.vhd
+HDL-1007 : analyze entity comb_mltplr in ../vhdl/comb_mltplr.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_mltplr.vhd(82)
+HDL-1007 : analyze configuration comb_mltplr_rtl_cfg in ../vhdl/comb_mltplr.vhd(104)
+HDL-1007 : analyze VHDL file ../vhdl/control_fsm.vhd
+HDL-1007 : analyze entity control_fsm in ../vhdl/control_fsm.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_fsm.vhd(126)
+HDL-1007 : analyze configuration control_fsm_rtl_cfg in ../vhdl/control_fsm.vhd(2231)
+HDL-1007 : analyze VHDL file ../vhdl/control_mem.vhd
+HDL-1007 : analyze entity control_mem in ../vhdl/control_mem.vhd(75)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_mem.vhd(206)
+HDL-1007 : analyze configuration control_mem_rtl_cfg in ../vhdl/control_mem.vhd(1285)
+HDL-1007 : analyze VHDL file ../vhdl/dcml_adjust.vhd
+HDL-1007 : analyze entity dcml_adjust in ../vhdl/dcml_adjust.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/dcml_adjust.vhd(90)
+HDL-1007 : analyze configuration dcml_adjust_rtl_cfg in ../vhdl/dcml_adjust.vhd(168)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_alu.vhd
+HDL-1007 : analyze entity mc8051_alu in ../vhdl/mc8051_alu.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_alu.vhd(104)
+HDL-1007 : analyze configuration mc8051_alu_struc_cfg in ../vhdl/mc8051_alu.vhd(235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_control.vhd
+HDL-1007 : analyze entity mc8051_control in ../vhdl/mc8051_control.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_control.vhd(142)
+HDL-1007 : analyze configuration mc8051_control_struc_cfg in ../vhdl/mc8051_control.vhd(344)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_siu.vhd
+HDL-1007 : analyze entity mc8051_siu in ../vhdl/mc8051_siu.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_siu.vhd(92)
+HDL-1007 : analyze configuration mc8051_siu_rtl_cfg in ../vhdl/mc8051_siu.vhd(1235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_tmrctr.vhd
+HDL-1007 : analyze entity mc8051_tmrctr in ../vhdl/mc8051_tmrctr.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_tmrctr.vhd(96)
+HDL-1007 : analyze configuration mc8051_tmrctr_rtl_cfg in ../vhdl/mc8051_tmrctr.vhd(797)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_core.vhd
+HDL-1007 : analyze entity mc8051_core in ../vhdl/mc8051_core.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_core.vhd(121)
+HDL-1007 : analyze configuration mc8051_core_struc_cfg in ../vhdl/mc8051_core.vhd(276)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_top.vhd
+HDL-1007 : analyze entity mc8051_top in ../vhdl/mc8051_top.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_top.vhd(104)
+HDL-1007 : analyze configuration mc8051_top_struc_cfg in ../vhdl/mc8051_top.vhd(200)
+HDL-1007 : analyze VHDL file MC8051OnBoard.vhd
+HDL-1007 : analyze entity mc8051onboard in MC8051OnBoard.vhd(9)
+HDL-1007 : analyze architecture rtl in MC8051OnBoard.vhd(19)
+HDL-1007 : analyze verilog file al_ip/pll.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom_td.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom.v
+RUN-1002 : start command "elaborate -top mc8051onboard"
+HDL-1007 : elaborate MC8051OnBoard(rtl) in MC8051OnBoard.vhd(9)
+HDL-1007 : switch to vlog to elaborate module pll in MC8051OnBoard.vhd(82)
+HDL-1007 : elaborate module pll in al_ip/pll.v(24)
+HDL-1007 : elaborate module EG_LOGIC_BUFG in C:/Anlogic/TD4.6.2/arch/eagle_macro.v(81)
+HDL-1007 : elaborate module EG_PHY_PLL(FIN="24.000",REFCLK_DIV=2,CLKC0_DIV=59,CLKC1_DIV=64,CLKC2_DIV=118,CLKC0_ENABLE="ENABLE",CLKC1_ENABLE="ENABLE",CLKC2_ENABLE="ENABLE",FEEDBK_PATH="CLKC0_EXT",STDBY_ENABLE="DISABLE",CLKC0_CPHASE=58,CLKC1_CPHASE=63,CLKC2_CPHASE=117,GMC_GAIN=0,ICP_CURRENT=9,KVCO=2,LPF_CAPACITOR=2,LPF_RESISTOR=8,SYNC_ENABLE="DISABLE") in C:/Anlogic/TD4.6.2/arch/eagle_macro.v(986)
+HDL-1007 : back to vhdl to elaborate in MC8051OnBoard.vhd(82)
+HDL-1007 : elaborate mc8051_top(struc) in ../vhdl/mc8051_top.vhd(74)
+HDL-1007 : elaborate mc8051_core(struc) in ../vhdl/mc8051_core.vhd(75)
+HDL-1007 : elaborate mc8051_control(struc) in ../vhdl/mc8051_control.vhd(74)
+HDL-1007 : elaborate control_fsm(rtl) in ../vhdl/control_fsm.vhd(74)
+HDL-1007 : others clause is never selected in ../vhdl/control_fsm.vhd(2223)
+HDL-1007 : elaborate control_mem(rtl) in ../vhdl/control_mem.vhd(75)
+HDL-1007 : others clause is never selected in ../vhdl/control_mem.vhd(833)
+HDL-1007 : others clause is never selected in ../vhdl/control_mem.vhd(932)
+HDL-1007 : others clause is never selected in ../vhdl/control_mem.vhd(938)
+HDL-1007 : others clause is never selected in ../vhdl/control_mem.vhd(1250)
+HDL-1007 : elaborate mc8051_alu(struc) in ../vhdl/mc8051_alu.vhd(75)
+HDL-1007 : elaborate alumux(rtl) in ../vhdl/alumux.vhd(74)
+HDL-1007 : elaborate alucore(rtl) in ../vhdl/alucore.vhd(73)
+HDL-1007 : elaborate addsub_core(dwidth=8)(struc) in ../vhdl/addsub_core.vhd(76)
+HDL-1007 : elaborate addsub_cy(rtl) in ../vhdl/addsub_cy.vhd(72)
+HDL-1007 : elaborate addsub_ovcy(rtl) in ../vhdl/addsub_ovcy.vhd(72)
+HDL-1007 : elaborate comb_mltplr(rtl) in ../vhdl/comb_mltplr.vhd(72)
+HDL-1007 : elaborate comb_divider(rtl) in ../vhdl/comb_divider.vhd(72)
+HDL-1007 : elaborate dcml_adjust(dwidth=8)(rtl) in ../vhdl/dcml_adjust.vhd(72)
+HDL-1007 : elaborate mc8051_siu(rtl) in ../vhdl/mc8051_siu.vhd(71)
+HDL-1007 : others clause is never selected in ../vhdl/mc8051_siu.vhd(816)
+HDL-1007 : others clause is never selected in ../vhdl/mc8051_siu.vhd(1215)
+HDL-1007 : elaborate mc8051_tmrctr(rtl) in ../vhdl/mc8051_tmrctr.vhd(71)
+HDL-1007 : others clause is never selected in ../vhdl/mc8051_tmrctr.vhd(541)
+HDL-1007 : others clause is never selected in ../vhdl/mc8051_tmrctr.vhd(784)
+HDL-1007 : elaborate mc8051_ram(ram_arch) in mc8051_ram.vhd(19)
+HDL-1007 : extracting RAM for identifier 'ram_mem' in mc8051_ram.vhd(36)
+HDL-1007 : switch to vlog to elaborate module mc8051_rom in ../vhdl/mc8051_top.vhd(181)
+HDL-1007 : elaborate module mc8051_rom in al_ip/mc8051_rom.v(1)
+HDL-1007 : elaborate module mc8051_rom_td in al_ip/mc8051_rom_td.v(14)
+HDL-1007 : elaborate module EG_LOGIC_BRAM(DATA_WIDTH_A=8,DATA_WIDTH_B=8,ADDR_WIDTH_A=12,ADDR_WIDTH_B=12,DATA_DEPTH_A=4096,DATA_DEPTH_B=4096,MODE="SP",FILL_ALL="11111111") in C:/Anlogic/TD4.6.2/arch/eagle_macro.v(1072)
+HDL-1007 : back to vhdl to elaborate in ../vhdl/mc8051_top.vhd(181)
+HDL-1007 : elaborate mc8051_ramx(ramx_arch) in mc8051_ramx.vhd(19)
+HDL-1007 : extracting RAM for identifier 'ramx_mem' in mc8051_ramx.vhd(34)
+HDL-1200 : Current top model is MC8051OnBoard
+HDL-1100 : Inferred 2 RAMs.
+RUN-1003 : finish command "elaborate -top mc8051onboard" in  2.278080s wall, 2.262014s user + 0.015600s system = 2.277615s CPU (100.0%)
+
+RUN-1004 : used memory is 214 MB, reserved memory is 174 MB, peak memory is 260 MB
+GUI-5001 WARNING: Found no ADC files
+RUN-1002 : start command "optimize_rtl"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+SYN-1012 : SanityCheck: Model "MC8051OnBoard"
+SYN-1012 : SanityCheck: Model "mc8051_top"
+SYN-1012 : SanityCheck: Model "mc8051_core"
+SYN-1012 : SanityCheck: Model "mc8051_siu"
+SYN-1012 : SanityCheck: Model "mc8051_tmrctr"
+SYN-1012 : SanityCheck: Model "mc8051_alu"
+SYN-1012 : SanityCheck: Model "dcml_adjust(dwidth=8)"
+SYN-1012 : SanityCheck: Model "comb_divider"
+SYN-1012 : SanityCheck: Model "comb_mltplr"
+SYN-1012 : SanityCheck: Model "addsub_core(dwidth=8)"
+SYN-1012 : SanityCheck: Model "addsub_cy"
+SYN-1012 : SanityCheck: Model "addsub_ovcy"
+SYN-1012 : SanityCheck: Model "alucore"
+SYN-1012 : SanityCheck: Model "alumux"
+SYN-1012 : SanityCheck: Model "mc8051_control"
+SYN-1012 : SanityCheck: Model "control_fsm"
+SYN-1012 : SanityCheck: Model "control_mem"
+SYN-1012 : SanityCheck: Model "mc8051_ram"
+SYN-1012 : SanityCheck: Model "mc8051_ramx"
+SYN-1012 : SanityCheck: Model "mc8051_rom"
+SYN-1012 : SanityCheck: Model "mc8051_rom_td"
+SYN-1012 : SanityCheck: Model "pll"
+SYN-1043 : Mark pll as IO macro for instance bufg_feedback
+SYN-1016 : Merged 592 instances.
+SYN-1016 : Merged 3 instances.
+SYN-1016 : Merged 865 instances.
+SYN-1016 : Merged 4 instances.
+SYN-1026 : Infer Logic BRAM(ram_ram_mem0)
+	 port mode: single port
+	 port a size: 128 x 8	 write mode: READBEFOREWRITE
+	 port b size: 128 x 8	 write mode: NORMAL
+SYN-1023 : Infer 0 Logic DRAMs, 1 Logic BRAMs.
+SYN-1026 : Infer Logic BRAM(ram_ramx_mem0)
+	 port mode: single port
+	 port a size: 8192 x 8	 write mode: READBEFOREWRITE
+	 port b size: 8192 x 8	 write mode: NORMAL
+SYN-1023 : Infer 0 Logic DRAMs, 1 Logic BRAMs.
+SYN-1011 : Flatten model MC8051OnBoard
+SYN-1011 : Flatten model mc8051_top
+SYN-1011 : Flatten model mc8051_core
+SYN-1011 : Flatten model mc8051_siu
+SYN-1011 : Flatten model mc8051_tmrctr
+SYN-1011 : Flatten model mc8051_alu
+SYN-1011 : Flatten model dcml_adjust(dwidth=8)
+SYN-1011 : Flatten model buf_8
+SYN-1011 : Flatten model comb_divider
+SYN-1011 : Flatten model comb_mltplr
+SYN-1011 : Flatten model addsub_core(dwidth=8)
+SYN-1011 : Flatten model addsub_cy
+SYN-1011 : Flatten model addsub_ovcy
+SYN-1016 : Merged 2 instances.
+SYN-1011 : Flatten model alucore
+SYN-1011 : Flatten model and_8
+SYN-1011 : Flatten model or_8
+SYN-1011 : Flatten model xor_8
+SYN-1011 : Flatten model inv_9
+SYN-1011 : Flatten model alumux
+SYN-1016 : Merged 7 instances.
+SYN-1011 : Flatten model mc8051_control
+SYN-1011 : Flatten model control_fsm
+SYN-1011 : Flatten model buf_3
+SYN-1011 : Flatten model inv_4
+SYN-1011 : Flatten model inv_3
+SYN-1011 : Flatten model buf_4
+SYN-1011 : Flatten model buf_2
+SYN-1016 : Merged 1 instances.
+SYN-1011 : Flatten model control_mem
+SYN-1011 : Flatten model reduce_nor_8
+SYN-1011 : Flatten model or_2
+SYN-1011 : Flatten model reduce_nor_2
+SYN-1011 : Flatten model Decoder_1
+SYN-1011 : Flatten model reduce_nor_22
+SYN-1011 : Flatten model Decoder_4
+SYN-1011 : Flatten model Decoder_3
+SYN-1011 : Flatten model buf_16
+SYN-1011 : Flatten model buf_7
+SYN-1011 : Flatten model reduce_nor_5
+SYN-1011 : Flatten model reduce_or_3
+SYN-1011 : Flatten model and_16
+SYN-1011 : Flatten model or_4
+SYN-1011 : Flatten model buf_6
+SYN-1011 : Flatten model reduce_nor_23
+SYN-1016 : Merged 26 instances.
+SYN-1016 : Merged 30 instances.
+SYN-1016 : Merged 10 instances.
+SYN-1011 : Flatten model mc8051_ram
+SYN-1011 : Flatten model mc8051_ramx
+SYN-1011 : Flatten model mc8051_rom
+SYN-1011 : Flatten model mc8051_rom_td
+SYN-1016 : Merged 6 instances.
+SYN-1011 : Flatten model pll
+SYN-1016 : Merged 44 instances.
+SYN-1014 : Optimize round 1
+SYN-1044 : Optimized 1 inv instances.
+SYN-1032 : 6216/588 useful/useless nets, 5956/525 useful/useless insts
+SYN-1017 : Remove 3 const input seq instances
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/reg0_b0
+SYN-1002 :     u8051_inst/i_mc8051_core/i_mc8051_control/i_control_mem/reg6_b0
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/reg0_b1
+SYN-1018 : Transformed 3 mux instances.
+SYN-1019 : Optimized 45 mux instances.
+SYN-1021 : Optimized 128 onehot mux instances.
+SYN-1020 : Optimized 1560 distributor mux.
+SYN-1016 : Merged 3226 instances.
+SYN-1015 : Optimize round 1, 6099 better
+SYN-1014 : Optimize round 2
+SYN-1044 : Optimized 2 inv instances.
+SYN-1032 : 5733/111 useful/useless nets, 5489/2417 useful/useless insts
+SYN-1017 : Remove 6 const input seq instances
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t0ff0_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t1ff0_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t0ff1_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t1ff1_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t0ff2_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t1ff2_reg
+SYN-1019 : Optimized 7 mux instances.
+SYN-1020 : Optimized 2 distributor mux.
+SYN-1016 : Merged 7 instances.
+SYN-1015 : Optimize round 2, 2501 better
+SYN-1014 : Optimize round 3
+SYN-1032 : 5677/41 useful/useless nets, 5433/42 useful/useless insts
+SYN-1019 : Optimized 0 mux instances.
+SYN-1016 : Merged 4 instances.
+SYN-1015 : Optimize round 3, 89 better
+SYN-1014 : Optimize round 4
+SYN-1032 : 5673/0 useful/useless nets, 5429/0 useful/useless insts
+SYN-1019 : Optimized 0 mux instances.
+SYN-1015 : Optimize round 4, 0 better
+RUN-1003 : finish command "optimize_rtl" in  3.030891s wall, 2.995219s user + 0.000000s system = 2.995219s CPU (98.8%)
+
+RUN-1004 : used memory is 338 MB, reserved memory is 296 MB, peak memory is 342 MB
+RUN-1002 : start command "report_area -file mc8051_top_rtl.area"
+RUN-1001 : standard
+***Report Model: MC8051OnBoard***
+
+IO Statistics
+#IO                     3
+  #input                2
+  #output               1
+  #inout                0
+
+Gate Statistics
+#Basic gates         3863
+  #and               1697
+  #nand                 0
+  #or                 360
+  #nor                  0
+  #xor                 15
+  #xnor                 0
+  #buf                  0
+  #not                361
+  #bufif1               0
+  #MX21               950
+  #FADD                 0
+  #DFF                480
+  #LATCH                0
+#MACRO_ADD             48
+#MACRO_EQ             250
+#MACRO_MULT             2
+#MACRO_MUX           1258
+
+RUN-1001 : 
+Report Hierarchy Area:
++------------------------------------------------+
+|Instance |Module        |gates  |seq    |macros |
++------------------------------------------------+
+|top      |MC8051OnBoard |3383   |480    |304    |
++------------------------------------------------+
+
+RUN-1002 : start command "export_db mc8051_top_rtl.db"
+RUN-1001 : Exported /
+RUN-1001 : Exported libs
+RUN-1001 : Exported entities
+RUN-1001 : Exported ports
+RUN-1001 : Exported pins
+RUN-1001 : Exported instances
+RUN-1001 : Exported nets
+RUN-1001 : Exported buses
+RUN-1001 : Exported models
+RUN-1001 : Exported congestions
+RUN-1001 : Exported violations
+RUN-1001 : Exported IO constraints
+RUN-1001 : Exported Inst constraints
+RUN-1001 : Exported flow parameters
+RUN-1003 : finish command "export_db mc8051_top_rtl.db" in  3.213640s wall, 2.168414s user + 0.046800s system = 2.215214s CPU (68.9%)
+
+RUN-1004 : used memory is 405 MB, reserved memory is 366 MB, peak memory is 405 MB
+RUN-1002 : start command "optimize_gate -packarea mc8051_top_gate.area"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+SYN-2001 : Map 3 IOs to PADs
+SYN-2501 : Processed 0 LOGIC_BUF instances.
+SYN-2501 : 1 BUFG to GCLK
+SYN-2512 : LOGIC BRAM "u8051_inst/i_mc8051_ram/ram_ram_mem0"
+SYN-2512 : LOGIC BRAM "u8051_inst/i_mc8051_ramx/ram_ramx_mem0"
+SYN-2512 : LOGIC BRAM "u8051_inst/i_mc8051_rom/u_rom/inst"
+SYN-2571 : Map 2 macro multiplier
+SYN-2571 : Optimize after map_dsp, round 1
+SYN-1032 : 5682/0 useful/useless nets, 5449/0 useful/useless insts
+SYN-1016 : Merged 15 instances.
+SYN-2571 : Optimize after map_dsp, round 1, 15 better
+SYN-2571 : Optimize after map_dsp, round 2
+SYN-1032 : 5664/0 useful/useless nets, 5434/0 useful/useless insts
+SYN-2571 : Optimize after map_dsp, round 2, 0 better
+SYN-2501 : Optimize round 1
+SYN-1032 : 7817/0 useful/useless nets, 7587/0 useful/useless insts
+SYN-1016 : Merged 1607 instances.
+SYN-2501 : Optimize round 1, 3330 better
+SYN-2501 : Optimize round 2
+SYN-1032 : 6210/0 useful/useless nets, 5980/0 useful/useless insts
+SYN-2501 : Optimize round 2, 0 better
+SYN-2501 : Map 48 macro adder
+SYN-3001 : Mapper mapped 63 instances into 3 LUTs, name keeping = 33%.
+SYN-3001 : Mapper mapped 63 instances into 3 LUTs, name keeping = 33%.
+SYN-3001 : Mapper mapped 63 instances into 3 LUTs, name keeping = 100%.
+SYN-3001 : Mapper mapped 63 instances into 2 LUTs, name keeping = 50%.
+SYN-3001 : Mapper mapped 63 instances into 3 LUTs, name keeping = 100%.
+SYN-1032 : 18518/9 useful/useless nets, 18288/0 useful/useless insts
+SYN-3001 : X or Z is treated as constant in optimizing instance u8051_inst/i_mc8051_core/i_mc8051_control/_al_const_x.
+SYN-3001 : Running gate level optimization.
+SYN-2581 : Mapping with K=4, #lut = 1713 (3.25), #lev = 13 (8.47)
+SYN-2551 : Post LUT mapping optimization.
+SYN-3001 : Logic optimization runtime opt =   1.99 sec, map =   0.00 sec
+SYN-3001 : Mapper mapped 17384 instances into 1591 LUTs, name keeping = 44%.
+SYN-3001 : Mapper removed 23 lut buffers
+SYN-1001 : Packing model "MC8051OnBoard" ...
+SYN-4010 : Pack lib has 42 rtl pack models with 15 top pack blocks
+SYN-1014 : Optimize round 1
+SYN-1032 : 2261/325 useful/useless nets, 2181/328 useful/useless insts
+SYN-1015 : Optimize round 1, 653 better
+SYN-1014 : Optimize round 2
+SYN-1032 : 2189/0 useful/useless nets, 2109/72 useful/useless insts
+SYN-1015 : Optimize round 2, 0 better
+SYN-4002 : Packing 456 DFF/LATCH to SEQ ...
+SYN-4009 : Pack 6 carry chain into lslice
+SYN-4007 : Packing 49 adder to BLE ...
+SYN-4008 : Packed 49 adder and 0 SEQ to BLE.
+SYN-4007 : Packing 0 gate4 to BLE ...
+SYN-4008 : Packed 0 gate4 and 0 SEQ to BLE.
+SYN-4012 : Packed 0 FxMUX
+SYN-4007 : Packing 0 MUX to BLE ...
+SYN-4008 : Packed 0 MUX and 0 SEQ to BLE.
+SYN-4007 : Packing 1531 LUT to BLE ...
+SYN-4008 : Packed 1531 LUT and 441 SEQ to BLE.
+SYN-4003 : Packing 15 remaining SEQ's ...
+SYN-4004 : #0: Packed 0 SEQ (15 nodes)...
+SYN-4004 : #1: Packed 12 SEQ (17 nodes)...
+SYN-4005 : Packed 12 SEQ with LUT/SLICE
+SYN-4006 : 1078 single LUT's are left
+SYN-4006 : 3 single SEQ's are left
+SYN-4011 : Packing model "MC8051OnBoard" (AL_USER_NORMAL) with 1534/1592 primitive instances ...
+RUN-1002 : start command "report_area -file mc8051_top_gate.area"
+RUN-1001 : standard
+***Report Model: MC8051OnBoard***
+
+IO Statistics
+#IO                     3
+  #input                2
+  #output               1
+  #inout                0
+
+Utilization Statistics
+#lut                 1625   out of  19600    8.29%
+#reg                  456   out of  19600    2.33%
+#le                  1628
+  #lut only          1172   out of   1628   71.99%
+  #reg only             3   out of   1628    0.18%
+  #lut&reg            453   out of   1628   27.83%
+#dsp                    1   out of     29    3.45%
+#bram                   2   out of     64    3.13%
+  #bram9k               2
+  #fifo9k               0
+#bram32k                0   out of     16    0.00%
+#pad                    3   out of    188    1.60%
+  #ireg                 0
+  #oreg                 0
+  #treg                 0
+#pll                    1   out of      4   25.00%
+
+RUN-1001 : 
+Report Hierarchy Area:
++---------------------------------------------+
+|Instance |Module        |le    |lut   |seq   |
++---------------------------------------------+
+|top      |MC8051OnBoard |1628  |1625  |456   |
++---------------------------------------------+
+
+RUN-1003 : finish command "optimize_gate -packarea mc8051_top_gate.area" in  5.718143s wall, 5.709637s user + 0.046800s system = 5.756437s CPU (100.7%)
+
+RUN-1004 : used memory is 455 MB, reserved memory is 414 MB, peak memory is 458 MB
+RUN-1002 : start command "legalize_phy_inst"
+SYN-1011 : Flatten model MC8051OnBoard
+RUN-1002 : start command "export_db mc8051_top_gate.db"
+RUN-1001 : Exported /
+RUN-1001 : Exported libs
+RUN-1001 : Exported entities
+RUN-1001 : Exported ports
+RUN-1001 : Exported pins
+RUN-1001 : Exported instances
+RUN-1001 : Exported nets
+RUN-1001 : Exported buses
+RUN-1001 : Exported models
+RUN-1001 : Exported congestions
+RUN-1001 : Exported violations
+RUN-1001 : Exported IO constraints
+RUN-1001 : Exported Inst constraints
+RUN-1001 : Exported flow parameters
+RUN-1003 : finish command "export_db mc8051_top_gate.db" in  3.423004s wall, 2.262014s user + 0.078001s system = 2.340015s CPU (68.4%)
+
+RUN-1004 : used memory is 456 MB, reserved memory is 414 MB, peak memory is 458 MB
+RUN-1002 : start command "place"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+PHY-3001 : Placer runs in 4 thread(s).
+SYN-4016 : Net u_pll/clk0_out driven by BUFG (0 clock/control pins, 1 other pins).
+SYN-4027 : Net mcu_clk_110592 is clkc1 of pll u_pll/pll_inst.
+SYN-4019 : Net sysclk_pad is refclk of pll u_pll/pll_inst.
+SYN-4020 : Net sysclk_pad is fbclk of pll u_pll/pll_inst.
+SYN-4025 : Tag rtl::Net mcu_clk_110592 as clock net
+SYN-4025 : Tag rtl::Net sysclk_pad as clock net
+SYN-4025 : Tag rtl::Net u_pll/clk0_out as clock net
+SYN-4026 : Tagged 3 rtl::Net as clock net
+PHY-1001 : Populate physical database.
+RUN-1001 : There are total 827 instances
+RUN-1001 : 408 mslices, 408 lslices, 3 pads, 2 brams, 1 dsps
+RUN-1001 : There are total 1714 nets
+RUN-1001 : 919 nets have 2 pins
+RUN-1001 : 518 nets have [3 - 5] pins
+RUN-1001 : 190 nets have [6 - 10] pins
+RUN-1001 : 61 nets have [11 - 20] pins
+RUN-1001 : 23 nets have [21 - 99] pins
+RUN-1001 : 3 nets have 100+ pins
+PHY-3001 : Initial placement ...
+PHY-3001 : design contains 825 instances, 816 slices, 13 macros(47 instances)
+PHY-3001 : Start timing update ...
+RUN-1002 : start command "start_timer"
+TMR-5001 WARNING: No sdc constraints found while initiating timer.
+TMR-2505 : Start building timing graph for model MC8051OnBoard.
+TMR-2506 : Build timing graph completely. Port num: 3, tpin num: 7640, tnet num: 1712, tinst num: 825, tnode num: 8911, tedge num: 12224.
+TMR-2507 : Eliminate loop in the timing graph, delete 0 tedges.
+TMR-2508 : Levelizing timing graph completed, there are 39 levels in total.
+TMR-2501 : Timing graph initialized successfully.
+TMR-2503 : Start to update net delay, extr mode = 2.
+TMR-2504 : Update delay of 1712 nets completely.
+TMR-2502 : Annotate delay completely, extr mode = 2.
+TMR-3002 : No user constraint, initiate default constraint.
+TMR-1501 : Assign derive clock DeriveClock to 802 clock pins, and constraint 1271 relative nodes.
+TMR-3005 : Start mapping report constraints, there are 0 constraints in total.
+TMR-3003 : Constraints initiated successfully.
+TMR-3501 : Forward propagation: start to calculate arrival time...
+TMR-3502 : Backward propagation: start to calculate required time...
+TMR-3503 : Timing propagation completes.
+PHY-3001 : End timing update;  0.232139s wall, 0.234002s user + 0.000000s system = 0.234002s CPU (100.8%)
+
+PHY-3001 : Global placement ...
+PHY-3001 : Initial: Len = 500611
+PHY-3001 : Run with size of 4
+PHY-3001 : Cell area utilization is 8%, beta_incr = 0.950041
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 0
+PHY-3002 : Step(1): len = 385697, overlap = 6.75
+PHY-3002 : Step(2): len = 318569, overlap = 6.75
+PHY-3002 : Step(3): len = 282241, overlap = 4.5
+PHY-3002 : Step(4): len = 249127, overlap = 6.75
+PHY-3002 : Step(5): len = 221085, overlap = 9
+PHY-3002 : Step(6): len = 200689, overlap = 14
+PHY-3002 : Step(7): len = 181950, overlap = 16
+PHY-3002 : Step(8): len = 166489, overlap = 17.5
+PHY-3002 : Step(9): len = 151137, overlap = 20.5
+PHY-3002 : Step(10): len = 136793, overlap = 25.5
+PHY-3002 : Step(11): len = 125544, overlap = 30.25
+PHY-3002 : Step(12): len = 114304, overlap = 36.5
+PHY-3002 : Step(13): len = 103378, overlap = 42.5
+PHY-3002 : Step(14): len = 92414, overlap = 51.75
+PHY-3002 : Step(15): len = 83886.4, overlap = 61.75
+PHY-3002 : Step(16): len = 77046, overlap = 73
+PHY-3002 : Step(17): len = 66442.4, overlap = 80.75
+PHY-3002 : Step(18): len = 57374.3, overlap = 84
+PHY-3002 : Step(19): len = 52363.1, overlap = 87.25
+PHY-3002 : Step(20): len = 46316, overlap = 91
+PHY-3002 : Step(21): len = 38175.8, overlap = 99.75
+PHY-3002 : Step(22): len = 34461.4, overlap = 102
+PHY-3002 : Step(23): len = 32467.4, overlap = 103.75
+PHY-3002 : Step(24): len = 28212.1, overlap = 113.5
+PHY-3002 : Step(25): len = 26610.8, overlap = 113.75
+PHY-3002 : Step(26): len = 24173.5, overlap = 115.25
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 1.22227e-05
+PHY-3002 : Step(27): len = 23386.2, overlap = 114.75
+PHY-3002 : Step(28): len = 27235.8, overlap = 107
+PHY-3002 : Step(29): len = 33349.8, overlap = 97.25
+PHY-3002 : Step(30): len = 32107.1, overlap = 99.75
+PHY-3002 : Step(31): len = 31823.5, overlap = 99
+PHY-3002 : Step(32): len = 33330.3, overlap = 94.5
+PHY-3002 : Step(33): len = 34555, overlap = 93.75
+PHY-3002 : Step(34): len = 34955.5, overlap = 93.5
+PHY-3002 : Step(35): len = 36116.2, overlap = 88
+PHY-3002 : Step(36): len = 36944.1, overlap = 79.25
+PHY-3002 : Step(37): len = 38338.8, overlap = 67.75
+PHY-3002 : Step(38): len = 38361.7, overlap = 64.75
+PHY-3002 : Step(39): len = 38318.3, overlap = 64.25
+PHY-3002 : Step(40): len = 38331.3, overlap = 61.25
+PHY-3002 : Step(41): len = 37880.8, overlap = 60.75
+PHY-3002 : Step(42): len = 37597.7, overlap = 61.25
+PHY-3002 : Step(43): len = 37308.2, overlap = 61.5
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 2.44454e-05
+PHY-3002 : Step(44): len = 38497.7, overlap = 58.25
+PHY-3002 : Step(45): len = 41102.3, overlap = 54.75
+PHY-3002 : Step(46): len = 41153.5, overlap = 55.5
+PHY-3002 : Step(47): len = 41318.8, overlap = 56.5
+PHY-3002 : Step(48): len = 41798.4, overlap = 54.25
+PHY-3002 : Step(49): len = 42588.2, overlap = 55.75
+PHY-3002 : Step(50): len = 42869.1, overlap = 56.75
+PHY-3002 : Step(51): len = 42397.6, overlap = 57.25
+PHY-3002 : Step(52): len = 41985.6, overlap = 59.25
+PHY-3002 : Step(53): len = 41456.6, overlap = 56.75
+PHY-3002 : Step(54): len = 40793.9, overlap = 57.75
+PHY-3002 : Step(55): len = 40254.8, overlap = 57.5
+PHY-3002 : Step(56): len = 39675.4, overlap = 55.5
+PHY-3002 : Step(57): len = 39199.3, overlap = 55
+PHY-3001 : :::3::: Try harder cell spreading with beta_ = 4.88907e-05
+PHY-3002 : Step(58): len = 40251, overlap = 45.25
+PHY-3002 : Step(59): len = 41299, overlap = 43.25
+PHY-3002 : Step(60): len = 41256.9, overlap = 43.25
+PHY-3002 : Step(61): len = 41218.3, overlap = 44.5
+PHY-3001 : :::4::: Try harder cell spreading with beta_ = 9.77815e-05
+PHY-3002 : Step(62): len = 42527.8, overlap = 42
+PHY-3002 : Step(63): len = 43032.1, overlap = 46
+PHY-3002 : Step(64): len = 42919.9, overlap = 46.5
+PHY-3002 : Step(65): len = 42881.1, overlap = 46.5
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.006518s wall, 0.015600s user + 0.000000s system = 0.015600s CPU (239.3%)
+
+PHY-3001 : Run with size of 4
+PHY-3001 : Cell area utilization is 10%, beta_incr = 0.950041
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 3.13814e-06
+PHY-3002 : Step(66): len = 42100, overlap = 82.5
+PHY-3002 : Step(67): len = 37136.1, overlap = 96
+PHY-3002 : Step(68): len = 35952, overlap = 95.75
+PHY-3002 : Step(69): len = 34999.4, overlap = 96.5
+PHY-3002 : Step(70): len = 34314.3, overlap = 98.25
+PHY-3002 : Step(71): len = 33739.7, overlap = 101.5
+PHY-3002 : Step(72): len = 33132.5, overlap = 101.25
+PHY-3002 : Step(73): len = 32220.3, overlap = 104.75
+PHY-3002 : Step(74): len = 31221.7, overlap = 107.25
+PHY-3002 : Step(75): len = 29731.3, overlap = 113.5
+PHY-3002 : Step(76): len = 28739.7, overlap = 116
+PHY-3002 : Step(77): len = 27515.7, overlap = 117
+PHY-3002 : Step(78): len = 25884.7, overlap = 117
+PHY-3002 : Step(79): len = 24754.6, overlap = 117.75
+PHY-3002 : Step(80): len = 24195.4, overlap = 119.25
+PHY-3002 : Step(81): len = 23668.8, overlap = 121
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 6.27628e-06
+PHY-3002 : Step(82): len = 24023.4, overlap = 119.5
+PHY-3002 : Step(83): len = 24717.4, overlap = 118.5
+PHY-3002 : Step(84): len = 25883.2, overlap = 115.25
+PHY-3002 : Step(85): len = 27578.9, overlap = 111
+PHY-3002 : Step(86): len = 28052.3, overlap = 110
+PHY-3002 : Step(87): len = 28653.5, overlap = 108
+PHY-3002 : Step(88): len = 29433.4, overlap = 103.25
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 1.25526e-05
+PHY-3002 : Step(89): len = 29711, overlap = 99.25
+PHY-3002 : Step(90): len = 30704.9, overlap = 94.25
+PHY-3002 : Step(91): len = 31452.2, overlap = 91.75
+PHY-3002 : Step(92): len = 31874.5, overlap = 89.75
+PHY-3002 : Step(93): len = 32434.2, overlap = 85
+PHY-3002 : Step(94): len = 33137.1, overlap = 82.75
+PHY-3001 : :::3::: Try harder cell spreading with beta_ = 2.51051e-05
+PHY-3002 : Step(95): len = 33507.7, overlap = 81.5
+PHY-3002 : Step(96): len = 35234.8, overlap = 76.75
+PHY-3002 : Step(97): len = 36071.7, overlap = 74
+PHY-3002 : Step(98): len = 36364.9, overlap = 71.75
+PHY-3002 : Step(99): len = 36734.7, overlap = 70.75
+PHY-3002 : Step(100): len = 37050, overlap = 69.25
+PHY-3002 : Step(101): len = 37259.4, overlap = 69.25
+PHY-3001 : :::4::: Try harder cell spreading with beta_ = 5.02103e-05
+PHY-3002 : Step(102): len = 38646.2, overlap = 66.75
+PHY-3002 : Step(103): len = 40175.2, overlap = 64.25
+PHY-3002 : Step(104): len = 40039.8, overlap = 64
+PHY-3002 : Step(105): len = 40090.6, overlap = 65
+PHY-3002 : Step(106): len = 40105.1, overlap = 65
+PHY-3001 : :::5::: Try harder cell spreading with beta_ = 9.59336e-05
+PHY-3002 : Step(107): len = 42412, overlap = 60.5
+PHY-3002 : Step(108): len = 43149.4, overlap = 57.5
+PHY-3002 : Step(109): len = 43209.9, overlap = 58.75
+PHY-3002 : Step(110): len = 43357.4, overlap = 59
+PHY-3002 : Step(111): len = 43361.8, overlap = 61.5
+PHY-3002 : Step(112): len = 43454.6, overlap = 64.25
+PHY-3002 : Step(113): len = 43262.4, overlap = 66
+PHY-3001 : :::6::: Try harder cell spreading with beta_ = 0.000191867
+PHY-3002 : Step(114): len = 44006.3, overlap = 62.75
+PHY-3002 : Step(115): len = 44325.2, overlap = 61.25
+PHY-3002 : Step(116): len = 44336.6, overlap = 59.5
+PHY-3002 : Step(117): len = 44362.7, overlap = 60
+PHY-3001 : :::7::: Try harder cell spreading with beta_ = 0.000383734
+PHY-3002 : Step(118): len = 45026.4, overlap = 57.25
+PHY-3002 : Step(119): len = 45215.5, overlap = 57.75
+PHY-3002 : Step(120): len = 45469.4, overlap = 57.25
+PHY-3001 : Run with size of 2
+PHY-3001 : Cell area utilization is 10%, beta_incr = 0.950041
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 4.64886e-05
+PHY-3002 : Step(121): len = 47643.6, overlap = 72.25
+PHY-3002 : Step(122): len = 47585.9, overlap = 70.75
+PHY-3002 : Step(123): len = 46707.3, overlap = 65.75
+PHY-3002 : Step(124): len = 45671.6, overlap = 69
+PHY-3002 : Step(125): len = 45081.2, overlap = 67.5
+PHY-3002 : Step(126): len = 44478.6, overlap = 65.75
+PHY-3002 : Step(127): len = 43348, overlap = 65
+PHY-3002 : Step(128): len = 42548.4, overlap = 64
+PHY-3002 : Step(129): len = 42008.6, overlap = 67.75
+PHY-3002 : Step(130): len = 41564.1, overlap = 71.75
+PHY-3002 : Step(131): len = 41123.1, overlap = 72.5
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 9.29773e-05
+PHY-3002 : Step(132): len = 43212.9, overlap = 64
+PHY-3002 : Step(133): len = 44124.7, overlap = 62.25
+PHY-3002 : Step(134): len = 44851, overlap = 63
+PHY-3002 : Step(135): len = 45142.8, overlap = 60.5
+PHY-3002 : Step(136): len = 45287.6, overlap = 59.75
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 0.000185955
+PHY-3002 : Step(137): len = 46747.3, overlap = 51
+PHY-3002 : Step(138): len = 47651.1, overlap = 46.5
+PHY-3002 : Step(139): len = 48222, overlap = 43.5
+PHY-3002 : Step(140): len = 48068, overlap = 43.5
+PHY-3001 : :::3::: Try harder cell spreading with beta_ = 0.000371909
+PHY-3002 : Step(141): len = 49401.9, overlap = 40.25
+PHY-3002 : Step(142): len = 50042.8, overlap = 37
+PHY-3002 : Step(143): len = 50301.9, overlap = 37.5
+PHY-3002 : Step(144): len = 50471.5, overlap = 36.75
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.049645s wall, 0.031200s user + 0.031200s system = 0.062400s CPU (125.7%)
+
+PHY-3001 : Run with size of 2
+PHY-3001 : Cell area utilization is 10%, beta_incr = 0.950041
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 0.000341052
+PHY-3002 : Step(145): len = 57206, overlap = 6.75
+PHY-3002 : Step(146): len = 54967.5, overlap = 14
+PHY-3002 : Step(147): len = 53099.1, overlap = 20.75
+PHY-3002 : Step(148): len = 51724.6, overlap = 27.75
+PHY-3002 : Step(149): len = 50746.2, overlap = 33.75
+PHY-3002 : Step(150): len = 50359.1, overlap = 35
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 0.000679987
+PHY-3002 : Step(151): len = 51087.7, overlap = 32.25
+PHY-3002 : Step(152): len = 51351.2, overlap = 34.25
+PHY-3002 : Step(153): len = 51519.8, overlap = 34
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 0.00135997
+PHY-3002 : Step(154): len = 51968.8, overlap = 34.25
+PHY-3002 : Step(155): len = 52130, overlap = 33.75
+PHY-3002 : Step(156): len = 52289.8, overlap = 34.5
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.011207s wall, 0.000000s user + 0.000000s system = 0.000000s CPU (n/a%)
+
+PHY-3001 : Legalized: Len = 56681.2, Over = 0
+PHY-3001 : Final: Len = 56681.2, Over = 0
+PHY-3001 : Improving timing with driver duplication.
+RUN-1001 : Generating global routing grids ...
+PHY-1001 : Generate routing nets ...
+PHY-1001 : Global iterations in 4 thread ...
+PHY-1002 : len = 145624, over cnt = 21(0%), over = 21, worst = 1
+PHY-1002 : len = 145672, over cnt = 13(0%), over = 13, worst = 1
+PHY-1002 : len = 145824, over cnt = 1(0%), over = 1, worst = 1
+PHY-1002 : len = 145824, over cnt = 0(0%), over = 0, worst = 0
+PHY-1001 : End global iterations;  0.057843s wall, 0.046800s user + 0.000000s system = 0.046800s CPU (80.9%)
+
+RUN-1003 : finish command "place" in  3.620716s wall, 6.630043s user + 0.670804s system = 7.300847s CPU (201.6%)
+
+RUN-1004 : used memory is 479 MB, reserved memory is 436 MB, peak memory is 479 MB
+RUN-1002 : start command "route"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+PHY-1001 : Pin misalignment score is improved from 1133 to 791
+PHY-1001 : Pin misalignment score is improved from 791 to 759
+PHY-1001 : Pin misalignment score is improved from 759 to 758
+PHY-1001 : Pin misalignment score is improved from 758 to 758
+PHY-1001 : Route runs in 4 thread(s)
+RUN-1001 : There are total 827 instances
+RUN-1001 : 408 mslices, 408 lslices, 3 pads, 2 brams, 1 dsps
+RUN-1001 : There are total 1714 nets
+RUN-1001 : 919 nets have 2 pins
+RUN-1001 : 518 nets have [3 - 5] pins
+RUN-1001 : 190 nets have [6 - 10] pins
+RUN-1001 : 61 nets have [11 - 20] pins
+RUN-1001 : 23 nets have [21 - 99] pins
+RUN-1001 : 3 nets have 100+ pins
+PHY-1001 : Start global routing ...
+RUN-1001 : Generating global routing grids ...
+PHY-1001 : Generate routing nets ...
+PHY-1001 : Global iterations in 4 thread ...
+PHY-1002 : len = 145624, over cnt = 21(0%), over = 21, worst = 1
+PHY-1002 : len = 145672, over cnt = 13(0%), over = 13, worst = 1
+PHY-1002 : len = 145824, over cnt = 1(0%), over = 1, worst = 1
+PHY-1002 : len = 145824, over cnt = 0(0%), over = 0, worst = 0
+PHY-1001 : End global iterations;  0.057113s wall, 0.046800s user + 0.015600s system = 0.062400s CPU (109.3%)
+
+PHY-1001 : End global routing;  0.173907s wall, 0.202801s user + 0.015600s system = 0.218401s CPU (125.6%)
+
+PHY-1001 : Start detail routing ...
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : Generate nets ...
+PHY-1001 : net mcu_clk_110592 will be routed on clock mesh
+PHY-1001 : net sysclk_pad will be routed on clock mesh
+PHY-1001 : clock net u_pll/clk0_out will be merged with clock u_pll/clk0_buf
+PHY-1001 : Detail Route ...
+PHY-1001 : ===== Detail Route Phase 1 =====
+PHY-1001 : Routed 0% nets.
+PHY-1002 : len = 29136, over cnt = 0(0%), over = 0, worst = 0
+PHY-1001 : End Routed; 0.012357s wall, 0.015600s user + 0.000000s system = 0.015600s CPU (126.2%)
+
+PHY-1001 : ===== Detail Route Phase 2 =====
+PHY-1001 : Routed 0% nets.
+PHY-1002 : len = 29136, over cnt = 0(0%), over = 0, worst = 0
+PHY-1001 : End Routed; 0.000020s wall, 0.000000s user + 0.000000s system = 0.000000s CPU (n/a%)
+
+PHY-1001 : ===== Detail Route Phase 3 =====
+PHY-1001 : Routed 52% nets.
+PHY-1001 : Routed 57% nets.
+PHY-1001 : Routed 66% nets.
+PHY-1001 : Routed 77% nets.
+PHY-1001 : Routed 97% nets.
+PHY-1002 : len = 265936, over cnt = 31(0%), over = 31, worst = 1
+PHY-1001 : End Routed; 1.894463s wall, 2.464816s user + 0.046800s system = 2.511616s CPU (132.6%)
+
+PHY-1001 : ===== DR Iter 1 =====
+PHY-1002 : len = 265376, over cnt = 4(0%), over = 4, worst = 1
+PHY-1001 : End DR Iter 1; 0.042628s wall, 0.031200s user + 0.000000s system = 0.031200s CPU (73.2%)
+
+PHY-1001 : ===== DR Iter 2 =====
+PHY-1002 : len = 265400, over cnt = 2(0%), over = 2, worst = 1
+PHY-1001 : End DR Iter 2; 0.035448s wall, 0.031200s user + 0.000000s system = 0.031200s CPU (88.0%)
+
+PHY-1001 : ===== DR Iter 3 =====
+PHY-1002 : len = 265432, over cnt = 1(0%), over = 1, worst = 1
+PHY-1001 : End DR Iter 3; 0.017375s wall, 0.015600s user + 0.000000s system = 0.015600s CPU (89.8%)
+
+PHY-1001 : ===== DR Iter 4 =====
+PHY-1002 : len = 265384, over cnt = 0(0%), over = 0, worst = 0
+PHY-1003 : Routed, final wirelength = 265384
+PHY-1001 : End DR Iter 4; 0.019275s wall, 0.015600s user + 0.000000s system = 0.015600s CPU (80.9%)
+
+PHY-1001 : 0 feed throughs used by 0 nets
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : Generate nets ...
+PHY-1001 : net mcu_clk_110592 will be routed on clock mesh
+PHY-1001 : net sysclk_pad will be routed on clock mesh
+PHY-1001 : clock net u_pll/clk0_out will be merged with clock u_pll/clk0_buf
+PHY-1001 : eco open net = 0
+PHY-1001 : End detail routing;  7.488205s wall, 7.987251s user + 0.156001s system = 8.143252s CPU (108.7%)
+
+PHY-1001 : Routing violations:
+PHY-1001 : End of Routing Violations.
+RUN-1003 : finish command "route" in  7.931228s wall, 8.439654s user + 0.171601s system = 8.611255s CPU (108.6%)
+
+RUN-1004 : used memory is 647 MB, reserved memory is 604 MB, peak memory is 843 MB
+RUN-1002 : start command "report_area -io_info -file mc8051_top_phy.area"
+RUN-1001 : standard
+***Report Model: MC8051OnBoard***
+
+IO Statistics
+#IO                     3
+  #input                2
+  #output               1
+  #inout                0
+
+Utilization Statistics
+#lut                 1625   out of  19600    8.29%
+#reg                  456   out of  19600    2.33%
+#le                  1628
+  #lut only          1172   out of   1628   71.99%
+  #reg only             3   out of   1628    0.18%
+  #lut&reg            453   out of   1628   27.83%
+#dsp                    1   out of     29    3.45%
+#bram                   2   out of     64    3.13%
+  #bram9k               2
+  #fifo9k               0
+#bram32k                0   out of     16    0.00%
+#pad                    2   out of    188    1.06%
+  #ireg                 0
+  #oreg                 0
+  #treg                 0
+#pll                    1   out of      4   25.00%
+
+RUN-1001 : 
+
+RUN-1002 : start command "export_db mc8051_top_pr.db"
+RUN-1001 : Exported /
+RUN-1001 : Exported libs
+RUN-1001 : Exported entities
+RUN-1001 : Exported ports
+RUN-1001 : Exported pins
+RUN-1001 : Exported instances
+RUN-1001 : Exported nets
+RUN-1001 : Exported buses
+RUN-1001 : Exported models
+RUN-1001 : Exported congestions
+RUN-1001 : Exported violations
+RUN-1001 : Exported IO constraints
+RUN-1001 : Exported Inst constraints
+RUN-1001 : Exported flow parameters
+RUN-1003 : finish command "export_db mc8051_top_pr.db" in  3.521654s wall, 2.199614s user + 0.171601s system = 2.371215s CPU (67.3%)
+
+RUN-1004 : used memory is 640 MB, reserved memory is 597 MB, peak memory is 843 MB
+RUN-1002 : start command "bitgen -bit mc8051_top.bit -version 0X00 -g ucode:00000000001101000000000000000000"
+BIT-1003 : Start to generate bitstream. 
+BIT-1002 : Init instances with 4 threads.
+BIT-1002 : Init instances completely, inst num: 827
+BIT-1002 : Init pips with 4 threads.
+BIT-1002 : Init pips completely, net num: 1714, pip num: 17464
+BIT-1003 : Multithreading accelaration with 4 threads.
+BIT-1003 : Generate bitstream completely, there are 939 valid insts, and 52321 bits set as '1'.
+BIT-1004 : PLL setting string = 0001
+BIT-1004 : Generate bits file mc8051_top.bit.
+RUN-1003 : finish command "bitgen -bit mc8051_top.bit -version 0X00 -g ucode:00000000001101000000000000000000" in  4.157214s wall, 11.216472s user + 0.078001s system = 11.294472s CPU (271.7%)
+
+RUN-1004 : used memory is 642 MB, reserved memory is 598 MB, peak memory is 843 MB
+GUI-8003 ERROR: mc8051_ram.v is missing!
+GUI-8003 ERROR: mc8051_rom.v is missing!
+GUI-8003 ERROR: ../MC8051OnBoard.v is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_p.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_core_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_core_struc.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_cy_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_cy_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_cy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_ovcy_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_ovcy_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_ovcy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alucore_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alucore_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alucore_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alumux_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alumux_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alumux_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_divider_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_divider_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_divider_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_mltplr_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_mltplr_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_mltplr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_fsm_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_fsm_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_fsm_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_mem_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_mem_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_mem_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/dcml_adjust_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/dcml_adjust_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/dcml_adjust_rtl_cfg.vhd is missing!
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/mc8051_p.vhd'
+HDL-1007 : analyze VHDL file mc8051_ram.vhd
+HDL-1007 : analyze entity mc8051_ram in mc8051_ram.vhd(19)
+HDL-1007 : analyze architecture ram_arch in mc8051_ram.vhd(33)
+HDL-1007 : analyze configuration mc8051_ram_sim_cfg in mc8051_ram.vhd(50)
+HDL-1007 : analyze VHDL file mc8051_ramx.vhd
+HDL-1007 : analyze entity mc8051_ramx in mc8051_ramx.vhd(19)
+HDL-1007 : analyze architecture ramx_arch in mc8051_ramx.vhd(32)
+HDL-1007 : analyze configuration mc8051_ramx_sim_cfg in mc8051_ramx.vhd(47)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_p.vhd
+HDL-1007 : analyze package mc8051_p in ../vhdl/mc8051_p.vhd(69)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_ovcy.vhd
+HDL-1007 : analyze entity addsub_ovcy in ../vhdl/addsub_ovcy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_ovcy.vhd(85)
+HDL-1007 : analyze configuration addsub_ovcy_rtl_cfg in ../vhdl/addsub_ovcy.vhd(159)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_cy.vhd
+HDL-1007 : analyze entity addsub_cy in ../vhdl/addsub_cy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_cy.vhd(85)
+HDL-1007 : analyze configuration addsub_cy_rtl_cfg in ../vhdl/addsub_cy.vhd(115)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_core.vhd
+HDL-1007 : analyze entity addsub_core in ../vhdl/addsub_core.vhd(76)
+HDL-1007 : analyze architecture struc in ../vhdl/addsub_core.vhd(91)
+HDL-1007 : analyze configuration addsub_core_struc_cfg in ../vhdl/addsub_core.vhd(142)
+HDL-1007 : analyze VHDL file ../vhdl/alucore.vhd
+HDL-1007 : analyze entity alucore in ../vhdl/alucore.vhd(73)
+HDL-1007 : analyze architecture rtl in ../vhdl/alucore.vhd(94)
+HDL-1007 : analyze configuration alucore_rtl_cfg in ../vhdl/alucore.vhd(191)
+HDL-1007 : analyze VHDL file ../vhdl/alumux.vhd
+HDL-1007 : analyze entity alumux in ../vhdl/alumux.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/alumux.vhd(125)
+HDL-1007 : analyze configuration alumux_rtl_cfg in ../vhdl/alumux.vhd(494)
+HDL-1007 : analyze VHDL file ../vhdl/comb_divider.vhd
+HDL-1007 : analyze entity comb_divider in ../vhdl/comb_divider.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_divider.vhd(82)
+HDL-1007 : analyze configuration comb_divider_rtl_cfg in ../vhdl/comb_divider.vhd(130)
+HDL-1007 : analyze VHDL file ../vhdl/comb_mltplr.vhd
+HDL-1007 : analyze entity comb_mltplr in ../vhdl/comb_mltplr.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_mltplr.vhd(82)
+HDL-1007 : analyze configuration comb_mltplr_rtl_cfg in ../vhdl/comb_mltplr.vhd(104)
+HDL-1007 : analyze VHDL file ../vhdl/control_fsm.vhd
+HDL-1007 : analyze entity control_fsm in ../vhdl/control_fsm.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_fsm.vhd(126)
+HDL-1007 : analyze configuration control_fsm_rtl_cfg in ../vhdl/control_fsm.vhd(2231)
+HDL-1007 : analyze VHDL file ../vhdl/control_mem.vhd
+HDL-1007 : analyze entity control_mem in ../vhdl/control_mem.vhd(75)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_mem.vhd(206)
+HDL-1007 : analyze configuration control_mem_rtl_cfg in ../vhdl/control_mem.vhd(1285)
+HDL-1007 : analyze VHDL file ../vhdl/dcml_adjust.vhd
+HDL-1007 : analyze entity dcml_adjust in ../vhdl/dcml_adjust.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/dcml_adjust.vhd(90)
+HDL-1007 : analyze configuration dcml_adjust_rtl_cfg in ../vhdl/dcml_adjust.vhd(168)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_alu.vhd
+HDL-1007 : analyze entity mc8051_alu in ../vhdl/mc8051_alu.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_alu.vhd(104)
+HDL-1007 : analyze configuration mc8051_alu_struc_cfg in ../vhdl/mc8051_alu.vhd(235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_control.vhd
+HDL-1007 : analyze entity mc8051_control in ../vhdl/mc8051_control.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_control.vhd(142)
+HDL-1007 : analyze configuration mc8051_control_struc_cfg in ../vhdl/mc8051_control.vhd(344)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_siu.vhd
+HDL-1007 : analyze entity mc8051_siu in ../vhdl/mc8051_siu.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_siu.vhd(92)
+HDL-1007 : analyze configuration mc8051_siu_rtl_cfg in ../vhdl/mc8051_siu.vhd(1235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_tmrctr.vhd
+HDL-1007 : analyze entity mc8051_tmrctr in ../vhdl/mc8051_tmrctr.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_tmrctr.vhd(96)
+HDL-1007 : analyze configuration mc8051_tmrctr_rtl_cfg in ../vhdl/mc8051_tmrctr.vhd(797)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_core.vhd
+HDL-1007 : analyze entity mc8051_core in ../vhdl/mc8051_core.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_core.vhd(121)
+HDL-1007 : analyze configuration mc8051_core_struc_cfg in ../vhdl/mc8051_core.vhd(276)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_top.vhd
+HDL-1007 : analyze entity mc8051_top in ../vhdl/mc8051_top.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_top.vhd(104)
+HDL-1007 : analyze configuration mc8051_top_struc_cfg in ../vhdl/mc8051_top.vhd(200)
+HDL-1007 : analyze VHDL file MC8051OnBoard.vhd
+HDL-1007 : analyze entity mc8051onboard in MC8051OnBoard.vhd(9)
+HDL-1007 : analyze architecture rtl in MC8051OnBoard.vhd(19)
+HDL-1007 : analyze verilog file al_ip/pll.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom_td.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom.v
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/mc8051_p.vhd'
+HDL-1007 : analyze VHDL file mc8051_ram.vhd
+HDL-1007 : analyze entity mc8051_ram in mc8051_ram.vhd(19)
+HDL-1007 : analyze architecture ram_arch in mc8051_ram.vhd(33)
+HDL-1007 : analyze configuration mc8051_ram_sim_cfg in mc8051_ram.vhd(50)
+HDL-1007 : analyze VHDL file mc8051_ramx.vhd
+HDL-1007 : analyze entity mc8051_ramx in mc8051_ramx.vhd(19)
+HDL-1007 : analyze architecture ramx_arch in mc8051_ramx.vhd(32)
+HDL-1007 : analyze configuration mc8051_ramx_sim_cfg in mc8051_ramx.vhd(47)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_p.vhd
+HDL-1007 : analyze package mc8051_p in ../vhdl/mc8051_p.vhd(69)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_ovcy.vhd
+HDL-1007 : analyze entity addsub_ovcy in ../vhdl/addsub_ovcy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_ovcy.vhd(85)
+HDL-1007 : analyze configuration addsub_ovcy_rtl_cfg in ../vhdl/addsub_ovcy.vhd(159)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_cy.vhd
+HDL-1007 : analyze entity addsub_cy in ../vhdl/addsub_cy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_cy.vhd(85)
+HDL-1007 : analyze configuration addsub_cy_rtl_cfg in ../vhdl/addsub_cy.vhd(115)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_core.vhd
+HDL-1007 : analyze entity addsub_core in ../vhdl/addsub_core.vhd(76)
+HDL-1007 : analyze architecture struc in ../vhdl/addsub_core.vhd(91)
+HDL-1007 : analyze configuration addsub_core_struc_cfg in ../vhdl/addsub_core.vhd(142)
+HDL-1007 : analyze VHDL file ../vhdl/alucore.vhd
+HDL-1007 : analyze entity alucore in ../vhdl/alucore.vhd(73)
+HDL-1007 : analyze architecture rtl in ../vhdl/alucore.vhd(94)
+HDL-1007 : analyze configuration alucore_rtl_cfg in ../vhdl/alucore.vhd(191)
+HDL-1007 : analyze VHDL file ../vhdl/alumux.vhd
+HDL-1007 : analyze entity alumux in ../vhdl/alumux.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/alumux.vhd(125)
+HDL-1007 : analyze configuration alumux_rtl_cfg in ../vhdl/alumux.vhd(494)
+HDL-1007 : analyze VHDL file ../vhdl/comb_divider.vhd
+HDL-1007 : analyze entity comb_divider in ../vhdl/comb_divider.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_divider.vhd(82)
+HDL-1007 : analyze configuration comb_divider_rtl_cfg in ../vhdl/comb_divider.vhd(130)
+HDL-1007 : analyze VHDL file ../vhdl/comb_mltplr.vhd
+HDL-1007 : analyze entity comb_mltplr in ../vhdl/comb_mltplr.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_mltplr.vhd(82)
+HDL-1007 : analyze configuration comb_mltplr_rtl_cfg in ../vhdl/comb_mltplr.vhd(104)
+HDL-1007 : analyze VHDL file ../vhdl/control_fsm.vhd
+HDL-1007 : analyze entity control_fsm in ../vhdl/control_fsm.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_fsm.vhd(126)
+HDL-1007 : analyze configuration control_fsm_rtl_cfg in ../vhdl/control_fsm.vhd(2231)
+HDL-1007 : analyze VHDL file ../vhdl/control_mem.vhd
+HDL-1007 : analyze entity control_mem in ../vhdl/control_mem.vhd(75)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_mem.vhd(206)
+HDL-1007 : analyze configuration control_mem_rtl_cfg in ../vhdl/control_mem.vhd(1285)
+HDL-1007 : analyze VHDL file ../vhdl/dcml_adjust.vhd
+HDL-1007 : analyze entity dcml_adjust in ../vhdl/dcml_adjust.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/dcml_adjust.vhd(90)
+HDL-1007 : analyze configuration dcml_adjust_rtl_cfg in ../vhdl/dcml_adjust.vhd(168)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_alu.vhd
+HDL-1007 : analyze entity mc8051_alu in ../vhdl/mc8051_alu.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_alu.vhd(104)
+HDL-1007 : analyze configuration mc8051_alu_struc_cfg in ../vhdl/mc8051_alu.vhd(235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_control.vhd
+HDL-1007 : analyze entity mc8051_control in ../vhdl/mc8051_control.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_control.vhd(142)
+HDL-1007 : analyze configuration mc8051_control_struc_cfg in ../vhdl/mc8051_control.vhd(344)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_siu.vhd
+HDL-1007 : analyze entity mc8051_siu in ../vhdl/mc8051_siu.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_siu.vhd(92)
+HDL-1007 : analyze configuration mc8051_siu_rtl_cfg in ../vhdl/mc8051_siu.vhd(1235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_tmrctr.vhd
+HDL-1007 : analyze entity mc8051_tmrctr in ../vhdl/mc8051_tmrctr.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_tmrctr.vhd(96)
+HDL-1007 : analyze configuration mc8051_tmrctr_rtl_cfg in ../vhdl/mc8051_tmrctr.vhd(797)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_core.vhd
+HDL-1007 : analyze entity mc8051_core in ../vhdl/mc8051_core.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_core.vhd(121)
+HDL-1007 : analyze configuration mc8051_core_struc_cfg in ../vhdl/mc8051_core.vhd(276)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_top.vhd
+HDL-1007 : analyze entity mc8051_top in ../vhdl/mc8051_top.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_top.vhd(104)
+HDL-1007 : analyze configuration mc8051_top_struc_cfg in ../vhdl/mc8051_top.vhd(200)
+HDL-1007 : analyze VHDL file MC8051OnBoard.vhd
+HDL-1007 : analyze entity mc8051onboard in MC8051OnBoard.vhd(9)
+HDL-1007 : analyze architecture rtl in MC8051OnBoard.vhd(19)
+HDL-1007 : analyze verilog file al_ip/pll.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom_td.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom.v
+RUN-1002 : start command "elaborate -top mc8051onboard"
+HDL-1007 : elaborate MC8051OnBoard(rtl) in MC8051OnBoard.vhd(9)
+HDL-1007 : switch to vlog to elaborate module pll in MC8051OnBoard.vhd(82)
+HDL-1007 : elaborate module pll in al_ip/pll.v(24)
+HDL-1007 : elaborate module EG_LOGIC_BUFG in C:/Anlogic/TD4.6.2/arch/eagle_macro.v(81)
+HDL-1007 : elaborate module EG_PHY_PLL(FIN="24.000",REFCLK_DIV=2,CLKC0_DIV=59,CLKC1_DIV=64,CLKC2_DIV=118,CLKC0_ENABLE="ENABLE",CLKC1_ENABLE="ENABLE",CLKC2_ENABLE="ENABLE",FEEDBK_PATH="CLKC0_EXT",STDBY_ENABLE="DISABLE",CLKC0_CPHASE=58,CLKC1_CPHASE=63,CLKC2_CPHASE=117,GMC_GAIN=0,ICP_CURRENT=9,KVCO=2,LPF_CAPACITOR=2,LPF_RESISTOR=8,SYNC_ENABLE="DISABLE") in C:/Anlogic/TD4.6.2/arch/eagle_macro.v(986)
+HDL-1007 : back to vhdl to elaborate in MC8051OnBoard.vhd(82)
+HDL-1007 : elaborate mc8051_top(struc) in ../vhdl/mc8051_top.vhd(74)
+HDL-1007 : elaborate mc8051_core(struc) in ../vhdl/mc8051_core.vhd(75)
+HDL-1007 : elaborate mc8051_control(struc) in ../vhdl/mc8051_control.vhd(74)
+HDL-1007 : elaborate control_fsm(rtl) in ../vhdl/control_fsm.vhd(74)
+HDL-1007 : others clause is never selected in ../vhdl/control_fsm.vhd(2223)
+HDL-1007 : elaborate control_mem(rtl) in ../vhdl/control_mem.vhd(75)
+HDL-1007 : others clause is never selected in ../vhdl/control_mem.vhd(833)
+HDL-1007 : others clause is never selected in ../vhdl/control_mem.vhd(932)
+HDL-1007 : others clause is never selected in ../vhdl/control_mem.vhd(938)
+HDL-1007 : others clause is never selected in ../vhdl/control_mem.vhd(1250)
+HDL-1007 : elaborate mc8051_alu(struc) in ../vhdl/mc8051_alu.vhd(75)
+HDL-1007 : elaborate alumux(rtl) in ../vhdl/alumux.vhd(74)
+HDL-1007 : elaborate alucore(rtl) in ../vhdl/alucore.vhd(73)
+HDL-1007 : elaborate addsub_core(dwidth=8)(struc) in ../vhdl/addsub_core.vhd(76)
+HDL-1007 : elaborate addsub_cy(rtl) in ../vhdl/addsub_cy.vhd(72)
+HDL-1007 : elaborate addsub_ovcy(rtl) in ../vhdl/addsub_ovcy.vhd(72)
+HDL-1007 : elaborate comb_mltplr(rtl) in ../vhdl/comb_mltplr.vhd(72)
+HDL-1007 : elaborate comb_divider(rtl) in ../vhdl/comb_divider.vhd(72)
+HDL-1007 : elaborate dcml_adjust(dwidth=8)(rtl) in ../vhdl/dcml_adjust.vhd(72)
+HDL-1007 : elaborate mc8051_siu(rtl) in ../vhdl/mc8051_siu.vhd(71)
+HDL-1007 : others clause is never selected in ../vhdl/mc8051_siu.vhd(816)
+HDL-1007 : others clause is never selected in ../vhdl/mc8051_siu.vhd(1215)
+HDL-1007 : elaborate mc8051_tmrctr(rtl) in ../vhdl/mc8051_tmrctr.vhd(71)
+HDL-1007 : others clause is never selected in ../vhdl/mc8051_tmrctr.vhd(541)
+HDL-1007 : others clause is never selected in ../vhdl/mc8051_tmrctr.vhd(784)
+HDL-1007 : elaborate mc8051_ram(ram_arch) in mc8051_ram.vhd(19)
+HDL-1007 : extracting RAM for identifier 'ram_mem' in mc8051_ram.vhd(36)
+HDL-1007 : switch to vlog to elaborate module mc8051_rom in ../vhdl/mc8051_top.vhd(181)
+HDL-1007 : elaborate module mc8051_rom in al_ip/mc8051_rom.v(1)
+HDL-1007 : elaborate module mc8051_rom_td in al_ip/mc8051_rom_td.v(14)
+HDL-1007 : elaborate module EG_LOGIC_BRAM(DATA_WIDTH_A=8,DATA_WIDTH_B=8,ADDR_WIDTH_A=12,ADDR_WIDTH_B=12,DATA_DEPTH_A=4096,DATA_DEPTH_B=4096,MODE="SP",INIT_FILE="../../tools/keil/led.mif") in C:/Anlogic/TD4.6.2/arch/eagle_macro.v(1072)
+HDL-1007 : back to vhdl to elaborate in ../vhdl/mc8051_top.vhd(181)
+HDL-1007 : elaborate mc8051_ramx(ramx_arch) in mc8051_ramx.vhd(19)
+HDL-1007 : extracting RAM for identifier 'ramx_mem' in mc8051_ramx.vhd(34)
+HDL-1200 : Current top model is MC8051OnBoard
+HDL-1100 : Inferred 2 RAMs.
+GUI-5001 WARNING: Found no ADC files
+RUN-1002 : start command "optimize_rtl"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+SYN-1012 : SanityCheck: Model "MC8051OnBoard"
+SYN-1012 : SanityCheck: Model "mc8051_top"
+SYN-1012 : SanityCheck: Model "mc8051_core"
+SYN-1012 : SanityCheck: Model "mc8051_siu"
+SYN-1012 : SanityCheck: Model "mc8051_tmrctr"
+SYN-1012 : SanityCheck: Model "mc8051_alu"
+SYN-1012 : SanityCheck: Model "dcml_adjust(dwidth=8)"
+SYN-1012 : SanityCheck: Model "comb_divider"
+SYN-1012 : SanityCheck: Model "comb_mltplr"
+SYN-1012 : SanityCheck: Model "addsub_core(dwidth=8)"
+SYN-1012 : SanityCheck: Model "addsub_cy"
+SYN-1012 : SanityCheck: Model "addsub_ovcy"
+SYN-1012 : SanityCheck: Model "alucore"
+SYN-1012 : SanityCheck: Model "alumux"
+SYN-1012 : SanityCheck: Model "mc8051_control"
+SYN-1012 : SanityCheck: Model "control_fsm"
+SYN-1012 : SanityCheck: Model "control_mem"
+SYN-1012 : SanityCheck: Model "mc8051_ram"
+SYN-1012 : SanityCheck: Model "mc8051_ramx"
+SYN-1012 : SanityCheck: Model "mc8051_rom"
+SYN-1012 : SanityCheck: Model "mc8051_rom_td"
+SYN-1012 : SanityCheck: Model "pll"
+SYN-1043 : Mark pll as IO macro for instance bufg_feedback
+SYN-1016 : Merged 592 instances.
+SYN-1016 : Merged 3 instances.
+SYN-1016 : Merged 865 instances.
+SYN-1016 : Merged 4 instances.
+SYN-1026 : Infer Logic BRAM(ram_ram_mem0)
+	 port mode: single port
+	 port a size: 128 x 8	 write mode: READBEFOREWRITE
+	 port b size: 128 x 8	 write mode: NORMAL
+SYN-1023 : Infer 0 Logic DRAMs, 1 Logic BRAMs.
+SYN-1026 : Infer Logic BRAM(ram_ramx_mem0)
+	 port mode: single port
+	 port a size: 8192 x 8	 write mode: READBEFOREWRITE
+	 port b size: 8192 x 8	 write mode: NORMAL
+SYN-1023 : Infer 0 Logic DRAMs, 1 Logic BRAMs.
+SYN-1011 : Flatten model MC8051OnBoard
+SYN-1011 : Flatten model mc8051_top
+SYN-1011 : Flatten model mc8051_core
+SYN-1011 : Flatten model mc8051_siu
+SYN-1011 : Flatten model mc8051_tmrctr
+SYN-1011 : Flatten model mc8051_alu
+SYN-1011 : Flatten model dcml_adjust(dwidth=8)
+SYN-1011 : Flatten model buf_8
+SYN-1011 : Flatten model comb_divider
+SYN-1011 : Flatten model comb_mltplr
+SYN-1011 : Flatten model addsub_core(dwidth=8)
+SYN-1011 : Flatten model addsub_cy
+SYN-1011 : Flatten model addsub_ovcy
+SYN-1016 : Merged 2 instances.
+SYN-1011 : Flatten model alucore
+SYN-1011 : Flatten model and_8
+SYN-1011 : Flatten model or_8
+SYN-1011 : Flatten model xor_8
+SYN-1011 : Flatten model inv_9
+SYN-1011 : Flatten model alumux
+SYN-1016 : Merged 7 instances.
+SYN-1011 : Flatten model mc8051_control
+SYN-1011 : Flatten model control_fsm
+SYN-1011 : Flatten model buf_3
+SYN-1011 : Flatten model inv_4
+SYN-1011 : Flatten model inv_3
+SYN-1011 : Flatten model buf_4
+SYN-1011 : Flatten model buf_2
+SYN-1016 : Merged 1 instances.
+SYN-1011 : Flatten model control_mem
+SYN-1011 : Flatten model reduce_nor_8
+SYN-1011 : Flatten model or_2
+SYN-1011 : Flatten model reduce_nor_2
+SYN-1011 : Flatten model Decoder_1
+SYN-1011 : Flatten model reduce_nor_22
+SYN-1011 : Flatten model Decoder_4
+SYN-1011 : Flatten model Decoder_3
+SYN-1011 : Flatten model buf_16
+SYN-1011 : Flatten model buf_7
+SYN-1011 : Flatten model reduce_nor_5
+SYN-1011 : Flatten model reduce_or_3
+SYN-1011 : Flatten model and_16
+SYN-1011 : Flatten model or_4
+SYN-1011 : Flatten model buf_6
+SYN-1011 : Flatten model reduce_nor_23
+SYN-1016 : Merged 26 instances.
+SYN-1016 : Merged 30 instances.
+SYN-1016 : Merged 10 instances.
+SYN-1011 : Flatten model mc8051_ram
+SYN-1011 : Flatten model mc8051_ramx
+SYN-1011 : Flatten model mc8051_rom
+SYN-1011 : Flatten model mc8051_rom_td
+SYN-1016 : Merged 6 instances.
+SYN-1011 : Flatten model pll
+SYN-1016 : Merged 44 instances.
+SYN-1014 : Optimize round 1
+SYN-1044 : Optimized 1 inv instances.
+SYN-1032 : 6216/588 useful/useless nets, 5956/525 useful/useless insts
+SYN-1017 : Remove 3 const input seq instances
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/reg0_b0
+SYN-1002 :     u8051_inst/i_mc8051_core/i_mc8051_control/i_control_mem/reg6_b0
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/reg0_b1
+SYN-1018 : Transformed 3 mux instances.
+SYN-1019 : Optimized 45 mux instances.
+SYN-1021 : Optimized 128 onehot mux instances.
+SYN-1020 : Optimized 1560 distributor mux.
+SYN-1016 : Merged 3226 instances.
+SYN-1015 : Optimize round 1, 6099 better
+SYN-1014 : Optimize round 2
+SYN-1044 : Optimized 2 inv instances.
+SYN-1032 : 5733/111 useful/useless nets, 5489/2417 useful/useless insts
+SYN-1017 : Remove 6 const input seq instances
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t0ff0_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t1ff0_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t0ff1_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t1ff1_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t0ff2_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t1ff2_reg
+SYN-1019 : Optimized 7 mux instances.
+SYN-1020 : Optimized 2 distributor mux.
+SYN-1016 : Merged 7 instances.
+SYN-1015 : Optimize round 2, 2501 better
+SYN-1014 : Optimize round 3
+SYN-1032 : 5677/41 useful/useless nets, 5433/42 useful/useless insts
+SYN-1019 : Optimized 0 mux instances.
+SYN-1016 : Merged 4 instances.
+SYN-1015 : Optimize round 3, 89 better
+SYN-1014 : Optimize round 4
+SYN-1032 : 5673/0 useful/useless nets, 5429/0 useful/useless insts
+SYN-1019 : Optimized 0 mux instances.
+SYN-1015 : Optimize round 4, 0 better
+RUN-1003 : finish command "optimize_rtl" in  2.683200s wall, 2.636417s user + 0.000000s system = 2.636417s CPU (98.3%)
+
+RUN-1004 : used memory is 515 MB, reserved memory is 482 MB, peak memory is 843 MB
+RUN-1002 : start command "report_area -file mc8051_top_rtl.area"
+RUN-1001 : standard
+***Report Model: MC8051OnBoard***
+
+IO Statistics
+#IO                     3
+  #input                2
+  #output               1
+  #inout                0
+
+Gate Statistics
+#Basic gates         3863
+  #and               1697
+  #nand                 0
+  #or                 360
+  #nor                  0
+  #xor                 15
+  #xnor                 0
+  #buf                  0
+  #not                361
+  #bufif1               0
+  #MX21               950
+  #FADD                 0
+  #DFF                480
+  #LATCH                0
+#MACRO_ADD             48
+#MACRO_EQ             250
+#MACRO_MULT             2
+#MACRO_MUX           1258
+
+RUN-1001 : 
+Report Hierarchy Area:
++------------------------------------------------+
+|Instance |Module        |gates  |seq    |macros |
++------------------------------------------------+
+|top      |MC8051OnBoard |3383   |480    |304    |
++------------------------------------------------+
+
+RUN-1002 : start command "export_db mc8051_top_rtl.db"
+RUN-1001 : Exported /
+RUN-1001 : Exported libs
+RUN-1001 : Exported entities
+RUN-1001 : Exported ports
+RUN-1001 : Exported pins
+RUN-1001 : Exported instances
+RUN-1001 : Exported nets
+RUN-1001 : Exported buses
+RUN-1001 : Exported models
+RUN-1001 : Exported congestions
+RUN-1001 : Exported violations
+RUN-1001 : Exported IO constraints
+RUN-1001 : Exported Inst constraints
+RUN-1001 : Exported flow parameters
+RUN-1003 : finish command "export_db mc8051_top_rtl.db" in  3.129624s wall, 1.934412s user + 0.031200s system = 1.965613s CPU (62.8%)
+
+RUN-1004 : used memory is 535 MB, reserved memory is 497 MB, peak memory is 843 MB
+RUN-1002 : start command "optimize_gate -packarea mc8051_top_gate.area"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+SYN-2001 : Map 3 IOs to PADs
+SYN-2501 : Processed 0 LOGIC_BUF instances.
+SYN-2501 : 1 BUFG to GCLK
+SYN-2512 : LOGIC BRAM "u8051_inst/i_mc8051_ram/ram_ram_mem0"
+SYN-2512 : LOGIC BRAM "u8051_inst/i_mc8051_ramx/ram_ramx_mem0"
+SYN-2512 : LOGIC BRAM "u8051_inst/i_mc8051_rom/u_rom/inst"
+SYN-2541 : Reading BRAM "u8051_inst/i_mc8051_rom/u_rom/inst" init file "I:/Version1_6_TDV4\tools\keil\led.mif"
+SYN-2542 : Parsing MIF init file
+SYN-8418 ERROR: Wrong init file size 4096x8 4096x8
+SYN-2501 : Optimize round 1
+SYN-1032 : 7835/0 useful/useless nets, 7599/0 useful/useless insts
+SYN-1016 : Merged 1584 instances.
+SYN-2501 : Optimize round 1, 3307 better
+SYN-2501 : Optimize round 2
+SYN-1032 : 6251/0 useful/useless nets, 6015/0 useful/useless insts
+SYN-2501 : Optimize round 2, 0 better
+SYN-2501 : Map 48 macro adder
+SYN-1032 : 18167/0 useful/useless nets, 17931/0 useful/useless insts
+GUI-8003 ERROR: mc8051_ram.v is missing!
+GUI-8003 ERROR: mc8051_rom.v is missing!
+GUI-8003 ERROR: ../MC8051OnBoard.v is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_p.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_core_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_core_struc.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_cy_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_cy_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_cy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_ovcy_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_ovcy_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_ovcy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alucore_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alucore_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alucore_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alumux_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alumux_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alumux_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_divider_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_divider_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_divider_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_mltplr_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_mltplr_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_mltplr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_fsm_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_fsm_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_fsm_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_mem_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_mem_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_mem_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/dcml_adjust_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/dcml_adjust_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/dcml_adjust_rtl_cfg.vhd is missing!
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/mc8051_p.vhd'
+HDL-1007 : analyze VHDL file mc8051_ram.vhd
+HDL-1007 : analyze entity mc8051_ram in mc8051_ram.vhd(19)
+HDL-1007 : analyze architecture ram_arch in mc8051_ram.vhd(33)
+HDL-1007 : analyze configuration mc8051_ram_sim_cfg in mc8051_ram.vhd(50)
+HDL-1007 : analyze VHDL file mc8051_ramx.vhd
+HDL-1007 : analyze entity mc8051_ramx in mc8051_ramx.vhd(19)
+HDL-1007 : analyze architecture ramx_arch in mc8051_ramx.vhd(32)
+HDL-1007 : analyze configuration mc8051_ramx_sim_cfg in mc8051_ramx.vhd(47)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_p.vhd
+HDL-1007 : analyze package mc8051_p in ../vhdl/mc8051_p.vhd(69)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_ovcy.vhd
+HDL-1007 : analyze entity addsub_ovcy in ../vhdl/addsub_ovcy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_ovcy.vhd(85)
+HDL-1007 : analyze configuration addsub_ovcy_rtl_cfg in ../vhdl/addsub_ovcy.vhd(159)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_cy.vhd
+HDL-1007 : analyze entity addsub_cy in ../vhdl/addsub_cy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_cy.vhd(85)
+HDL-1007 : analyze configuration addsub_cy_rtl_cfg in ../vhdl/addsub_cy.vhd(115)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_core.vhd
+HDL-1007 : analyze entity addsub_core in ../vhdl/addsub_core.vhd(76)
+HDL-1007 : analyze architecture struc in ../vhdl/addsub_core.vhd(91)
+HDL-1007 : analyze configuration addsub_core_struc_cfg in ../vhdl/addsub_core.vhd(142)
+HDL-1007 : analyze VHDL file ../vhdl/alucore.vhd
+HDL-1007 : analyze entity alucore in ../vhdl/alucore.vhd(73)
+HDL-1007 : analyze architecture rtl in ../vhdl/alucore.vhd(94)
+HDL-1007 : analyze configuration alucore_rtl_cfg in ../vhdl/alucore.vhd(191)
+HDL-1007 : analyze VHDL file ../vhdl/alumux.vhd
+HDL-1007 : analyze entity alumux in ../vhdl/alumux.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/alumux.vhd(125)
+HDL-1007 : analyze configuration alumux_rtl_cfg in ../vhdl/alumux.vhd(494)
+HDL-1007 : analyze VHDL file ../vhdl/comb_divider.vhd
+HDL-1007 : analyze entity comb_divider in ../vhdl/comb_divider.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_divider.vhd(82)
+HDL-1007 : analyze configuration comb_divider_rtl_cfg in ../vhdl/comb_divider.vhd(130)
+HDL-1007 : analyze VHDL file ../vhdl/comb_mltplr.vhd
+HDL-1007 : analyze entity comb_mltplr in ../vhdl/comb_mltplr.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_mltplr.vhd(82)
+HDL-1007 : analyze configuration comb_mltplr_rtl_cfg in ../vhdl/comb_mltplr.vhd(104)
+HDL-1007 : analyze VHDL file ../vhdl/control_fsm.vhd
+HDL-1007 : analyze entity control_fsm in ../vhdl/control_fsm.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_fsm.vhd(126)
+HDL-1007 : analyze configuration control_fsm_rtl_cfg in ../vhdl/control_fsm.vhd(2231)
+HDL-1007 : analyze VHDL file ../vhdl/control_mem.vhd
+HDL-1007 : analyze entity control_mem in ../vhdl/control_mem.vhd(75)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_mem.vhd(206)
+HDL-1007 : analyze configuration control_mem_rtl_cfg in ../vhdl/control_mem.vhd(1285)
+HDL-1007 : analyze VHDL file ../vhdl/dcml_adjust.vhd
+HDL-1007 : analyze entity dcml_adjust in ../vhdl/dcml_adjust.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/dcml_adjust.vhd(90)
+HDL-1007 : analyze configuration dcml_adjust_rtl_cfg in ../vhdl/dcml_adjust.vhd(168)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_alu.vhd
+HDL-1007 : analyze entity mc8051_alu in ../vhdl/mc8051_alu.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_alu.vhd(104)
+HDL-1007 : analyze configuration mc8051_alu_struc_cfg in ../vhdl/mc8051_alu.vhd(235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_control.vhd
+HDL-1007 : analyze entity mc8051_control in ../vhdl/mc8051_control.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_control.vhd(142)
+HDL-1007 : analyze configuration mc8051_control_struc_cfg in ../vhdl/mc8051_control.vhd(344)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_siu.vhd
+HDL-1007 : analyze entity mc8051_siu in ../vhdl/mc8051_siu.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_siu.vhd(92)
+HDL-1007 : analyze configuration mc8051_siu_rtl_cfg in ../vhdl/mc8051_siu.vhd(1235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_tmrctr.vhd
+HDL-1007 : analyze entity mc8051_tmrctr in ../vhdl/mc8051_tmrctr.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_tmrctr.vhd(96)
+HDL-1007 : analyze configuration mc8051_tmrctr_rtl_cfg in ../vhdl/mc8051_tmrctr.vhd(797)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_core.vhd
+HDL-1007 : analyze entity mc8051_core in ../vhdl/mc8051_core.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_core.vhd(121)
+HDL-1007 : analyze configuration mc8051_core_struc_cfg in ../vhdl/mc8051_core.vhd(276)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_top.vhd
+HDL-1007 : analyze entity mc8051_top in ../vhdl/mc8051_top.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_top.vhd(104)
+HDL-1007 : analyze configuration mc8051_top_struc_cfg in ../vhdl/mc8051_top.vhd(200)
+HDL-1007 : analyze VHDL file MC8051OnBoard.vhd
+HDL-1007 : analyze entity mc8051onboard in MC8051OnBoard.vhd(9)
+HDL-1007 : analyze architecture rtl in MC8051OnBoard.vhd(19)
+HDL-1007 : analyze verilog file al_ip/pll.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom_td.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom_td.v
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/mc8051_p.vhd'
+HDL-1007 : analyze VHDL file mc8051_ram.vhd
+HDL-1007 : analyze entity mc8051_ram in mc8051_ram.vhd(19)
+HDL-1007 : analyze architecture ram_arch in mc8051_ram.vhd(33)
+HDL-1007 : analyze configuration mc8051_ram_sim_cfg in mc8051_ram.vhd(50)
+HDL-1007 : analyze VHDL file mc8051_ramx.vhd
+HDL-1007 : analyze entity mc8051_ramx in mc8051_ramx.vhd(19)
+HDL-1007 : analyze architecture ramx_arch in mc8051_ramx.vhd(32)
+HDL-1007 : analyze configuration mc8051_ramx_sim_cfg in mc8051_ramx.vhd(47)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_p.vhd
+HDL-1007 : analyze package mc8051_p in ../vhdl/mc8051_p.vhd(69)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_ovcy.vhd
+HDL-1007 : analyze entity addsub_ovcy in ../vhdl/addsub_ovcy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_ovcy.vhd(85)
+HDL-1007 : analyze configuration addsub_ovcy_rtl_cfg in ../vhdl/addsub_ovcy.vhd(159)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_cy.vhd
+HDL-1007 : analyze entity addsub_cy in ../vhdl/addsub_cy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_cy.vhd(85)
+HDL-1007 : analyze configuration addsub_cy_rtl_cfg in ../vhdl/addsub_cy.vhd(115)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_core.vhd
+HDL-1007 : analyze entity addsub_core in ../vhdl/addsub_core.vhd(76)
+HDL-1007 : analyze architecture struc in ../vhdl/addsub_core.vhd(91)
+HDL-1007 : analyze configuration addsub_core_struc_cfg in ../vhdl/addsub_core.vhd(142)
+HDL-1007 : analyze VHDL file ../vhdl/alucore.vhd
+HDL-1007 : analyze entity alucore in ../vhdl/alucore.vhd(73)
+HDL-1007 : analyze architecture rtl in ../vhdl/alucore.vhd(94)
+HDL-1007 : analyze configuration alucore_rtl_cfg in ../vhdl/alucore.vhd(191)
+HDL-1007 : analyze VHDL file ../vhdl/alumux.vhd
+HDL-1007 : analyze entity alumux in ../vhdl/alumux.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/alumux.vhd(125)
+HDL-1007 : analyze configuration alumux_rtl_cfg in ../vhdl/alumux.vhd(494)
+HDL-1007 : analyze VHDL file ../vhdl/comb_divider.vhd
+HDL-1007 : analyze entity comb_divider in ../vhdl/comb_divider.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_divider.vhd(82)
+HDL-1007 : analyze configuration comb_divider_rtl_cfg in ../vhdl/comb_divider.vhd(130)
+HDL-1007 : analyze VHDL file ../vhdl/comb_mltplr.vhd
+HDL-1007 : analyze entity comb_mltplr in ../vhdl/comb_mltplr.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_mltplr.vhd(82)
+HDL-1007 : analyze configuration comb_mltplr_rtl_cfg in ../vhdl/comb_mltplr.vhd(104)
+HDL-1007 : analyze VHDL file ../vhdl/control_fsm.vhd
+HDL-1007 : analyze entity control_fsm in ../vhdl/control_fsm.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_fsm.vhd(126)
+HDL-1007 : analyze configuration control_fsm_rtl_cfg in ../vhdl/control_fsm.vhd(2231)
+HDL-1007 : analyze VHDL file ../vhdl/control_mem.vhd
+HDL-1007 : analyze entity control_mem in ../vhdl/control_mem.vhd(75)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_mem.vhd(206)
+HDL-1007 : analyze configuration control_mem_rtl_cfg in ../vhdl/control_mem.vhd(1285)
+HDL-1007 : analyze VHDL file ../vhdl/dcml_adjust.vhd
+HDL-1007 : analyze entity dcml_adjust in ../vhdl/dcml_adjust.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/dcml_adjust.vhd(90)
+HDL-1007 : analyze configuration dcml_adjust_rtl_cfg in ../vhdl/dcml_adjust.vhd(168)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_alu.vhd
+HDL-1007 : analyze entity mc8051_alu in ../vhdl/mc8051_alu.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_alu.vhd(104)
+HDL-1007 : analyze configuration mc8051_alu_struc_cfg in ../vhdl/mc8051_alu.vhd(235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_control.vhd
+HDL-1007 : analyze entity mc8051_control in ../vhdl/mc8051_control.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_control.vhd(142)
+HDL-1007 : analyze configuration mc8051_control_struc_cfg in ../vhdl/mc8051_control.vhd(344)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_siu.vhd
+HDL-1007 : analyze entity mc8051_siu in ../vhdl/mc8051_siu.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_siu.vhd(92)
+HDL-1007 : analyze configuration mc8051_siu_rtl_cfg in ../vhdl/mc8051_siu.vhd(1235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_tmrctr.vhd
+HDL-1007 : analyze entity mc8051_tmrctr in ../vhdl/mc8051_tmrctr.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_tmrctr.vhd(96)
+HDL-1007 : analyze configuration mc8051_tmrctr_rtl_cfg in ../vhdl/mc8051_tmrctr.vhd(797)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_core.vhd
+HDL-1007 : analyze entity mc8051_core in ../vhdl/mc8051_core.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_core.vhd(121)
+HDL-1007 : analyze configuration mc8051_core_struc_cfg in ../vhdl/mc8051_core.vhd(276)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_top.vhd
+HDL-1007 : analyze entity mc8051_top in ../vhdl/mc8051_top.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_top.vhd(104)
+HDL-1007 : analyze configuration mc8051_top_struc_cfg in ../vhdl/mc8051_top.vhd(200)
+HDL-1007 : analyze VHDL file MC8051OnBoard.vhd
+HDL-1007 : analyze entity mc8051onboard in MC8051OnBoard.vhd(9)
+HDL-1007 : analyze architecture rtl in MC8051OnBoard.vhd(19)
+HDL-1007 : analyze verilog file al_ip/pll.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom_td.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom.v
+RUN-1002 : start command "elaborate -top mc8051onboard"
+HDL-1007 : elaborate MC8051OnBoard(rtl) in MC8051OnBoard.vhd(9)
+HDL-1007 : switch to vlog to elaborate module pll in MC8051OnBoard.vhd(82)
+HDL-1007 : elaborate module pll in al_ip/pll.v(24)
+HDL-1007 : elaborate module EG_LOGIC_BUFG in C:/Anlogic/TD4.6.2/arch/eagle_macro.v(81)
+HDL-1007 : elaborate module EG_PHY_PLL(FIN="24.000",REFCLK_DIV=2,CLKC0_DIV=59,CLKC1_DIV=64,CLKC2_DIV=118,CLKC0_ENABLE="ENABLE",CLKC1_ENABLE="ENABLE",CLKC2_ENABLE="ENABLE",FEEDBK_PATH="CLKC0_EXT",STDBY_ENABLE="DISABLE",CLKC0_CPHASE=58,CLKC1_CPHASE=63,CLKC2_CPHASE=117,GMC_GAIN=0,ICP_CURRENT=9,KVCO=2,LPF_CAPACITOR=2,LPF_RESISTOR=8,SYNC_ENABLE="DISABLE") in C:/Anlogic/TD4.6.2/arch/eagle_macro.v(986)
+HDL-1007 : back to vhdl to elaborate in MC8051OnBoard.vhd(82)
+HDL-1007 : elaborate mc8051_top(struc) in ../vhdl/mc8051_top.vhd(74)
+HDL-1007 : elaborate mc8051_core(struc) in ../vhdl/mc8051_core.vhd(75)
+HDL-1007 : elaborate mc8051_control(struc) in ../vhdl/mc8051_control.vhd(74)
+HDL-1007 : elaborate control_fsm(rtl) in ../vhdl/control_fsm.vhd(74)
+HDL-1007 : others clause is never selected in ../vhdl/control_fsm.vhd(2223)
+HDL-1007 : elaborate control_mem(rtl) in ../vhdl/control_mem.vhd(75)
+HDL-1007 : others clause is never selected in ../vhdl/control_mem.vhd(833)
+HDL-1007 : others clause is never selected in ../vhdl/control_mem.vhd(932)
+HDL-1007 : others clause is never selected in ../vhdl/control_mem.vhd(938)
+HDL-1007 : others clause is never selected in ../vhdl/control_mem.vhd(1250)
+HDL-1007 : elaborate mc8051_alu(struc) in ../vhdl/mc8051_alu.vhd(75)
+HDL-1007 : elaborate alumux(rtl) in ../vhdl/alumux.vhd(74)
+HDL-1007 : elaborate alucore(rtl) in ../vhdl/alucore.vhd(73)
+HDL-1007 : elaborate addsub_core(dwidth=8)(struc) in ../vhdl/addsub_core.vhd(76)
+HDL-1007 : elaborate addsub_cy(rtl) in ../vhdl/addsub_cy.vhd(72)
+HDL-1007 : elaborate addsub_ovcy(rtl) in ../vhdl/addsub_ovcy.vhd(72)
+HDL-1007 : elaborate comb_mltplr(rtl) in ../vhdl/comb_mltplr.vhd(72)
+HDL-1007 : elaborate comb_divider(rtl) in ../vhdl/comb_divider.vhd(72)
+HDL-1007 : elaborate dcml_adjust(dwidth=8)(rtl) in ../vhdl/dcml_adjust.vhd(72)
+HDL-1007 : elaborate mc8051_siu(rtl) in ../vhdl/mc8051_siu.vhd(71)
+HDL-1007 : others clause is never selected in ../vhdl/mc8051_siu.vhd(816)
+HDL-1007 : others clause is never selected in ../vhdl/mc8051_siu.vhd(1215)
+HDL-1007 : elaborate mc8051_tmrctr(rtl) in ../vhdl/mc8051_tmrctr.vhd(71)
+HDL-1007 : others clause is never selected in ../vhdl/mc8051_tmrctr.vhd(541)
+HDL-1007 : others clause is never selected in ../vhdl/mc8051_tmrctr.vhd(784)
+HDL-1007 : elaborate mc8051_ram(ram_arch) in mc8051_ram.vhd(19)
+HDL-1007 : extracting RAM for identifier 'ram_mem' in mc8051_ram.vhd(36)
+HDL-1007 : switch to vlog to elaborate module mc8051_rom in ../vhdl/mc8051_top.vhd(181)
+HDL-1007 : elaborate module mc8051_rom in al_ip/mc8051_rom.v(1)
+HDL-1007 : elaborate module mc8051_rom_td in al_ip/mc8051_rom_td.v(14)
+HDL-1007 : elaborate module EG_LOGIC_BRAM(DATA_WIDTH_A=8,DATA_WIDTH_B=8,ADDR_WIDTH_A=8,ADDR_WIDTH_B=8,DATA_DEPTH_A=191,DATA_DEPTH_B=191,MODE="SP",INIT_FILE="led.mif") in C:/Anlogic/TD4.6.2/arch/eagle_macro.v(1072)
+HDL-5007 WARNING: actual bit length 12 differs from formal bit length 8 for port 'addra' in al_ip/mc8051_rom.v(9)
+HDL-1007 : back to vhdl to elaborate in ../vhdl/mc8051_top.vhd(181)
+HDL-1007 : elaborate mc8051_ramx(ramx_arch) in mc8051_ramx.vhd(19)
+HDL-1007 : extracting RAM for identifier 'ramx_mem' in mc8051_ramx.vhd(34)
+HDL-1200 : Current top model is MC8051OnBoard
+HDL-1100 : Inferred 2 RAMs.
+GUI-5001 WARNING: Found no ADC files
+RUN-1002 : start command "optimize_rtl"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+SYN-1012 : SanityCheck: Model "MC8051OnBoard"
+SYN-1012 : SanityCheck: Model "mc8051_top"
+SYN-1012 : SanityCheck: Model "mc8051_core"
+SYN-1012 : SanityCheck: Model "mc8051_siu"
+SYN-1012 : SanityCheck: Model "mc8051_tmrctr"
+SYN-1012 : SanityCheck: Model "mc8051_alu"
+SYN-1012 : SanityCheck: Model "dcml_adjust(dwidth=8)"
+SYN-1012 : SanityCheck: Model "comb_divider"
+SYN-1012 : SanityCheck: Model "comb_mltplr"
+SYN-1012 : SanityCheck: Model "addsub_core(dwidth=8)"
+SYN-1012 : SanityCheck: Model "addsub_cy"
+SYN-1012 : SanityCheck: Model "addsub_ovcy"
+SYN-1012 : SanityCheck: Model "alucore"
+SYN-1012 : SanityCheck: Model "alumux"
+SYN-1012 : SanityCheck: Model "mc8051_control"
+SYN-1012 : SanityCheck: Model "control_fsm"
+SYN-1012 : SanityCheck: Model "control_mem"
+SYN-1012 : SanityCheck: Model "mc8051_ram"
+SYN-1012 : SanityCheck: Model "mc8051_ramx"
+SYN-1012 : SanityCheck: Model "mc8051_rom"
+SYN-1012 : SanityCheck: Model "mc8051_rom_td"
+SYN-1012 : SanityCheck: Model "pll"
+SYN-1043 : Mark pll as IO macro for instance bufg_feedback
+SYN-1016 : Merged 592 instances.
+SYN-1016 : Merged 3 instances.
+SYN-1016 : Merged 865 instances.
+SYN-1016 : Merged 4 instances.
+SYN-1026 : Infer Logic BRAM(ram_ram_mem0)
+	 port mode: single port
+	 port a size: 128 x 8	 write mode: READBEFOREWRITE
+	 port b size: 128 x 8	 write mode: NORMAL
+SYN-1023 : Infer 0 Logic DRAMs, 1 Logic BRAMs.
+SYN-1026 : Infer Logic BRAM(ram_ramx_mem0)
+	 port mode: single port
+	 port a size: 8192 x 8	 write mode: READBEFOREWRITE
+	 port b size: 8192 x 8	 write mode: NORMAL
+SYN-1023 : Infer 0 Logic DRAMs, 1 Logic BRAMs.
+SYN-1011 : Flatten model MC8051OnBoard
+SYN-1011 : Flatten model mc8051_top
+SYN-1011 : Flatten model mc8051_core
+SYN-1011 : Flatten model mc8051_siu
+SYN-1011 : Flatten model mc8051_tmrctr
+SYN-1011 : Flatten model mc8051_alu
+SYN-1011 : Flatten model dcml_adjust(dwidth=8)
+SYN-1011 : Flatten model buf_8
+SYN-1011 : Flatten model comb_divider
+SYN-1011 : Flatten model comb_mltplr
+SYN-1011 : Flatten model addsub_core(dwidth=8)
+SYN-1011 : Flatten model addsub_cy
+SYN-1011 : Flatten model addsub_ovcy
+SYN-1016 : Merged 2 instances.
+SYN-1011 : Flatten model alucore
+SYN-1011 : Flatten model and_8
+SYN-1011 : Flatten model or_8
+SYN-1011 : Flatten model xor_8
+SYN-1011 : Flatten model inv_9
+SYN-1011 : Flatten model alumux
+SYN-1016 : Merged 7 instances.
+SYN-1011 : Flatten model mc8051_control
+SYN-1011 : Flatten model control_fsm
+SYN-1011 : Flatten model buf_3
+SYN-1011 : Flatten model inv_4
+SYN-1011 : Flatten model inv_3
+SYN-1011 : Flatten model buf_4
+SYN-1011 : Flatten model buf_2
+SYN-1016 : Merged 1 instances.
+SYN-1011 : Flatten model control_mem
+SYN-1011 : Flatten model reduce_nor_8
+SYN-1011 : Flatten model or_2
+SYN-1011 : Flatten model reduce_nor_2
+SYN-1011 : Flatten model Decoder_1
+SYN-1011 : Flatten model reduce_nor_22
+SYN-1011 : Flatten model Decoder_4
+SYN-1011 : Flatten model Decoder_3
+SYN-1011 : Flatten model buf_16
+SYN-1011 : Flatten model buf_7
+SYN-1011 : Flatten model reduce_nor_5
+SYN-1011 : Flatten model reduce_or_3
+SYN-1011 : Flatten model and_16
+SYN-1011 : Flatten model or_4
+SYN-1011 : Flatten model buf_6
+SYN-1011 : Flatten model reduce_nor_23
+SYN-1016 : Merged 26 instances.
+SYN-1016 : Merged 30 instances.
+SYN-1016 : Merged 10 instances.
+SYN-1011 : Flatten model mc8051_ram
+SYN-1011 : Flatten model mc8051_ramx
+SYN-1011 : Flatten model mc8051_rom
+SYN-1011 : Flatten model mc8051_rom_td
+SYN-1016 : Merged 6 instances.
+SYN-1011 : Flatten model pll
+SYN-1016 : Merged 44 instances.
+SYN-1014 : Optimize round 1
+SYN-1044 : Optimized 1 inv instances.
+SYN-1032 : 6216/588 useful/useless nets, 5956/525 useful/useless insts
+SYN-1017 : Remove 3 const input seq instances
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/reg0_b0
+SYN-1002 :     u8051_inst/i_mc8051_core/i_mc8051_control/i_control_mem/reg6_b0
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/reg0_b1
+SYN-1018 : Transformed 3 mux instances.
+SYN-1019 : Optimized 45 mux instances.
+SYN-1021 : Optimized 128 onehot mux instances.
+SYN-1020 : Optimized 1560 distributor mux.
+SYN-1016 : Merged 3226 instances.
+SYN-1015 : Optimize round 1, 6099 better
+SYN-1014 : Optimize round 2
+SYN-1044 : Optimized 2 inv instances.
+SYN-1032 : 5733/111 useful/useless nets, 5489/2417 useful/useless insts
+SYN-1017 : Remove 6 const input seq instances
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t0ff0_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t1ff0_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t0ff1_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t1ff1_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t0ff2_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t1ff2_reg
+SYN-1019 : Optimized 7 mux instances.
+SYN-1020 : Optimized 2 distributor mux.
+SYN-1016 : Merged 7 instances.
+SYN-1015 : Optimize round 2, 2501 better
+SYN-1014 : Optimize round 3
+SYN-1032 : 5677/41 useful/useless nets, 5433/42 useful/useless insts
+SYN-1019 : Optimized 0 mux instances.
+SYN-1016 : Merged 4 instances.
+SYN-1015 : Optimize round 3, 89 better
+SYN-1014 : Optimize round 4
+SYN-1032 : 5673/0 useful/useless nets, 5429/0 useful/useless insts
+SYN-1019 : Optimized 0 mux instances.
+SYN-1015 : Optimize round 4, 0 better
+RUN-1003 : finish command "optimize_rtl" in  2.658027s wall, 2.589617s user + 0.015600s system = 2.605217s CPU (98.0%)
+
+RUN-1004 : used memory is 537 MB, reserved memory is 498 MB, peak memory is 843 MB
+RUN-1002 : start command "report_area -file mc8051_top_rtl.area"
+RUN-1001 : standard
+***Report Model: MC8051OnBoard***
+
+IO Statistics
+#IO                     3
+  #input                2
+  #output               1
+  #inout                0
+
+Gate Statistics
+#Basic gates         3863
+  #and               1697
+  #nand                 0
+  #or                 360
+  #nor                  0
+  #xor                 15
+  #xnor                 0
+  #buf                  0
+  #not                361
+  #bufif1               0
+  #MX21               950
+  #FADD                 0
+  #DFF                480
+  #LATCH                0
+#MACRO_ADD             48
+#MACRO_EQ             250
+#MACRO_MULT             2
+#MACRO_MUX           1258
+
+RUN-1001 : 
+Report Hierarchy Area:
++------------------------------------------------+
+|Instance |Module        |gates  |seq    |macros |
++------------------------------------------------+
+|top      |MC8051OnBoard |3383   |480    |304    |
++------------------------------------------------+
+
+RUN-1002 : start command "export_db mc8051_top_rtl.db"
+RUN-1001 : Exported /
+RUN-1001 : Exported libs
+RUN-1001 : Exported entities
+RUN-1001 : Exported ports
+RUN-1001 : Exported pins
+RUN-1001 : Exported instances
+RUN-1001 : Exported nets
+RUN-1001 : Exported buses
+RUN-1001 : Exported models
+RUN-1001 : Exported congestions
+RUN-1001 : Exported violations
+RUN-1001 : Exported IO constraints
+RUN-1001 : Exported Inst constraints
+RUN-1001 : Exported flow parameters
+RUN-1003 : finish command "export_db mc8051_top_rtl.db" in  3.197876s wall, 1.918812s user + 0.078001s system = 1.996813s CPU (62.4%)
+
+RUN-1004 : used memory is 551 MB, reserved memory is 508 MB, peak memory is 843 MB
+RUN-1002 : start command "optimize_gate -packarea mc8051_top_gate.area"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+SYN-2001 : Map 3 IOs to PADs
+SYN-2501 : Processed 0 LOGIC_BUF instances.
+SYN-2501 : 1 BUFG to GCLK
+SYN-2512 : LOGIC BRAM "u8051_inst/i_mc8051_ram/ram_ram_mem0"
+SYN-2512 : LOGIC BRAM "u8051_inst/i_mc8051_ramx/ram_ramx_mem0"
+SYN-2512 : LOGIC BRAM "u8051_inst/i_mc8051_rom/u_rom/inst"
+SYN-2541 : Reading BRAM "u8051_inst/i_mc8051_rom/u_rom/inst" init file "I:/Version1_6_TDV4\td_proj\al_ip\led.mif"
+SYN-2542 : Parsing MIF init file
+SYN-2571 : Map 2 macro multiplier
+SYN-2571 : Optimize after map_dsp, round 1
+SYN-1032 : 5682/0 useful/useless nets, 5446/0 useful/useless insts
+SYN-2571 : Optimize after map_dsp, round 1, 0 better
+SYN-2501 : Optimize round 1
+SYN-1032 : 7835/0 useful/useless nets, 7599/0 useful/useless insts
+SYN-1016 : Merged 1584 instances.
+SYN-2501 : Optimize round 1, 3307 better
+SYN-2501 : Optimize round 2
+SYN-1032 : 6251/0 useful/useless nets, 6015/0 useful/useless insts
+SYN-2501 : Optimize round 2, 0 better
+SYN-2501 : Map 48 macro adder
+SYN-3001 : Mapper mapped 63 instances into 3 LUTs, name keeping = 33%.
+SYN-3001 : Mapper mapped 63 instances into 3 LUTs, name keeping = 33%.
+SYN-3001 : Mapper mapped 63 instances into 3 LUTs, name keeping = 100%.
+SYN-3001 : Mapper mapped 63 instances into 2 LUTs, name keeping = 50%.
+SYN-3001 : Mapper mapped 63 instances into 3 LUTs, name keeping = 100%.
+SYN-1032 : 18559/9 useful/useless nets, 18323/0 useful/useless insts
+SYN-3001 : X or Z is treated as constant in optimizing instance u8051_inst/i_mc8051_core/i_mc8051_control/_al_const_x.
+SYN-3001 : Running gate level optimization.
+SYN-2581 : Mapping with K=4, #lut = 4213 (3.31), #lev = 40 (30.11)
+SYN-2551 : Post LUT mapping optimization.
+SYN-3001 : Logic optimization runtime opt =   4.06 sec, map =   0.00 sec
+SYN-3001 : Mapper mapped 17413 instances into 4009 LUTs, name keeping = 20%.
+SYN-1001 : Packing model "MC8051OnBoard" ...
+SYN-4010 : Pack lib has 42 rtl pack models with 15 top pack blocks
+SYN-1014 : Optimize round 1
+SYN-1032 : 5112/5 useful/useless nets, 4879/5 useful/useless insts
+SYN-1015 : Optimize round 1, 10 better
+SYN-1014 : Optimize round 2
+SYN-1032 : 5112/0 useful/useless nets, 4879/0 useful/useless insts
+SYN-1015 : Optimize round 2, 0 better
+SYN-4002 : Packing 479 DFF/LATCH to SEQ ...
+SYN-4009 : Pack 14 carry chain into lslice
+SYN-4007 : Packing 203 adder to BLE ...
+SYN-4008 : Packed 203 adder and 0 SEQ to BLE.
+SYN-4007 : Packing 0 gate4 to BLE ...
+SYN-4008 : Packed 0 gate4 and 0 SEQ to BLE.
+SYN-4012 : Packed 0 FxMUX
+SYN-4007 : Packing 0 MUX to BLE ...
+SYN-4008 : Packed 0 MUX and 0 SEQ to BLE.
+SYN-4007 : Packing 4005 LUT to BLE ...
+SYN-4008 : Packed 4005 LUT and 458 SEQ to BLE.
+SYN-4003 : Packing 21 remaining SEQ's ...
+SYN-4004 : #0: Packed 0 SEQ (21 nodes)...
+SYN-4004 : #1: Packed 18 SEQ (23 nodes)...
+SYN-4005 : Packed 18 SEQ with LUT/SLICE
+SYN-4006 : 3529 single LUT's are left
+SYN-4006 : 3 single SEQ's are left
+SYN-4011 : Packing model "MC8051OnBoard" (AL_USER_NORMAL) with 4008/4187 primitive instances ...
+RUN-1002 : start command "report_area -file mc8051_top_gate.area"
+RUN-1001 : standard
+***Report Model: MC8051OnBoard***
+
+IO Statistics
+#IO                     3
+  #input                2
+  #output               1
+  #inout                0
+
+Utilization Statistics
+#lut                 4323   out of  19600   22.06%
+#reg                  479   out of  19600    2.44%
+#le                  4326
+  #lut only          3847   out of   4326   88.93%
+  #reg only             3   out of   4326    0.07%
+  #lut&reg            476   out of   4326   11.00%
+#dsp                    2   out of     29    6.90%
+#bram                  10   out of     64   15.63%
+  #bram9k              10
+  #fifo9k               0
+#bram32k                0   out of     16    0.00%
+#pad                    3   out of    188    1.60%
+  #ireg                 0
+  #oreg                 0
+  #treg                 0
+#pll                    1   out of      4   25.00%
+
+RUN-1001 : 
+Report Hierarchy Area:
++---------------------------------------------+
+|Instance |Module        |le    |lut   |seq   |
++---------------------------------------------+
+|top      |MC8051OnBoard |4326  |4323  |479   |
++---------------------------------------------+
+
+RUN-1003 : finish command "optimize_gate -packarea mc8051_top_gate.area" in  16.071021s wall, 16.099303s user + 0.062400s system = 16.161704s CPU (100.6%)
+
+RUN-1004 : used memory is 597 MB, reserved memory is 554 MB, peak memory is 843 MB
+RUN-1002 : start command "legalize_phy_inst"
+SYN-1011 : Flatten model MC8051OnBoard
+RUN-1002 : start command "export_db mc8051_top_gate.db"
+RUN-1001 : Exported /
+RUN-1001 : Exported libs
+RUN-1001 : Exported entities
+RUN-1001 : Exported ports
+RUN-1001 : Exported pins
+RUN-1001 : Exported instances
+RUN-1001 : Exported nets
+RUN-1001 : Exported buses
+RUN-1001 : Exported models
+RUN-1001 : Exported congestions
+RUN-1001 : Exported violations
+RUN-1001 : Exported IO constraints
+RUN-1001 : Exported Inst constraints
+RUN-1001 : Exported flow parameters
+RUN-1003 : finish command "export_db mc8051_top_gate.db" in  4.002623s wall, 2.574016s user + 0.093601s system = 2.667617s CPU (66.6%)
+
+RUN-1004 : used memory is 674 MB, reserved memory is 630 MB, peak memory is 843 MB
+RUN-1002 : start command "place"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+PHY-3001 : Placer runs in 4 thread(s).
+SYN-4016 : Net u_pll/clk0_out driven by BUFG (0 clock/control pins, 1 other pins).
+SYN-4027 : Net mcu_clk_110592 is clkc1 of pll u_pll/pll_inst.
+SYN-4019 : Net sysclk_pad is refclk of pll u_pll/pll_inst.
+SYN-4020 : Net sysclk_pad is fbclk of pll u_pll/pll_inst.
+SYN-4025 : Tag rtl::Net mcu_clk_110592 as clock net
+SYN-4025 : Tag rtl::Net sysclk_pad as clock net
+SYN-4025 : Tag rtl::Net u_pll/clk0_out as clock net
+SYN-4026 : Tagged 3 rtl::Net as clock net
+PHY-1001 : Populate physical database.
+RUN-1001 : There are total 2185 instances
+RUN-1001 : 1083 mslices, 1082 lslices, 3 pads, 10 brams, 2 dsps
+RUN-1001 : There are total 4465 nets
+RUN-1001 : 2966 nets have 2 pins
+RUN-1001 : 753 nets have [3 - 5] pins
+RUN-1001 : 489 nets have [6 - 10] pins
+RUN-1001 : 168 nets have [11 - 20] pins
+RUN-1001 : 82 nets have [21 - 99] pins
+RUN-1001 : 7 nets have 100+ pins
+PHY-3001 : Initial placement ...
+PHY-3001 : design contains 2183 instances, 2165 slices, 41 macros(159 instances)
+PHY-3001 : Start timing update ...
+RUN-1002 : start command "start_timer"
+TMR-5001 WARNING: No sdc constraints found while initiating timer.
+TMR-2505 : Start building timing graph for model MC8051OnBoard.
+TMR-2506 : Build timing graph completely. Port num: 3, tpin num: 19466, tnet num: 4463, tinst num: 2183, tnode num: 20899, tedge num: 31127.
+TMR-2507 : Eliminate loop in the timing graph, delete 0 tedges.
+TMR-2508 : Levelizing timing graph completed, there are 141 levels in total.
+TMR-2501 : Timing graph initialized successfully.
+RUN-1003 : finish command "start_timer" in  1.210625s wall, 1.216808s user + 0.000000s system = 1.216808s CPU (100.5%)
+
+RUN-1004 : used memory is 696 MB, reserved memory is 652 MB, peak memory is 843 MB
+TMR-2503 : Start to update net delay, extr mode = 2.
+TMR-2504 : Update delay of 4463 nets completely.
+TMR-2502 : Annotate delay completely, extr mode = 2.
+TMR-3002 : No user constraint, initiate default constraint.
+TMR-1501 : Assign derive clock DeriveClock to 934 clock pins, and constraint 1433 relative nodes.
+TMR-3005 : Start mapping report constraints, there are 0 constraints in total.
+TMR-3003 : Constraints initiated successfully.
+TMR-3501 : Forward propagation: start to calculate arrival time...
+TMR-3502 : Backward propagation: start to calculate required time...
+TMR-3503 : Timing propagation completes.
+PHY-3001 : End timing update;  1.390331s wall, 1.404009s user + 0.000000s system = 1.404009s CPU (101.0%)
+
+PHY-3001 : Global placement ...
+PHY-3001 : Initial: Len = 1.34602e+06
+PHY-3001 : Run with size of 4
+PHY-3001 : Cell area utilization is 22%, beta_incr = 0.867449
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 0
+PHY-3002 : Step(157): len = 1.03217e+06, overlap = 24.75
+PHY-3002 : Step(158): len = 852253, overlap = 27
+PHY-3002 : Step(159): len = 758113, overlap = 25.5
+PHY-3002 : Step(160): len = 689997, overlap = 39.5
+PHY-3002 : Step(161): len = 627401, overlap = 54.25
+PHY-3002 : Step(162): len = 571294, overlap = 76
+PHY-3002 : Step(163): len = 523408, overlap = 101.25
+PHY-3002 : Step(164): len = 479283, overlap = 117.25
+PHY-3002 : Step(165): len = 439564, overlap = 136.5
+PHY-3002 : Step(166): len = 400291, overlap = 159.25
+PHY-3002 : Step(167): len = 364572, overlap = 174.25
+PHY-3002 : Step(168): len = 333343, overlap = 191.75
+PHY-3002 : Step(169): len = 299367, overlap = 214.5
+PHY-3002 : Step(170): len = 265432, overlap = 239.75
+PHY-3002 : Step(171): len = 242545, overlap = 260.25
+PHY-3002 : Step(172): len = 221081, overlap = 285.5
+PHY-3002 : Step(173): len = 181554, overlap = 313.25
+PHY-3002 : Step(174): len = 158958, overlap = 327.75
+PHY-3002 : Step(175): len = 149158, overlap = 331.5
+PHY-3002 : Step(176): len = 105965, overlap = 373.5
+PHY-3002 : Step(177): len = 87534.3, overlap = 384.5
+PHY-3002 : Step(178): len = 82998.1, overlap = 386.25
+PHY-3002 : Step(179): len = 67898, overlap = 401.75
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 1.91151e-06
+PHY-3002 : Step(180): len = 65903.1, overlap = 401.25
+PHY-3002 : Step(181): len = 66366.6, overlap = 397.75
+PHY-3002 : Step(182): len = 71194, overlap = 393.25
+PHY-3002 : Step(183): len = 70807.1, overlap = 390.5
+PHY-3002 : Step(184): len = 72282.9, overlap = 388.25
+PHY-3002 : Step(185): len = 79383.1, overlap = 376
+PHY-3002 : Step(186): len = 91541.7, overlap = 348.75
+PHY-3002 : Step(187): len = 91613.7, overlap = 333.75
+PHY-3002 : Step(188): len = 91327.4, overlap = 330
+PHY-3002 : Step(189): len = 91270, overlap = 325.25
+PHY-3002 : Step(190): len = 93324.8, overlap = 307
+PHY-3002 : Step(191): len = 93683.7, overlap = 299.25
+PHY-3002 : Step(192): len = 93482.6, overlap = 294
+PHY-3002 : Step(193): len = 92747.3, overlap = 295.5
+PHY-3002 : Step(194): len = 92082, overlap = 294.25
+PHY-3002 : Step(195): len = 91177.3, overlap = 292
+PHY-3002 : Step(196): len = 90074.5, overlap = 274
+PHY-3002 : Step(197): len = 89085.6, overlap = 272
+PHY-3002 : Step(198): len = 88096.4, overlap = 273
+PHY-3002 : Step(199): len = 87030.9, overlap = 269.25
+PHY-3002 : Step(200): len = 85594.5, overlap = 270.75
+PHY-3002 : Step(201): len = 84302.2, overlap = 263.5
+PHY-3002 : Step(202): len = 82595.8, overlap = 262.25
+PHY-3002 : Step(203): len = 81805.4, overlap = 260.75
+PHY-3002 : Step(204): len = 81038.6, overlap = 264.25
+PHY-3002 : Step(205): len = 79905.8, overlap = 265
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 3.82302e-06
+PHY-3002 : Step(206): len = 80026.5, overlap = 259.5
+PHY-3002 : Step(207): len = 80576.7, overlap = 255
+PHY-3001 : :::3::: Try harder cell spreading with beta_ = 5.65094e-06
+PHY-3002 : Step(208): len = 80963.5, overlap = 248.25
+PHY-3002 : Step(209): len = 84396.5, overlap = 231.75
+PHY-3002 : Step(210): len = 87928.4, overlap = 213
+PHY-3002 : Step(211): len = 88973, overlap = 208.75
+PHY-3002 : Step(212): len = 91492.8, overlap = 201.75
+PHY-3002 : Step(213): len = 94207, overlap = 185.75
+PHY-3002 : Step(214): len = 95332, overlap = 179
+PHY-3002 : Step(215): len = 97619.5, overlap = 171.75
+PHY-3002 : Step(216): len = 98782.8, overlap = 163
+PHY-3001 : :::4::: Try harder cell spreading with beta_ = 1.13019e-05
+PHY-3002 : Step(217): len = 99296.8, overlap = 163.5
+PHY-3002 : Step(218): len = 100413, overlap = 159.5
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.006538s wall, 0.000000s user + 0.000000s system = 0.000000s CPU (n/a%)
+
+PHY-3001 : Run with size of 4
+PHY-3001 : Cell area utilization is 27%, beta_incr = 0.867449
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 7.11254e-07
+PHY-3002 : Step(219): len = 102227, overlap = 225.25
+PHY-3002 : Step(220): len = 101012, overlap = 235.75
+PHY-3002 : Step(221): len = 94715, overlap = 248.25
+PHY-3002 : Step(222): len = 89451.9, overlap = 253
+PHY-3002 : Step(223): len = 85916.3, overlap = 257
+PHY-3002 : Step(224): len = 76258.5, overlap = 297.75
+PHY-3002 : Step(225): len = 71146.8, overlap = 327.75
+PHY-3002 : Step(226): len = 68811.9, overlap = 334.25
+PHY-3002 : Step(227): len = 66490.3, overlap = 340
+PHY-3002 : Step(228): len = 64916.3, overlap = 341.75
+PHY-3002 : Step(229): len = 62955.2, overlap = 344.75
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 1.42251e-06
+PHY-3002 : Step(230): len = 62615.5, overlap = 344
+PHY-3002 : Step(231): len = 62633.4, overlap = 344.5
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 2.21047e-06
+PHY-3002 : Step(232): len = 63068.4, overlap = 344
+PHY-3002 : Step(233): len = 63874.6, overlap = 341.75
+PHY-3001 : :::3::: Try harder cell spreading with beta_ = 2.84143e-06
+PHY-3002 : Step(234): len = 63811.9, overlap = 342.25
+PHY-3002 : Step(235): len = 67355.6, overlap = 336.25
+PHY-3002 : Step(236): len = 74358.1, overlap = 321.5
+PHY-3002 : Step(237): len = 73564.7, overlap = 320.75
+PHY-3002 : Step(238): len = 73516, overlap = 320.5
+PHY-3002 : Step(239): len = 73630.3, overlap = 321
+PHY-3001 : :::4::: Try harder cell spreading with beta_ = 4.44606e-06
+PHY-3002 : Step(240): len = 74596.3, overlap = 319.5
+PHY-3002 : Step(241): len = 75552.1, overlap = 318.5
+PHY-3001 : :::5::: Try harder cell spreading with beta_ = 5.51132e-06
+PHY-3002 : Step(242): len = 75889.8, overlap = 316
+PHY-3002 : Step(243): len = 77890.7, overlap = 315.25
+PHY-3002 : Step(244): len = 84484.4, overlap = 307.25
+PHY-3002 : Step(245): len = 86670.8, overlap = 297.75
+PHY-3002 : Step(246): len = 87296.5, overlap = 292.75
+PHY-3002 : Step(247): len = 88921, overlap = 282.5
+PHY-3001 : :::6::: Try harder cell spreading with beta_ = 1.09932e-05
+PHY-3002 : Step(248): len = 89501.1, overlap = 274.5
+PHY-3002 : Step(249): len = 93070.5, overlap = 267
+PHY-3002 : Step(250): len = 98230.9, overlap = 238.75
+PHY-3002 : Step(251): len = 99642.6, overlap = 227.5
+PHY-3002 : Step(252): len = 105488, overlap = 199.25
+PHY-3002 : Step(253): len = 107961, overlap = 180.5
+PHY-3002 : Step(254): len = 108383, overlap = 179.25
+PHY-3002 : Step(255): len = 109108, overlap = 175.5
+PHY-3001 : :::7::: Try harder cell spreading with beta_ = 2.19863e-05
+PHY-3002 : Step(256): len = 110116, overlap = 173.5
+PHY-3002 : Step(257): len = 116891, overlap = 158.25
+PHY-3002 : Step(258): len = 120645, overlap = 144
+PHY-3002 : Step(259): len = 120151, overlap = 139.75
+PHY-3002 : Step(260): len = 120401, overlap = 137.25
+PHY-3002 : Step(261): len = 121113, overlap = 134.5
+PHY-3001 : :::8::: Try harder cell spreading with beta_ = 4.39727e-05
+PHY-3002 : Step(262): len = 122813, overlap = 114.25
+PHY-3002 : Step(263): len = 127685, overlap = 107
+PHY-3002 : Step(264): len = 130357, overlap = 103.5
+PHY-3002 : Step(265): len = 132473, overlap = 98.75
+PHY-3002 : Step(266): len = 133721, overlap = 96.5
+PHY-3002 : Step(267): len = 134253, overlap = 95.75
+PHY-3002 : Step(268): len = 134842, overlap = 99.5
+PHY-3001 : :::9::: Try harder cell spreading with beta_ = 8.79453e-05
+PHY-3002 : Step(269): len = 136903, overlap = 94.75
+PHY-3002 : Step(270): len = 139464, overlap = 92
+PHY-3002 : Step(271): len = 140757, overlap = 88.75
+PHY-3001 : :::10::: Try harder cell spreading with beta_ = 0.000175891
+PHY-3002 : Step(272): len = 145283, overlap = 79
+PHY-3002 : Step(273): len = 147780, overlap = 64.5
+PHY-3002 : Step(274): len = 147532, overlap = 60.5
+PHY-3002 : Step(275): len = 147281, overlap = 60.75
+PHY-3001 : Run with size of 2
+PHY-3001 : Cell area utilization is 27%, beta_incr = 0.867449
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 4.58693e-05
+PHY-3002 : Step(276): len = 147549, overlap = 127.5
+PHY-3002 : Step(277): len = 146940, overlap = 118.25
+PHY-3002 : Step(278): len = 145007, overlap = 112.5
+PHY-3002 : Step(279): len = 142854, overlap = 115.25
+PHY-3002 : Step(280): len = 140348, overlap = 116.25
+PHY-3002 : Step(281): len = 138452, overlap = 117.25
+PHY-3002 : Step(282): len = 136379, overlap = 117.5
+PHY-3002 : Step(283): len = 134127, overlap = 117.75
+PHY-3002 : Step(284): len = 132592, overlap = 120.5
+PHY-3002 : Step(285): len = 131613, overlap = 122.75
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 9.17385e-05
+PHY-3002 : Step(286): len = 135787, overlap = 107.5
+PHY-3002 : Step(287): len = 138817, overlap = 98.75
+PHY-3002 : Step(288): len = 140336, overlap = 99.25
+PHY-3002 : Step(289): len = 140947, overlap = 99.75
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 0.000180552
+PHY-3002 : Step(290): len = 143813, overlap = 90
+PHY-3002 : Step(291): len = 147852, overlap = 74.25
+PHY-3002 : Step(292): len = 150531, overlap = 66.5
+PHY-3002 : Step(293): len = 149863, overlap = 68
+PHY-3002 : Step(294): len = 149598, overlap = 69.5
+PHY-3001 : :::3::: Try harder cell spreading with beta_ = 0.000348162
+PHY-3002 : Step(295): len = 152006, overlap = 60.75
+PHY-3002 : Step(296): len = 153539, overlap = 62
+PHY-3002 : Step(297): len = 155523, overlap = 61.5
+PHY-3002 : Step(298): len = 156194, overlap = 61
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.167539s wall, 0.124801s user + 0.078001s system = 0.202801s CPU (121.0%)
+
+PHY-3001 : Run with size of 2
+PHY-3001 : Cell area utilization is 27%, beta_incr = 0.867449
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 0.000187526
+PHY-3002 : Step(299): len = 164881, overlap = 10
+PHY-3002 : Step(300): len = 160256, overlap = 26
+PHY-3002 : Step(301): len = 156079, overlap = 43
+PHY-3002 : Step(302): len = 153864, overlap = 50.5
+PHY-3002 : Step(303): len = 152560, overlap = 57
+PHY-3002 : Step(304): len = 151843, overlap = 60.5
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 0.000375052
+PHY-3002 : Step(305): len = 153946, overlap = 54.25
+PHY-3002 : Step(306): len = 155342, overlap = 53.25
+PHY-3002 : Step(307): len = 155774, overlap = 53
+PHY-3002 : Step(308): len = 156151, overlap = 51
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 0.00074004
+PHY-3002 : Step(309): len = 157588, overlap = 49
+PHY-3002 : Step(310): len = 158956, overlap = 47.75
+PHY-3002 : Step(311): len = 159726, overlap = 51.25
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.019253s wall, 0.015600s user + 0.000000s system = 0.015600s CPU (81.0%)
+
+PHY-3001 : Legalized: Len = 166355, Over = 0
+PHY-3001 : Final: Len = 166355, Over = 0
+PHY-3001 : Improving timing with driver duplication.
+RUN-1001 : Generating global routing grids ...
+PHY-1001 : Generate routing nets ...
+PHY-1001 : Global iterations in 4 thread ...
+PHY-1002 : len = 507736, over cnt = 90(0%), over = 99, worst = 2
+PHY-1002 : len = 508312, over cnt = 33(0%), over = 36, worst = 2
+PHY-1002 : len = 508320, over cnt = 9(0%), over = 10, worst = 2
+PHY-1002 : len = 507744, over cnt = 2(0%), over = 2, worst = 1
+PHY-1002 : len = 507744, over cnt = 0(0%), over = 0, worst = 0
+PHY-1001 : End global iterations;  0.127819s wall, 0.124801s user + 0.000000s system = 0.124801s CPU (97.6%)
+
+RUN-1002 : start command "place -eco"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+PHY-3001 : Placer runs in 4 thread(s).
+PHY-1001 : Populate physical database.
+PHY-3001 : Initial placement ...
+PHY-3001 : eco special cells: 1 has valid locations, 0 needs to be replaced
+PHY-3001 : eco pad cells: 3 has valid locations, 0 needs to be replaced
+PHY-3001 : eco cells: 2166 has valid locations, 73 needs to be replaced
+PHY-3001 : design contains 2245 instances, 2227 slices, 41 macros(159 instances)
+PHY-3001 : Start timing update ...
+RUN-1002 : start command "start_timer"
+TMR-5001 WARNING: No sdc constraints found while initiating timer.
+TMR-2505 : Start building timing graph for model MC8051OnBoard.
+TMR-2506 : Build timing graph completely. Port num: 3, tpin num: 19958, tnet num: 4525, tinst num: 2245, tnode num: 21415, tedge num: 31758.
+TMR-2507 : Eliminate loop in the timing graph, delete 0 tedges.
+TMR-2508 : Levelizing timing graph completed, there are 141 levels in total.
+TMR-2501 : Timing graph initialized successfully.
+RUN-1003 : finish command "start_timer" in  1.302144s wall, 1.326008s user + 0.000000s system = 1.326008s CPU (101.8%)
+
+RUN-1004 : used memory is 735 MB, reserved memory is 690 MB, peak memory is 843 MB
+TMR-2503 : Start to update net delay, extr mode = 2.
+TMR-2504 : Update delay of 4525 nets completely.
+TMR-2502 : Annotate delay completely, extr mode = 2.
+TMR-3002 : No user constraint, initiate default constraint.
+TMR-1501 : Assign derive clock DeriveClock to 950 clock pins, and constraint 1457 relative nodes.
+TMR-3005 : Start mapping report constraints, there are 0 constraints in total.
+TMR-3003 : Constraints initiated successfully.
+TMR-3501 : Forward propagation: start to calculate arrival time...
+TMR-3502 : Backward propagation: start to calculate required time...
+TMR-3503 : Timing propagation completes.
+PHY-3001 : End timing update;  1.480829s wall, 1.497610s user + 0.000000s system = 1.497610s CPU (101.1%)
+
+PHY-3001 : Global placement ...
+PHY-3001 : Initial: Len = 176634
+PHY-3001 : Run with size of 4
+PHY-3001 : Cell area utilization is 22%, beta_incr = 0.863653
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 0
+PHY-3002 : Step(312): len = 176158, overlap = 2.5
+PHY-3002 : Step(313): len = 176296, overlap = 2.25
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 0.00085845
+PHY-3002 : Step(314): len = 176168, overlap = 1.25
+PHY-3002 : Step(315): len = 176275, overlap = 1.25
+PHY-3002 : Step(316): len = 176435, overlap = 0.75
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.004116s wall, 0.000000s user + 0.000000s system = 0.000000s CPU (n/a%)
+
+PHY-3001 : Run with size of 4
+PHY-3001 : Cell area utilization is 28%, beta_incr = 0.863653
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 1.65585e-05
+PHY-3002 : Step(317): len = 176196, overlap = 4.5
+PHY-3002 : Step(318): len = 176196, overlap = 4.5
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 3.31169e-05
+PHY-3002 : Step(319): len = 176144, overlap = 4.25
+PHY-3002 : Step(320): len = 176144, overlap = 4.25
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 6.62338e-05
+PHY-3002 : Step(321): len = 176217, overlap = 4
+PHY-3002 : Step(322): len = 176217, overlap = 4
+PHY-3001 : Run with size of 2
+PHY-3001 : Cell area utilization is 28%, beta_incr = 0.863653
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 7.14629e-05
+PHY-3002 : Step(323): len = 176187, overlap = 10.75
+PHY-3002 : Step(324): len = 176203, overlap = 10.5
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 0.000119669
+PHY-3002 : Step(325): len = 176263, overlap = 9.5
+PHY-3002 : Step(326): len = 176354, overlap = 8.75
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 0.000239339
+PHY-3002 : Step(327): len = 176449, overlap = 7.5
+PHY-3002 : Step(328): len = 176449, overlap = 7.5
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.021957s wall, 0.046800s user + 0.000000s system = 0.046800s CPU (213.1%)
+
+PHY-3001 : Run with size of 2
+PHY-3001 : Cell area utilization is 28%, beta_incr = 0.863653
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 0.000223651
+PHY-3002 : Step(329): len = 177133, overlap = 3.25
+PHY-3002 : Step(330): len = 177133, overlap = 3.25
+PHY-3002 : Step(331): len = 177053, overlap = 4
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.007464s wall, 0.000000s user + 0.000000s system = 0.000000s CPU (n/a%)
+
+PHY-3001 : Legalized: Len = 177454, Over = 0
+PHY-3001 : Final: Len = 177454, Over = 0
+RUN-1003 : finish command "place -eco" in  1.974490s wall, 2.230814s user + 0.109201s system = 2.340015s CPU (118.5%)
+
+RUN-1004 : used memory is 739 MB, reserved memory is 694 MB, peak memory is 843 MB
+RUN-1001 : Eco place succeeded
+RUN-1003 : finish command "place" in  9.086248s wall, 18.361318s user + 0.920406s system = 19.281724s CPU (212.2%)
+
+RUN-1004 : used memory is 739 MB, reserved memory is 694 MB, peak memory is 843 MB
+RUN-1002 : start command "route"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+PHY-1001 : Pin misalignment score is improved from 2811 to 1965
+PHY-1001 : Pin misalignment score is improved from 1965 to 1933
+PHY-1001 : Pin misalignment score is improved from 1933 to 1933
+PHY-1001 : Route runs in 4 thread(s)
+RUN-1001 : There are total 2247 instances
+RUN-1001 : 1103 mslices, 1124 lslices, 3 pads, 10 brams, 2 dsps
+RUN-1001 : There are total 4527 nets
+RUN-1001 : 2933 nets have 2 pins
+RUN-1001 : 751 nets have [3 - 5] pins
+RUN-1001 : 514 nets have [6 - 10] pins
+RUN-1001 : 213 nets have [11 - 20] pins
+RUN-1001 : 113 nets have [21 - 99] pins
+RUN-1001 : 3 nets have 100+ pins
+PHY-1001 : Start global routing ...
+RUN-1001 : Generating global routing grids ...
+PHY-1001 : Generate routing nets ...
+PHY-1001 : Global iterations in 4 thread ...
+PHY-1002 : len = 500040, over cnt = 105(0%), over = 115, worst = 2
+PHY-1002 : len = 500864, over cnt = 39(0%), over = 41, worst = 2
+PHY-1002 : len = 500416, over cnt = 26(0%), over = 27, worst = 2
+PHY-1002 : len = 499560, over cnt = 2(0%), over = 2, worst = 1
+PHY-1002 : len = 499592, over cnt = 0(0%), over = 0, worst = 0
+PHY-1001 : End global iterations;  0.120700s wall, 0.187201s user + 0.000000s system = 0.187201s CPU (155.1%)
+
+PHY-1001 : End global routing;  0.274921s wall, 0.343202s user + 0.000000s system = 0.343202s CPU (124.8%)
+
+PHY-1001 : Start detail routing ...
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : Generate nets ...
+PHY-1001 : net mcu_clk_110592 will be routed on clock mesh
+PHY-1001 : net sysclk_pad will be routed on clock mesh
+PHY-1001 : clock net u_pll/clk0_out will be merged with clock u_pll/clk0_buf
+PHY-1001 : Detail Route ...
+PHY-1001 : ===== Detail Route Phase 1 =====
+PHY-1001 : Routed 0% nets.
+PHY-1002 : len = 33000, over cnt = 0(0%), over = 0, worst = 0
+PHY-1001 : End Routed; 0.013473s wall, 0.015600s user + 0.000000s system = 0.015600s CPU (115.8%)
+
+PHY-1001 : ===== Detail Route Phase 2 =====
+PHY-1001 : Routed 0% nets.
+PHY-1002 : len = 33000, over cnt = 0(0%), over = 0, worst = 0
+PHY-1001 : End Routed; 0.000016s wall, 0.000000s user + 0.000000s system = 0.000000s CPU (n/a%)
+
+PHY-1001 : ===== Detail Route Phase 3 =====
+PHY-1001 : Routed 52% nets.
+PHY-1001 : Routed 58% nets.
+PHY-1001 : Routed 66% nets.
+PHY-1001 : Routed 77% nets.
+PHY-1001 : Routed 97% nets.
+PHY-1002 : len = 765264, over cnt = 189(0%), over = 189, worst = 1
+PHY-1001 : End Routed; 6.423901s wall, 10.264866s user + 0.109201s system = 10.374066s CPU (161.5%)
+
+PHY-1001 : ===== DR Iter 1 =====
+PHY-1002 : len = 760576, over cnt = 24(0%), over = 24, worst = 1
+PHY-1001 : End DR Iter 1; 0.229692s wall, 0.234002s user + 0.000000s system = 0.234002s CPU (101.9%)
+
+PHY-1001 : ===== DR Iter 2 =====
+PHY-1002 : len = 760224, over cnt = 2(0%), over = 2, worst = 1
+PHY-1001 : End DR Iter 2; 0.053906s wall, 0.046800s user + 0.000000s system = 0.046800s CPU (86.8%)
+
+PHY-1001 : ===== DR Iter 3 =====
+PHY-1002 : len = 760144, over cnt = 0(0%), over = 0, worst = 0
+PHY-1003 : Routed, final wirelength = 760144
+PHY-1001 : End DR Iter 3; 0.036909s wall, 0.031200s user + 0.000000s system = 0.031200s CPU (84.5%)
+
+PHY-1001 : 0 feed throughs used by 0 nets
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : Generate nets ...
+PHY-1001 : net mcu_clk_110592 will be routed on clock mesh
+PHY-1001 : net sysclk_pad will be routed on clock mesh
+PHY-1001 : clock net u_pll/clk0_out will be merged with clock u_pll/clk0_buf
+PHY-1001 : eco open net = 0
+PHY-1001 : End detail routing;  9.010672s wall, 12.807682s user + 0.187201s system = 12.994883s CPU (144.2%)
+
+PHY-1001 : Routing violations:
+PHY-1001 : End of Routing Violations.
+RUN-1003 : finish command "route" in  9.832971s wall, 13.712488s user + 0.187201s system = 13.899689s CPU (141.4%)
+
+RUN-1004 : used memory is 823 MB, reserved memory is 779 MB, peak memory is 1008 MB
+RUN-1002 : start command "report_area -io_info -file mc8051_top_phy.area"
+RUN-1001 : standard
+***Report Model: MC8051OnBoard***
+
+IO Statistics
+#IO                     3
+  #input                2
+  #output               1
+  #inout                0
+
+Utilization Statistics
+#lut                 4447   out of  19600   22.69%
+#reg                  487   out of  19600    2.48%
+#le                  4450
+  #lut only          3963   out of   4450   89.06%
+  #reg only             3   out of   4450    0.07%
+  #lut&reg            484   out of   4450   10.88%
+#dsp                    2   out of     29    6.90%
+#bram                  10   out of     64   15.63%
+  #bram9k              10
+  #fifo9k               0
+#bram32k                0   out of     16    0.00%
+#pad                    2   out of    188    1.06%
+  #ireg                 0
+  #oreg                 0
+  #treg                 0
+#pll                    1   out of      4   25.00%
+
+RUN-1001 : 
+
+RUN-1002 : start command "export_db mc8051_top_pr.db"
+RUN-1001 : Exported /
+RUN-1001 : Exported libs
+RUN-1001 : Exported entities
+RUN-1001 : Exported ports
+RUN-1001 : Exported pins
+RUN-1001 : Exported instances
+RUN-1001 : Exported nets
+RUN-1001 : Exported buses
+RUN-1001 : Exported models
+RUN-1001 : Exported congestions
+RUN-1001 : Exported violations
+RUN-1001 : Exported IO constraints
+RUN-1001 : Exported Inst constraints
+RUN-1001 : Exported flow parameters
+RUN-1003 : finish command "export_db mc8051_top_pr.db" in  4.036027s wall, 2.574016s user + 0.078001s system = 2.652017s CPU (65.7%)
+
+RUN-1004 : used memory is 822 MB, reserved memory is 777 MB, peak memory is 1008 MB
+RUN-1002 : start command "bitgen -bit mc8051_top.bit -version 0X00 -g ucode:00000000011111010000000000000000"
+BIT-1003 : Start to generate bitstream. 
+BIT-1002 : Init instances with 4 threads.
+BIT-1002 : Init instances completely, inst num: 2247
+BIT-1002 : Init pips with 4 threads.
+BIT-1002 : Init pips completely, net num: 4527, pip num: 48633
+BIT-1003 : Multithreading accelaration with 4 threads.
+BIT-1003 : Generate bitstream completely, there are 1631 valid insts, and 139154 bits set as '1'.
+BIT-1004 : PLL setting string = 0001
+BIT-1004 : Generate bits file mc8051_top.bit.
+RUN-1003 : finish command "bitgen -bit mc8051_top.bit -version 0X00 -g ucode:00000000011111010000000000000000" in  6.815316s wall, 21.871340s user + 0.046800s system = 21.918140s CPU (321.6%)
+
+RUN-1004 : used memory is 822 MB, reserved memory is 778 MB, peak memory is 1008 MB
+GUI-8003 ERROR: mc8051_ram.v is missing!
+GUI-8003 ERROR: mc8051_rom.v is missing!
+GUI-8003 ERROR: ../MC8051OnBoard.v is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_p.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_core_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_core_struc.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_cy_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_cy_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_cy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_ovcy_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_ovcy_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_ovcy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alucore_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alucore_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alucore_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alumux_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alumux_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alumux_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_divider_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_divider_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_divider_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_mltplr_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_mltplr_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_mltplr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_fsm_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_fsm_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_fsm_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_mem_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_mem_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_mem_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/dcml_adjust_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/dcml_adjust_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/dcml_adjust_rtl_cfg.vhd is missing!
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/mc8051_p.vhd'
+HDL-1007 : analyze VHDL file mc8051_ram.vhd
+HDL-1007 : analyze entity mc8051_ram in mc8051_ram.vhd(19)
+HDL-1007 : analyze architecture ram_arch in mc8051_ram.vhd(33)
+HDL-1007 : analyze configuration mc8051_ram_sim_cfg in mc8051_ram.vhd(50)
+HDL-1007 : analyze VHDL file mc8051_ramx.vhd
+HDL-1007 : analyze entity mc8051_ramx in mc8051_ramx.vhd(19)
+HDL-1007 : analyze architecture ramx_arch in mc8051_ramx.vhd(32)
+HDL-1007 : analyze configuration mc8051_ramx_sim_cfg in mc8051_ramx.vhd(47)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_p.vhd
+HDL-1007 : analyze package mc8051_p in ../vhdl/mc8051_p.vhd(69)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_ovcy.vhd
+HDL-1007 : analyze entity addsub_ovcy in ../vhdl/addsub_ovcy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_ovcy.vhd(85)
+HDL-1007 : analyze configuration addsub_ovcy_rtl_cfg in ../vhdl/addsub_ovcy.vhd(159)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_cy.vhd
+HDL-1007 : analyze entity addsub_cy in ../vhdl/addsub_cy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_cy.vhd(85)
+HDL-1007 : analyze configuration addsub_cy_rtl_cfg in ../vhdl/addsub_cy.vhd(115)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_core.vhd
+HDL-1007 : analyze entity addsub_core in ../vhdl/addsub_core.vhd(76)
+HDL-1007 : analyze architecture struc in ../vhdl/addsub_core.vhd(91)
+HDL-1007 : analyze configuration addsub_core_struc_cfg in ../vhdl/addsub_core.vhd(142)
+HDL-1007 : analyze VHDL file ../vhdl/alucore.vhd
+HDL-1007 : analyze entity alucore in ../vhdl/alucore.vhd(73)
+HDL-1007 : analyze architecture rtl in ../vhdl/alucore.vhd(94)
+HDL-1007 : analyze configuration alucore_rtl_cfg in ../vhdl/alucore.vhd(191)
+HDL-1007 : analyze VHDL file ../vhdl/alumux.vhd
+HDL-1007 : analyze entity alumux in ../vhdl/alumux.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/alumux.vhd(125)
+HDL-1007 : analyze configuration alumux_rtl_cfg in ../vhdl/alumux.vhd(494)
+HDL-1007 : analyze VHDL file ../vhdl/comb_divider.vhd
+HDL-1007 : analyze entity comb_divider in ../vhdl/comb_divider.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_divider.vhd(82)
+HDL-1007 : analyze configuration comb_divider_rtl_cfg in ../vhdl/comb_divider.vhd(130)
+HDL-1007 : analyze VHDL file ../vhdl/comb_mltplr.vhd
+HDL-1007 : analyze entity comb_mltplr in ../vhdl/comb_mltplr.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_mltplr.vhd(82)
+HDL-1007 : analyze configuration comb_mltplr_rtl_cfg in ../vhdl/comb_mltplr.vhd(104)
+HDL-1007 : analyze VHDL file ../vhdl/control_fsm.vhd
+HDL-1007 : analyze entity control_fsm in ../vhdl/control_fsm.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_fsm.vhd(126)
+HDL-1007 : analyze configuration control_fsm_rtl_cfg in ../vhdl/control_fsm.vhd(2231)
+HDL-1007 : analyze VHDL file ../vhdl/control_mem.vhd
+HDL-1007 : analyze entity control_mem in ../vhdl/control_mem.vhd(75)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_mem.vhd(206)
+HDL-1007 : analyze configuration control_mem_rtl_cfg in ../vhdl/control_mem.vhd(1285)
+HDL-1007 : analyze VHDL file ../vhdl/dcml_adjust.vhd
+HDL-1007 : analyze entity dcml_adjust in ../vhdl/dcml_adjust.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/dcml_adjust.vhd(90)
+HDL-1007 : analyze configuration dcml_adjust_rtl_cfg in ../vhdl/dcml_adjust.vhd(168)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_alu.vhd
+HDL-1007 : analyze entity mc8051_alu in ../vhdl/mc8051_alu.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_alu.vhd(104)
+HDL-1007 : analyze configuration mc8051_alu_struc_cfg in ../vhdl/mc8051_alu.vhd(235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_control.vhd
+HDL-1007 : analyze entity mc8051_control in ../vhdl/mc8051_control.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_control.vhd(142)
+HDL-1007 : analyze configuration mc8051_control_struc_cfg in ../vhdl/mc8051_control.vhd(344)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_siu.vhd
+HDL-1007 : analyze entity mc8051_siu in ../vhdl/mc8051_siu.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_siu.vhd(92)
+HDL-1007 : analyze configuration mc8051_siu_rtl_cfg in ../vhdl/mc8051_siu.vhd(1235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_tmrctr.vhd
+HDL-1007 : analyze entity mc8051_tmrctr in ../vhdl/mc8051_tmrctr.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_tmrctr.vhd(96)
+HDL-1007 : analyze configuration mc8051_tmrctr_rtl_cfg in ../vhdl/mc8051_tmrctr.vhd(797)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_core.vhd
+HDL-1007 : analyze entity mc8051_core in ../vhdl/mc8051_core.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_core.vhd(121)
+HDL-1007 : analyze configuration mc8051_core_struc_cfg in ../vhdl/mc8051_core.vhd(276)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_top.vhd
+HDL-1007 : analyze entity mc8051_top in ../vhdl/mc8051_top.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_top.vhd(104)
+HDL-1007 : analyze configuration mc8051_top_struc_cfg in ../vhdl/mc8051_top.vhd(200)
+HDL-1007 : analyze VHDL file MC8051OnBoard.vhd
+HDL-1007 : analyze entity mc8051onboard in MC8051OnBoard.vhd(9)
+HDL-1007 : analyze architecture rtl in MC8051OnBoard.vhd(19)
+HDL-1007 : analyze verilog file al_ip/pll.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom_td.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom.v

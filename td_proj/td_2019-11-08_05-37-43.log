@@ -1,0 +1,233 @@
+============================================================
+   Tang Dynasty, V4.6.14314
+   Copyright:   Shanghai Anlogic Infotech Co., Ltd.
+                2011 - 2021
+   Executable = C:/Anlogic/TD4.6.2/bin/td.exe
+   Built at =   11:20:06 Sep 19 2019
+   Run by =     NiceFamily
+   Run Date =   Fri Nov  8 05:37:43 2019
+
+   Run on =     NICEFAMILY-PC
+============================================================
+RUN-1002 : start command "open_project mc8051_top.al"
+GUI-8003 ERROR: mc8051_ram.v is missing!
+GUI-8003 ERROR: mc8051_rom.v is missing!
+GUI-8003 ERROR: ../MC8051OnBoard.v is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_p.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_struc_cfg.vhd is missing!
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/addsub_core_.vhd'
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/addsub_core_struc.vhd'
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/addsub_core_struc_cfg.vhd'
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/addsub_cy_.vhd'
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/addsub_cy_rtl.vhd'
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/addsub_cy_rtl_cfg.vhd'
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/addsub_ovcy_.vhd'
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/addsub_ovcy_rtl.vhd'
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/addsub_ovcy_rtl_cfg.vhd'
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/alucore_.vhd'
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/alucore_rtl.vhd'
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/alucore_rtl_cfg.vhd'
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/alumux_.vhd'
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/alumux_rtl.vhd'
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/alumux_rtl_cfg.vhd'
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/comb_divider_.vhd'
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/comb_divider_rtl.vhd'
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/comb_divider_rtl_cfg.vhd'
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/comb_mltplr_.vhd'
+HDL-1007 : Sorry, too many errors..
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_p.vhd
+HDL-1007 : analyze package mc8051_p in ../vhdl/mc8051_p.vhd(69)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_core_.vhd
+HDL-1007 : analyze entity addsub_core in ../vhdl/addsub_core_.vhd(76)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_core_struc.vhd
+HDL-1007 : analyze architecture struc in ../vhdl/addsub_core_struc.vhd(67)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_ovcy_.vhd
+HDL-1007 : analyze entity addsub_ovcy in ../vhdl/addsub_ovcy_.vhd(72)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_ovcy_rtl.vhd
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_ovcy_rtl.vhd(66)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_ovcy_rtl_cfg.vhd
+HDL-1007 : analyze configuration addsub_ovcy_rtl_cfg in ../vhdl/addsub_ovcy_rtl_cfg.vhd(66)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_cy_.vhd
+HDL-1007 : analyze entity addsub_cy in ../vhdl/addsub_cy_.vhd(72)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_cy_rtl.vhd
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_cy_rtl.vhd(66)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_cy_rtl_cfg.vhd
+HDL-1007 : analyze configuration addsub_cy_rtl_cfg in ../vhdl/addsub_cy_rtl_cfg.vhd(66)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_core_struc_cfg.vhd
+HDL-1007 : analyze configuration addsub_core_struc_cfg in ../vhdl/addsub_core_struc_cfg.vhd(67)
+HDL-1007 : analyze VHDL file ../vhdl/alucore_.vhd
+HDL-1007 : analyze entity alucore in ../vhdl/alucore_.vhd(73)
+HDL-1007 : analyze VHDL file ../vhdl/alucore_rtl.vhd
+HDL-1007 : analyze architecture rtl in ../vhdl/alucore_rtl.vhd(65)
+HDL-1007 : analyze VHDL file ../vhdl/alucore_rtl_cfg.vhd
+HDL-1007 : analyze configuration alucore_rtl_cfg in ../vhdl/alucore_rtl_cfg.vhd(65)
+HDL-1007 : analyze VHDL file ../vhdl/alumux_.vhd
+HDL-1007 : analyze entity alumux in ../vhdl/alumux_.vhd(74)
+HDL-1007 : analyze VHDL file ../vhdl/alumux_rtl.vhd
+HDL-1007 : analyze architecture rtl in ../vhdl/alumux_rtl.vhd(65)
+HDL-1007 : analyze VHDL file ../vhdl/alumux_rtl_cfg.vhd
+HDL-1007 : analyze configuration alumux_rtl_cfg in ../vhdl/alumux_rtl_cfg.vhd(65)
+HDL-1007 : analyze VHDL file ../vhdl/comb_divider_.vhd
+HDL-1007 : analyze entity comb_divider in ../vhdl/comb_divider_.vhd(72)
+HDL-1007 : analyze VHDL file ../vhdl/comb_divider_rtl.vhd
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_divider_rtl.vhd(66)
+HDL-1007 : analyze VHDL file ../vhdl/comb_divider_rtl_cfg.vhd
+HDL-1007 : analyze configuration comb_divider_rtl_cfg in ../vhdl/comb_divider_rtl_cfg.vhd(66)
+HDL-1007 : analyze VHDL file ../vhdl/comb_mltplr_.vhd
+HDL-1007 : analyze entity comb_mltplr in ../vhdl/comb_mltplr_.vhd(72)
+HDL-1007 : analyze VHDL file ../vhdl/comb_mltplr_rtl.vhd
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_mltplr_rtl.vhd(66)
+HDL-1007 : analyze VHDL file ../vhdl/comb_mltplr_rtl_cfg.vhd
+HDL-1007 : analyze configuration comb_mltplr_rtl_cfg in ../vhdl/comb_mltplr_rtl_cfg.vhd(66)
+HDL-1007 : analyze VHDL file ../vhdl/control_fsm_.vhd
+HDL-1007 : analyze entity control_fsm in ../vhdl/control_fsm_.vhd(74)
+HDL-1007 : analyze VHDL file ../vhdl/control_fsm_rtl.vhd
+HDL-1007 : analyze architecture rtl in ../vhdl/control_fsm_rtl.vhd(66)
+HDL-1007 : analyze VHDL file ../vhdl/control_fsm_rtl_cfg.vhd
+HDL-1007 : analyze configuration control_fsm_rtl_cfg in ../vhdl/control_fsm_rtl_cfg.vhd(66)
+HDL-1007 : analyze VHDL file ../vhdl/control_mem_.vhd
+HDL-1007 : analyze entity control_mem in ../vhdl/control_mem_.vhd(75)
+HDL-1007 : analyze VHDL file ../vhdl/control_mem_rtl.vhd
+HDL-1007 : analyze architecture rtl in ../vhdl/control_mem_rtl.vhd(68)
+HDL-1007 : analyze VHDL file ../vhdl/control_mem_rtl_cfg.vhd
+HDL-1007 : analyze configuration control_mem_rtl_cfg in ../vhdl/control_mem_rtl_cfg.vhd(68)
+HDL-1007 : analyze VHDL file ../vhdl/dcml_adjust_.vhd
+HDL-1007 : analyze entity dcml_adjust in ../vhdl/dcml_adjust_.vhd(72)
+HDL-1007 : analyze VHDL file ../vhdl/dcml_adjust_rtl.vhd
+HDL-1007 : analyze architecture rtl in ../vhdl/dcml_adjust_rtl.vhd(66)
+HDL-1007 : analyze VHDL file ../vhdl/dcml_adjust_rtl_cfg.vhd
+HDL-1007 : analyze configuration dcml_adjust_rtl_cfg in ../vhdl/dcml_adjust_rtl_cfg.vhd(66)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_alu_.vhd
+HDL-1007 : analyze entity mc8051_alu in ../vhdl/mc8051_alu_.vhd(75)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_alu_struc.vhd
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_alu_struc.vhd(67)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_alu_struc_cfg.vhd
+HDL-1007 : analyze configuration mc8051_alu_struc_cfg in ../vhdl/mc8051_alu_struc_cfg.vhd(67)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_control_.vhd
+HDL-1007 : analyze entity mc8051_control in ../vhdl/mc8051_control_.vhd(74)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_control_struc.vhd
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_control_struc.vhd(66)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_control_struc_cfg.vhd
+HDL-1007 : analyze configuration mc8051_control_struc_cfg in ../vhdl/mc8051_control_struc_cfg.vhd(66)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_core_.vhd
+HDL-1007 : analyze entity mc8051_core in ../vhdl/mc8051_core_.vhd(75)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_core_struc.vhd
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_core_struc.vhd(67)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_siu_.vhd
+HDL-1007 : analyze entity mc8051_siu in ../vhdl/mc8051_siu_.vhd(71)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_siu_rtl.vhd
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_siu_rtl.vhd(65)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_siu_rtl_cfg.vhd
+HDL-1007 : analyze configuration mc8051_siu_rtl_cfg in ../vhdl/mc8051_siu_rtl_cfg.vhd(65)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_tmrctr_.vhd
+HDL-1007 : analyze entity mc8051_tmrctr in ../vhdl/mc8051_tmrctr_.vhd(71)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_tmrctr_rtl.vhd
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_tmrctr_rtl.vhd(65)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_tmrctr_rtl_cfg.vhd
+HDL-1007 : analyze configuration mc8051_tmrctr_rtl_cfg in ../vhdl/mc8051_tmrctr_rtl_cfg.vhd(65)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_core_struc_cfg.vhd
+HDL-1007 : analyze configuration mc8051_core_struc_cfg in ../vhdl/mc8051_core_struc_cfg.vhd(67)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_top_.vhd
+HDL-1007 : analyze entity mc8051_top in ../vhdl/mc8051_top_.vhd(74)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_top_struc.vhd
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_top_struc.vhd(66)
+HDL-1007 : analyze VHDL file mc8051_rom.vhd
+HDL-1007 : analyze entity mc8051_rom in mc8051_rom.vhd(13)
+HDL-1007 : analyze architecture sim in mc8051_rom.vhd(20)
+HDL-1007 : analyze configuration mc8051_rom_sim_cfg in mc8051_rom.vhd(927)
+HDL-1007 : analyze VHDL file mc8051_ram.vhd
+HDL-1007 : analyze entity mc8051_ram in mc8051_ram.vhd(19)
+HDL-1007 : analyze architecture ram_arch in mc8051_ram.vhd(33)
+HDL-1007 : analyze configuration mc8051_ram_sim_cfg in mc8051_ram.vhd(50)
+HDL-1007 : analyze VHDL file mc8051_ramx.vhd
+HDL-1007 : analyze entity mc8051_ramx in mc8051_ramx.vhd(19)
+HDL-1007 : analyze architecture ramx_arch in mc8051_ramx.vhd(32)
+HDL-1007 : analyze configuration mc8051_ramx_sim_cfg in mc8051_ramx.vhd(47)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_top_struc_cfg.vhd
+HDL-1007 : analyze configuration mc8051_top_struc_cfg in ../vhdl/mc8051_top_struc_cfg.vhd(66)
+HDL-1007 : analyze verilog file MC8051OnBoard.v
+HDL-1007 : analyze verilog file al_ip/pll.v
+RUN-1002 : start command "import_device eagle_s20.db -package BG256"
+ARC-1001 : Device Initialization.
+ARC-1001 : ------------------------------------------------------------------
+ARC-1001 :            OPTION            |          IO          |   SETTING   
+ARC-1001 : ------------------------------------------------------------------
+ARC-1001 :   cso_b/cclk/mosi/miso/dout  |  T3/R11/T10/P10/S11  |    gpio    
+ARC-1001 :             done             |         P13          |    gpio    
+ARC-1001 :           program_b          |          T2          |  dedicated  
+ARC-1001 :        tdi/tms/tck/tdo       |   C12/A15/C14/E14    |  dedicated  
+ARC-1001 : ------------------------------------------------------------------
+ARC-1004 : Device setting, marked 5 dedicate IOs in total.
+HDL-1007 : re-analyze unit 'mc8051_rom_sim_cfg' since unit 'sim' is overwritten or removed in mc8051_rom.vhd(927)
+HDL-1007 : re-analyze unit 'mc8051_top_struc_cfg' since unit 'mc8051_rom_sim_cfg' is overwritten or removed in ../vhdl/mc8051_top_struc_cfg.vhd(66)
+Oops! 'Signal Segmentation Violation' raised. The backtrace:
+[bt] (4)RtlDecodePointer
+[bt] (5)RtlUnwindEx
+[bt] (6)KiUserExceptionDispatcher
+[bt] (13)QMetaObject::activate
+[bt] (16)QMetaObject::activate
+[bt] (19)QMetaObject::activate
+[bt] (22)QMetaObject::activate
+[bt] (23)QTimer::timeout
+[bt] (24)QObject::event
+[bt] (25)QApplicationPrivate::notify_helper
+[bt] (26)QApplication::notify
+[bt] (27)QCoreApplication::notifyInternal2
+[bt] (28)QEventDispatcherWin32Private::sendTimerEvent
+[bt] (29)QEventDispatcherWin32::processEvents
+[bt] (30)TranslateMessageEx
+[bt] (31)TranslateMessage
+[bt] (32)QEventDispatcherWin32::processEvents
+[bt] (33)qt_plugin_query_metadata
+[bt] (34)QEventLoop::exec
+[bt] (35)QCoreApplication::exec
+[bt] (39)BaseThreadInitThunk
+[bt] (40)RtlUserThreadStart
+

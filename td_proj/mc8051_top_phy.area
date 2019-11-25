@@ -1,0 +1,69 @@
+standard
+***Report Model: MC8051OnBoard***
+
+IO Statistics
+#IO                    37
+  #input               18
+  #output              19
+  #inout                0
+
+Utilization Statistics
+#lut                 4586   out of  19600   23.40%
+#reg                  498   out of  19600    2.54%
+#le                  4588
+  #lut only          4090   out of   4588   89.15%
+  #reg only             2   out of   4588    0.04%
+  #lut&reg            496   out of   4588   10.81%
+#dsp                    2   out of     29    6.90%
+#bram                  11   out of     64   17.19%
+  #bram9k              11
+  #fifo9k               0
+#bram32k                0   out of     16    0.00%
+#pad                   36   out of    188   19.15%
+  #ireg                16
+  #oreg                 0
+  #treg                 0
+#pll                    1   out of      4   25.00%
+
+
+Detailed IO Report
+
+Name        Direction     Location     IOStandard     DriveStrength     PackReg                  
+key         INPUT         T4           LVCMOS25       N/A               NONE                     
+key_0       INPUT         N6           LVCMOS25       N/A               IREG                     
+key_1       INPUT         P8           LVCMOS25       N/A               IREG                     
+key_10      INPUT         A7           LVCMOS25       N/A               IREG                     
+key_11      INPUT         A8           LVCMOS25       N/A               IREG                     
+key_12      INPUT         A10          LVCMOS25       N/A               IREG                     
+key_13      INPUT         A6           LVCMOS25       N/A               IREG                     
+key_14      INPUT         A4           LVCMOS25       N/A               IREG                     
+key_15      INPUT         A12          LVCMOS25       N/A               IREG                     
+key_2       INPUT         N8           LVCMOS25       N/A               IREG                     
+key_3       INPUT         R9           LVCMOS25       N/A               IREG                     
+key_4       INPUT         P9           LVCMOS25       N/A               IREG                     
+key_5       INPUT         N9           LVCMOS25       N/A               IREG                     
+key_6       INPUT         T14          LVCMOS25       N/A               IREG                     
+key_7       INPUT         R14          LVCMOS25       N/A               IREG                     
+key_8       INPUT         T15          LVCMOS25       N/A               IREG                     
+key_9       INPUT         R15          LVCMOS25       N/A               IREG                     
+sysclk      INPUT         K14          LVCMOS25       N/A               NONE                     
+GPIO_0      OUTPUT        A13          LVCMOS25       8                 NONE                     
+GPIO_1      OUTPUT        D8           LVCMOS25       8                 NONE                     
+GPIO_10     OUTPUT        C5           LVCMOS25       8                 NONE                     
+GPIO_11     OUTPUT        C7           LVCMOS25       8                 NONE                     
+GPIO_12     OUTPUT        C9           LVCMOS25       8                 NONE                     
+GPIO_13     OUTPUT        A11          LVCMOS25       8                 NONE                     
+GPIO_14     OUTPUT        C11          LVCMOS25       8                 NONE                     
+GPIO_15     OUTPUT        B15          LVCMOS25       8                 NONE                     
+GPIO_2      OUTPUT        B14          LVCMOS25       8                 NONE                     
+GPIO_3      OUTPUT        B8           LVCMOS25       8                 NONE                     
+GPIO_4      OUTPUT        B6           LVCMOS25       8                 NONE                     
+GPIO_5      OUTPUT        C6           LVCMOS25       8                 NONE                     
+GPIO_6      OUTPUT        B10          LVCMOS25       8                 NONE                     
+GPIO_7      OUTPUT        B16          LVCMOS25       8                 NONE                     
+GPIO_8      OUTPUT        C16          LVCMOS25       8                 NONE                     
+GPIO_9      OUTPUT        C15          LVCMOS25       8                 NONE                     
+keyled      OUTPUT        S41          LVCMOS25       8                 NONE                     
+led         OUTPUT        H11          LVCMOS25       8                 NONE                     
+pllclk      OUTPUT        A9           LVCMOS25       8                 NONE                     
+

@@ -1,0 +1,3144 @@
+============================================================
+   Tang Dynasty, V4.6.14314
+   Copyright:   Shanghai Anlogic Infotech Co., Ltd.
+                2011 - 2021
+   Executable = C:/Anlogic/TD4.6.2/bin/td.exe
+   Built at =   11:20:06 Sep 19 2019
+   Run by =     NiceFamily
+   Run Date =   Fri Nov  8 10:05:18 2019
+
+   Run on =     NICEFAMILY-PC
+============================================================
+RUN-1002 : start command "open_project mc8051_top.al"
+GUI-8003 ERROR: mc8051_ram.v is missing!
+GUI-8003 ERROR: mc8051_rom.v is missing!
+GUI-8003 ERROR: ../MC8051OnBoard.v is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_p.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_core_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_core_struc.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_cy_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_cy_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_cy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_ovcy_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_ovcy_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_ovcy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alucore_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alucore_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alucore_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alumux_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alumux_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alumux_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_divider_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_divider_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_divider_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_mltplr_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_mltplr_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_mltplr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_fsm_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_fsm_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_fsm_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_mem_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_mem_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_mem_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/dcml_adjust_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/dcml_adjust_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/dcml_adjust_rtl_cfg.vhd is missing!
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/mc8051_p.vhd'
+HDL-1007 : analyze VHDL file mc8051_ram.vhd
+HDL-1007 : analyze entity mc8051_ram in mc8051_ram.vhd(19)
+HDL-1007 : analyze architecture ram_arch in mc8051_ram.vhd(33)
+HDL-1007 : analyze configuration mc8051_ram_sim_cfg in mc8051_ram.vhd(50)
+HDL-1007 : analyze VHDL file mc8051_ramx.vhd
+HDL-1007 : analyze entity mc8051_ramx in mc8051_ramx.vhd(19)
+HDL-1007 : analyze architecture ramx_arch in mc8051_ramx.vhd(32)
+HDL-1007 : analyze configuration mc8051_ramx_sim_cfg in mc8051_ramx.vhd(47)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_p.vhd
+HDL-1007 : analyze package mc8051_p in ../vhdl/mc8051_p.vhd(69)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_ovcy.vhd
+HDL-1007 : analyze entity addsub_ovcy in ../vhdl/addsub_ovcy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_ovcy.vhd(85)
+HDL-1007 : analyze configuration addsub_ovcy_rtl_cfg in ../vhdl/addsub_ovcy.vhd(159)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_cy.vhd
+HDL-1007 : analyze entity addsub_cy in ../vhdl/addsub_cy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_cy.vhd(85)
+HDL-1007 : analyze configuration addsub_cy_rtl_cfg in ../vhdl/addsub_cy.vhd(115)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_core.vhd
+HDL-1007 : analyze entity addsub_core in ../vhdl/addsub_core.vhd(76)
+HDL-1007 : analyze architecture struc in ../vhdl/addsub_core.vhd(91)
+HDL-1007 : analyze configuration addsub_core_struc_cfg in ../vhdl/addsub_core.vhd(142)
+HDL-1007 : analyze VHDL file ../vhdl/alucore.vhd
+HDL-1007 : analyze entity alucore in ../vhdl/alucore.vhd(73)
+HDL-1007 : analyze architecture rtl in ../vhdl/alucore.vhd(94)
+HDL-1007 : analyze configuration alucore_rtl_cfg in ../vhdl/alucore.vhd(191)
+HDL-1007 : analyze VHDL file ../vhdl/alumux.vhd
+HDL-1007 : analyze entity alumux in ../vhdl/alumux.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/alumux.vhd(125)
+HDL-1007 : analyze configuration alumux_rtl_cfg in ../vhdl/alumux.vhd(494)
+HDL-1007 : analyze VHDL file ../vhdl/comb_divider.vhd
+HDL-1007 : analyze entity comb_divider in ../vhdl/comb_divider.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_divider.vhd(82)
+HDL-1007 : analyze configuration comb_divider_rtl_cfg in ../vhdl/comb_divider.vhd(130)
+HDL-1007 : analyze VHDL file ../vhdl/comb_mltplr.vhd
+HDL-1007 : analyze entity comb_mltplr in ../vhdl/comb_mltplr.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_mltplr.vhd(82)
+HDL-1007 : analyze configuration comb_mltplr_rtl_cfg in ../vhdl/comb_mltplr.vhd(104)
+HDL-1007 : analyze VHDL file ../vhdl/control_fsm.vhd
+HDL-1007 : analyze entity control_fsm in ../vhdl/control_fsm.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_fsm.vhd(126)
+HDL-1007 : analyze configuration control_fsm_rtl_cfg in ../vhdl/control_fsm.vhd(2231)
+HDL-1007 : analyze VHDL file ../vhdl/control_mem.vhd
+HDL-1007 : analyze entity control_mem in ../vhdl/control_mem.vhd(75)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_mem.vhd(206)
+HDL-1007 : analyze configuration control_mem_rtl_cfg in ../vhdl/control_mem.vhd(1285)
+HDL-1007 : analyze VHDL file ../vhdl/dcml_adjust.vhd
+HDL-1007 : analyze entity dcml_adjust in ../vhdl/dcml_adjust.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/dcml_adjust.vhd(90)
+HDL-1007 : analyze configuration dcml_adjust_rtl_cfg in ../vhdl/dcml_adjust.vhd(168)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_alu.vhd
+HDL-1007 : analyze entity mc8051_alu in ../vhdl/mc8051_alu.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_alu.vhd(104)
+HDL-1007 : analyze configuration mc8051_alu_struc_cfg in ../vhdl/mc8051_alu.vhd(235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_control.vhd
+HDL-1007 : analyze entity mc8051_control in ../vhdl/mc8051_control.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_control.vhd(142)
+HDL-1007 : analyze configuration mc8051_control_struc_cfg in ../vhdl/mc8051_control.vhd(344)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_siu.vhd
+HDL-1007 : analyze entity mc8051_siu in ../vhdl/mc8051_siu.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_siu.vhd(92)
+HDL-1007 : analyze configuration mc8051_siu_rtl_cfg in ../vhdl/mc8051_siu.vhd(1235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_tmrctr.vhd
+HDL-1007 : analyze entity mc8051_tmrctr in ../vhdl/mc8051_tmrctr.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_tmrctr.vhd(96)
+HDL-1007 : analyze configuration mc8051_tmrctr_rtl_cfg in ../vhdl/mc8051_tmrctr.vhd(797)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_core.vhd
+HDL-1007 : analyze entity mc8051_core in ../vhdl/mc8051_core.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_core.vhd(121)
+HDL-1007 : analyze configuration mc8051_core_struc_cfg in ../vhdl/mc8051_core.vhd(276)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_top.vhd
+HDL-1007 : analyze entity mc8051_top in ../vhdl/mc8051_top.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_top.vhd(104)
+HDL-1007 : analyze configuration mc8051_top_struc_cfg in ../vhdl/mc8051_top.vhd(200)
+HDL-1007 : analyze verilog file al_ip/pll.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom_td.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom.v
+HDL-1007 : analyze verilog file MC8051OnBoard.v
+RUN-1002 : start command "import_device eagle_s20.db -package BG256"
+ARC-1001 : Device Initialization.
+ARC-1001 : ------------------------------------------------------------------
+ARC-1001 :            OPTION            |          IO          |   SETTING   
+ARC-1001 : ------------------------------------------------------------------
+ARC-1001 :   cso_b/cclk/mosi/miso/dout  |  T3/R11/T10/P10/S11  |    gpio    
+ARC-1001 :             done             |         P13          |    gpio    
+ARC-1001 :           program_b          |          T2          |  dedicated  
+ARC-1001 :        tdi/tms/tck/tdo       |   C12/A15/C14/E14    |  dedicated  
+ARC-1001 : ------------------------------------------------------------------
+ARC-1004 : Device setting, marked 5 dedicate IOs in total.
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/mc8051_p.vhd'
+HDL-1007 : analyze VHDL file mc8051_ram.vhd
+HDL-1007 : analyze entity mc8051_ram in mc8051_ram.vhd(19)
+HDL-1007 : analyze architecture ram_arch in mc8051_ram.vhd(33)
+HDL-1007 : analyze configuration mc8051_ram_sim_cfg in mc8051_ram.vhd(50)
+HDL-1007 : analyze VHDL file mc8051_ramx.vhd
+HDL-1007 : analyze entity mc8051_ramx in mc8051_ramx.vhd(19)
+HDL-1007 : analyze architecture ramx_arch in mc8051_ramx.vhd(32)
+HDL-1007 : analyze configuration mc8051_ramx_sim_cfg in mc8051_ramx.vhd(47)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_p.vhd
+HDL-1007 : analyze package mc8051_p in ../vhdl/mc8051_p.vhd(69)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_ovcy.vhd
+HDL-1007 : analyze entity addsub_ovcy in ../vhdl/addsub_ovcy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_ovcy.vhd(85)
+HDL-1007 : analyze configuration addsub_ovcy_rtl_cfg in ../vhdl/addsub_ovcy.vhd(159)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_cy.vhd
+HDL-1007 : analyze entity addsub_cy in ../vhdl/addsub_cy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_cy.vhd(85)
+HDL-1007 : analyze configuration addsub_cy_rtl_cfg in ../vhdl/addsub_cy.vhd(115)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_core.vhd
+HDL-1007 : analyze entity addsub_core in ../vhdl/addsub_core.vhd(76)
+HDL-1007 : analyze architecture struc in ../vhdl/addsub_core.vhd(91)
+HDL-1007 : analyze configuration addsub_core_struc_cfg in ../vhdl/addsub_core.vhd(142)
+HDL-1007 : analyze VHDL file ../vhdl/alucore.vhd
+HDL-1007 : analyze entity alucore in ../vhdl/alucore.vhd(73)
+HDL-1007 : analyze architecture rtl in ../vhdl/alucore.vhd(94)
+HDL-1007 : analyze configuration alucore_rtl_cfg in ../vhdl/alucore.vhd(191)
+HDL-1007 : analyze VHDL file ../vhdl/alumux.vhd
+HDL-1007 : analyze entity alumux in ../vhdl/alumux.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/alumux.vhd(125)
+HDL-1007 : analyze configuration alumux_rtl_cfg in ../vhdl/alumux.vhd(494)
+HDL-1007 : analyze VHDL file ../vhdl/comb_divider.vhd
+HDL-1007 : analyze entity comb_divider in ../vhdl/comb_divider.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_divider.vhd(82)
+HDL-1007 : analyze configuration comb_divider_rtl_cfg in ../vhdl/comb_divider.vhd(130)
+HDL-1007 : analyze VHDL file ../vhdl/comb_mltplr.vhd
+HDL-1007 : analyze entity comb_mltplr in ../vhdl/comb_mltplr.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_mltplr.vhd(82)
+HDL-1007 : analyze configuration comb_mltplr_rtl_cfg in ../vhdl/comb_mltplr.vhd(104)
+HDL-1007 : analyze VHDL file ../vhdl/control_fsm.vhd
+HDL-1007 : analyze entity control_fsm in ../vhdl/control_fsm.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_fsm.vhd(126)
+HDL-1007 : analyze configuration control_fsm_rtl_cfg in ../vhdl/control_fsm.vhd(2231)
+HDL-1007 : analyze VHDL file ../vhdl/control_mem.vhd
+HDL-1007 : analyze entity control_mem in ../vhdl/control_mem.vhd(75)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_mem.vhd(206)
+HDL-1007 : analyze configuration control_mem_rtl_cfg in ../vhdl/control_mem.vhd(1285)
+HDL-1007 : analyze VHDL file ../vhdl/dcml_adjust.vhd
+HDL-1007 : analyze entity dcml_adjust in ../vhdl/dcml_adjust.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/dcml_adjust.vhd(90)
+HDL-1007 : analyze configuration dcml_adjust_rtl_cfg in ../vhdl/dcml_adjust.vhd(168)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_alu.vhd
+HDL-1007 : analyze entity mc8051_alu in ../vhdl/mc8051_alu.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_alu.vhd(104)
+HDL-1007 : analyze configuration mc8051_alu_struc_cfg in ../vhdl/mc8051_alu.vhd(235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_control.vhd
+HDL-1007 : analyze entity mc8051_control in ../vhdl/mc8051_control.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_control.vhd(142)
+HDL-1007 : analyze configuration mc8051_control_struc_cfg in ../vhdl/mc8051_control.vhd(344)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_siu.vhd
+HDL-1007 : analyze entity mc8051_siu in ../vhdl/mc8051_siu.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_siu.vhd(92)
+HDL-1007 : analyze configuration mc8051_siu_rtl_cfg in ../vhdl/mc8051_siu.vhd(1235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_tmrctr.vhd
+HDL-1007 : analyze entity mc8051_tmrctr in ../vhdl/mc8051_tmrctr.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_tmrctr.vhd(96)
+HDL-1007 : analyze configuration mc8051_tmrctr_rtl_cfg in ../vhdl/mc8051_tmrctr.vhd(797)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_core.vhd
+HDL-1007 : analyze entity mc8051_core in ../vhdl/mc8051_core.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_core.vhd(121)
+HDL-1007 : analyze configuration mc8051_core_struc_cfg in ../vhdl/mc8051_core.vhd(276)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_top.vhd
+HDL-1007 : analyze entity mc8051_top in ../vhdl/mc8051_top.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_top.vhd(104)
+HDL-1007 : analyze configuration mc8051_top_struc_cfg in ../vhdl/mc8051_top.vhd(200)
+HDL-1007 : analyze verilog file al_ip/pll.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom_td.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom.v
+HDL-1007 : analyze verilog file MC8051OnBoard.v
+RUN-1002 : start command "elaborate -top MC8051OnBoard"
+HDL-1007 : elaborate module MC8051OnBoard in MC8051OnBoard.v(1)
+HDL-1007 : elaborate module pll in al_ip/pll.v(24)
+HDL-1007 : elaborate module EG_LOGIC_BUFG in C:/Anlogic/TD4.6.2/arch/eagle_macro.v(81)
+HDL-1007 : elaborate module EG_PHY_PLL(FIN="24.000",REFCLK_DIV=2,CLKC0_DIV=59,CLKC1_DIV=64,CLKC2_DIV=118,CLKC0_ENABLE="ENABLE",CLKC1_ENABLE="ENABLE",CLKC2_ENABLE="ENABLE",FEEDBK_PATH="CLKC0_EXT",STDBY_ENABLE="DISABLE",CLKC0_CPHASE=58,CLKC1_CPHASE=63,CLKC2_CPHASE=117,GMC_GAIN=0,ICP_CURRENT=9,KVCO=2,LPF_CAPACITOR=2,LPF_RESISTOR=8,SYNC_ENABLE="DISABLE") in C:/Anlogic/TD4.6.2/arch/eagle_macro.v(986)
+HDL-1007 : switch to vhdl to elaborate module mc8051_top in MC8051OnBoard.v(48)
+HDL-1007 : elaborate mc8051_top(struc) in ../vhdl/mc8051_top.vhd(74)
+HDL-1007 : elaborate mc8051_core(struc) in ../vhdl/mc8051_core.vhd(75)
+HDL-1007 : elaborate mc8051_control(struc) in ../vhdl/mc8051_control.vhd(74)
+HDL-1007 : elaborate control_fsm(rtl) in ../vhdl/control_fsm.vhd(74)
+HDL-1007 : others clause is never selected in ../vhdl/control_fsm.vhd(2223)
+HDL-1007 : elaborate control_mem(rtl) in ../vhdl/control_mem.vhd(75)
+HDL-1007 : others clause is never selected in ../vhdl/control_mem.vhd(833)
+HDL-1007 : others clause is never selected in ../vhdl/control_mem.vhd(932)
+HDL-1007 : others clause is never selected in ../vhdl/control_mem.vhd(938)
+HDL-1007 : others clause is never selected in ../vhdl/control_mem.vhd(1250)
+HDL-1007 : elaborate mc8051_alu(struc) in ../vhdl/mc8051_alu.vhd(75)
+HDL-1007 : elaborate alumux(rtl) in ../vhdl/alumux.vhd(74)
+HDL-1007 : elaborate alucore(rtl) in ../vhdl/alucore.vhd(73)
+HDL-1007 : elaborate addsub_core(dwidth=8)(struc) in ../vhdl/addsub_core.vhd(76)
+HDL-1007 : elaborate addsub_cy(rtl) in ../vhdl/addsub_cy.vhd(72)
+HDL-1007 : elaborate addsub_ovcy(rtl) in ../vhdl/addsub_ovcy.vhd(72)
+HDL-1007 : elaborate comb_mltplr(rtl) in ../vhdl/comb_mltplr.vhd(72)
+HDL-1007 : elaborate comb_divider(rtl) in ../vhdl/comb_divider.vhd(72)
+HDL-1007 : elaborate dcml_adjust(dwidth=8)(rtl) in ../vhdl/dcml_adjust.vhd(72)
+HDL-1007 : elaborate mc8051_siu(rtl) in ../vhdl/mc8051_siu.vhd(71)
+HDL-1007 : others clause is never selected in ../vhdl/mc8051_siu.vhd(816)
+HDL-1007 : others clause is never selected in ../vhdl/mc8051_siu.vhd(1215)
+HDL-1007 : elaborate mc8051_tmrctr(rtl) in ../vhdl/mc8051_tmrctr.vhd(71)
+HDL-1007 : others clause is never selected in ../vhdl/mc8051_tmrctr.vhd(541)
+HDL-1007 : others clause is never selected in ../vhdl/mc8051_tmrctr.vhd(784)
+HDL-1007 : elaborate mc8051_ram(ram_arch) in mc8051_ram.vhd(19)
+HDL-1007 : extracting RAM for identifier 'ram_mem' in mc8051_ram.vhd(36)
+HDL-1007 : switch to vlog to elaborate module mc8051_rom in ../vhdl/mc8051_top.vhd(181)
+HDL-1007 : elaborate module mc8051_rom in al_ip/mc8051_rom.v(1)
+HDL-1007 : elaborate module mc8051_rom_td in al_ip/mc8051_rom_td.v(14)
+HDL-1007 : elaborate module EG_LOGIC_BRAM(DATA_WIDTH_A=8,DATA_WIDTH_B=8,ADDR_WIDTH_A=8,ADDR_WIDTH_B=8,DATA_DEPTH_A=191,DATA_DEPTH_B=191,MODE="SP",INIT_FILE="led.mif") in C:/Anlogic/TD4.6.2/arch/eagle_macro.v(1072)
+HDL-5007 WARNING: actual bit length 16 differs from formal bit length 8 for port 'addra' in al_ip/mc8051_rom.v(9)
+HDL-1007 : back to vhdl to elaborate in ../vhdl/mc8051_top.vhd(181)
+HDL-1007 : elaborate mc8051_ramx(ramx_arch) in mc8051_ramx.vhd(19)
+HDL-1007 : extracting RAM for identifier 'ramx_mem' in mc8051_ramx.vhd(34)
+HDL-1007 : back to vlog to elaborate in MC8051OnBoard.v(48)
+HDL-1200 : Current top model is MC8051OnBoard
+HDL-1100 : Inferred 2 RAMs.
+RUN-1003 : finish command "elaborate -top MC8051OnBoard" in  2.107578s wall, 2.059213s user + 0.015600s system = 2.074813s CPU (98.4%)
+
+RUN-1004 : used memory is 231 MB, reserved memory is 178 MB, peak memory is 275 MB
+RUN-1002 : start command "read_adc MC8051DEMO.adc"
+RUN-1002 : start command "set_pin_assignment key  LOCATION = T4;  "
+RUN-1002 : start command "set_pin_assignment sysclk  LOCATION = K14;  "
+RUN-1002 : start command "set_pin_assignment led  LOCATION = N3;  "
+RUN-1002 : start command "optimize_rtl"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+SYN-1012 : SanityCheck: Model "MC8051OnBoard"
+SYN-1012 : SanityCheck: Model "mc8051_top"
+SYN-1012 : SanityCheck: Model "mc8051_core"
+SYN-1012 : SanityCheck: Model "mc8051_siu"
+SYN-1012 : SanityCheck: Model "mc8051_tmrctr"
+SYN-1012 : SanityCheck: Model "mc8051_alu"
+SYN-1012 : SanityCheck: Model "dcml_adjust(dwidth=8)"
+SYN-1012 : SanityCheck: Model "comb_divider"
+SYN-1012 : SanityCheck: Model "comb_mltplr"
+SYN-1012 : SanityCheck: Model "addsub_core(dwidth=8)"
+SYN-1012 : SanityCheck: Model "addsub_cy"
+SYN-1012 : SanityCheck: Model "addsub_ovcy"
+SYN-1012 : SanityCheck: Model "alucore"
+SYN-1012 : SanityCheck: Model "alumux"
+SYN-1012 : SanityCheck: Model "mc8051_control"
+SYN-1012 : SanityCheck: Model "control_fsm"
+SYN-1012 : SanityCheck: Model "control_mem"
+SYN-1012 : SanityCheck: Model "mc8051_ram"
+SYN-1012 : SanityCheck: Model "mc8051_ramx"
+SYN-1012 : SanityCheck: Model "mc8051_rom"
+SYN-1012 : SanityCheck: Model "mc8051_rom_td"
+SYN-1012 : SanityCheck: Model "pll"
+SYN-1043 : Mark pll as IO macro for instance bufg_feedback
+SYN-1016 : Merged 592 instances.
+SYN-1016 : Merged 3 instances.
+SYN-1016 : Merged 866 instances.
+SYN-1016 : Merged 23 instances.
+SYN-1026 : Infer Logic BRAM(ram_ram_mem0)
+	 port mode: single port
+	 port a size: 128 x 8	 write mode: READBEFOREWRITE
+	 port b size: 128 x 8	 write mode: NORMAL
+SYN-1023 : Infer 0 Logic DRAMs, 1 Logic BRAMs.
+SYN-1026 : Infer Logic BRAM(ram_ramx_mem0)
+	 port mode: single port
+	 port a size: 8192 x 8	 write mode: READBEFOREWRITE
+	 port b size: 8192 x 8	 write mode: NORMAL
+SYN-1023 : Infer 0 Logic DRAMs, 1 Logic BRAMs.
+SYN-1011 : Flatten model MC8051OnBoard
+SYN-1011 : Flatten model mc8051_top
+SYN-1011 : Flatten model mc8051_core
+SYN-1011 : Flatten model mc8051_siu
+SYN-1011 : Flatten model mc8051_tmrctr
+SYN-1011 : Flatten model mc8051_alu
+SYN-1011 : Flatten model dcml_adjust(dwidth=8)
+SYN-1011 : Flatten model comb_divider
+SYN-1011 : Flatten model comb_mltplr
+SYN-1011 : Flatten model addsub_core(dwidth=8)
+SYN-1011 : Flatten model addsub_cy
+SYN-1011 : Flatten model addsub_ovcy
+SYN-1016 : Merged 2 instances.
+SYN-1011 : Flatten model alucore
+SYN-1011 : Flatten model alumux
+SYN-1016 : Merged 7 instances.
+SYN-1011 : Flatten model mc8051_control
+SYN-1011 : Flatten model control_fsm
+SYN-1011 : Flatten model control_mem
+SYN-1016 : Merged 30 instances.
+SYN-1016 : Merged 10 instances.
+SYN-1011 : Flatten model mc8051_ram
+SYN-1011 : Flatten model mc8051_ramx
+SYN-1011 : Flatten model mc8051_rom
+SYN-1011 : Flatten model mc8051_rom_td
+SYN-1016 : Merged 6 instances.
+SYN-1011 : Flatten model pll
+SYN-1016 : Merged 44 instances.
+SYN-1014 : Optimize round 1
+SYN-1044 : Optimized 1 inv instances.
+SYN-1032 : 6216/595 useful/useless nets, 5956/525 useful/useless insts
+SYN-1017 : Remove 3 const input seq instances
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/reg0_b0
+SYN-1002 :     u8051_inst/i_mc8051_core/i_mc8051_control/i_control_mem/reg6_b0
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/reg0_b1
+SYN-1018 : Transformed 3 mux instances.
+SYN-1019 : Optimized 45 mux instances.
+SYN-1021 : Optimized 128 onehot mux instances.
+SYN-1020 : Optimized 1568 distributor mux.
+SYN-1016 : Merged 3226 instances.
+SYN-1015 : Optimize round 1, 6059 better
+SYN-1014 : Optimize round 2
+SYN-1044 : Optimized 2 inv instances.
+SYN-1032 : 5733/111 useful/useless nets, 5489/2417 useful/useless insts
+SYN-1017 : Remove 6 const input seq instances
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t0ff0_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t1ff0_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t0ff1_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t1ff1_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t0ff2_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t1ff2_reg
+SYN-1019 : Optimized 7 mux instances.
+SYN-1020 : Optimized 2 distributor mux.
+SYN-1016 : Merged 7 instances.
+SYN-1015 : Optimize round 2, 2501 better
+SYN-1014 : Optimize round 3
+SYN-1032 : 5677/41 useful/useless nets, 5433/42 useful/useless insts
+SYN-1019 : Optimized 0 mux instances.
+SYN-1016 : Merged 4 instances.
+SYN-1015 : Optimize round 3, 89 better
+SYN-1014 : Optimize round 4
+SYN-1032 : 5673/0 useful/useless nets, 5429/0 useful/useless insts
+SYN-1019 : Optimized 0 mux instances.
+SYN-1015 : Optimize round 4, 0 better
+RUN-1003 : finish command "optimize_rtl" in  2.772515s wall, 2.636417s user + 0.031200s system = 2.667617s CPU (96.2%)
+
+RUN-1004 : used memory is 353 MB, reserved memory is 298 MB, peak memory is 357 MB
+RUN-1002 : start command "report_area -file mc8051_top_rtl.area"
+RUN-1001 : standard
+***Report Model: MC8051OnBoard***
+
+IO Statistics
+#IO                     3
+  #input                2
+  #output               1
+  #inout                0
+
+Gate Statistics
+#Basic gates         3863
+  #and               1697
+  #nand                 0
+  #or                 360
+  #nor                  0
+  #xor                 15
+  #xnor                 0
+  #buf                  0
+  #not                361
+  #bufif1               0
+  #MX21               950
+  #FADD                 0
+  #DFF                480
+  #LATCH                0
+#MACRO_ADD             48
+#MACRO_EQ             250
+#MACRO_MULT             2
+#MACRO_MUX           1258
+
+RUN-1001 : 
+Report Hierarchy Area:
++------------------------------------------------+
+|Instance |Module        |gates  |seq    |macros |
++------------------------------------------------+
+|top      |MC8051OnBoard |3383   |480    |304    |
++------------------------------------------------+
+
+RUN-1002 : start command "export_db mc8051_top_rtl.db"
+RUN-1001 : Exported /
+RUN-1001 : Exported libs
+RUN-1001 : Exported entities
+RUN-1001 : Exported ports
+RUN-1001 : Exported pins
+RUN-1001 : Exported instances
+RUN-1001 : Exported nets
+RUN-1001 : Exported buses
+RUN-1001 : Exported models
+RUN-1001 : Exported congestions
+RUN-1001 : Exported violations
+RUN-1001 : Exported IO constraints
+RUN-1001 : Exported Inst constraints
+RUN-1001 : Exported flow parameters
+RUN-1003 : finish command "export_db mc8051_top_rtl.db" in  3.826975s wall, 1.887612s user + 0.062400s system = 1.950012s CPU (51.0%)
+
+RUN-1004 : used memory is 419 MB, reserved memory is 367 MB, peak memory is 419 MB
+RUN-1002 : start command "optimize_gate -packarea mc8051_top_gate.area"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+SYN-2001 : Map 3 IOs to PADs
+SYN-2501 : Processed 0 LOGIC_BUF instances.
+SYN-2501 : 1 BUFG to GCLK
+SYN-2512 : LOGIC BRAM "u8051_inst/i_mc8051_ram/ram_ram_mem0"
+SYN-2512 : LOGIC BRAM "u8051_inst/i_mc8051_ramx/ram_ramx_mem0"
+SYN-2512 : LOGIC BRAM "u8051_inst/i_mc8051_rom/u_rom/inst"
+SYN-2541 : Reading BRAM "u8051_inst/i_mc8051_rom/u_rom/inst" init file "I:/Version1_6_TDV5\td_proj\al_ip\led.mif"
+SYN-2542 : Parsing MIF init file
+SYN-2571 : Map 2 macro multiplier
+SYN-2571 : Optimize after map_dsp, round 1
+SYN-1032 : 5682/0 useful/useless nets, 5446/0 useful/useless insts
+SYN-2571 : Optimize after map_dsp, round 1, 0 better
+SYN-2501 : Optimize round 1
+SYN-1032 : 7835/0 useful/useless nets, 7599/0 useful/useless insts
+SYN-1016 : Merged 1584 instances.
+SYN-2501 : Optimize round 1, 3307 better
+SYN-2501 : Optimize round 2
+SYN-1032 : 6251/0 useful/useless nets, 6015/0 useful/useless insts
+SYN-2501 : Optimize round 2, 0 better
+SYN-2501 : Map 48 macro adder
+SYN-3001 : Mapper mapped 63 instances into 3 LUTs, name keeping = 33%.
+SYN-3001 : Mapper mapped 63 instances into 3 LUTs, name keeping = 33%.
+SYN-3001 : Mapper mapped 63 instances into 3 LUTs, name keeping = 100%.
+SYN-3001 : Mapper mapped 63 instances into 2 LUTs, name keeping = 50%.
+SYN-3001 : Mapper mapped 63 instances into 3 LUTs, name keeping = 100%.
+SYN-1032 : 18559/9 useful/useless nets, 18323/0 useful/useless insts
+SYN-3001 : X or Z is treated as constant in optimizing instance u8051_inst/i_mc8051_core/i_mc8051_control/_al_const_x.
+SYN-3001 : Running gate level optimization.
+SYN-2581 : Mapping with K=4, #lut = 4213 (3.31), #lev = 40 (30.11)
+SYN-2551 : Post LUT mapping optimization.
+SYN-3001 : Logic optimization runtime opt =   4.09 sec, map =   0.00 sec
+SYN-3001 : Mapper mapped 17413 instances into 4009 LUTs, name keeping = 20%.
+SYN-1001 : Packing model "MC8051OnBoard" ...
+SYN-4010 : Pack lib has 42 rtl pack models with 15 top pack blocks
+SYN-1014 : Optimize round 1
+SYN-1032 : 5112/5 useful/useless nets, 4879/5 useful/useless insts
+SYN-1015 : Optimize round 1, 10 better
+SYN-1014 : Optimize round 2
+SYN-1032 : 5112/0 useful/useless nets, 4879/0 useful/useless insts
+SYN-1015 : Optimize round 2, 0 better
+SYN-4002 : Packing 479 DFF/LATCH to SEQ ...
+SYN-4009 : Pack 14 carry chain into lslice
+SYN-4007 : Packing 203 adder to BLE ...
+SYN-4008 : Packed 203 adder and 0 SEQ to BLE.
+SYN-4007 : Packing 0 gate4 to BLE ...
+SYN-4008 : Packed 0 gate4 and 0 SEQ to BLE.
+SYN-4012 : Packed 0 FxMUX
+SYN-4007 : Packing 0 MUX to BLE ...
+SYN-4008 : Packed 0 MUX and 0 SEQ to BLE.
+SYN-4007 : Packing 4005 LUT to BLE ...
+SYN-4008 : Packed 4005 LUT and 458 SEQ to BLE.
+SYN-4003 : Packing 21 remaining SEQ's ...
+SYN-4004 : #0: Packed 0 SEQ (21 nodes)...
+SYN-4004 : #1: Packed 18 SEQ (23 nodes)...
+SYN-4005 : Packed 18 SEQ with LUT/SLICE
+SYN-4006 : 3529 single LUT's are left
+SYN-4006 : 3 single SEQ's are left
+SYN-4011 : Packing model "MC8051OnBoard" (AL_USER_NORMAL) with 4008/4187 primitive instances ...
+RUN-1002 : start command "report_area -file mc8051_top_gate.area"
+RUN-1001 : standard
+***Report Model: MC8051OnBoard***
+
+IO Statistics
+#IO                     3
+  #input                2
+  #output               1
+  #inout                0
+
+Utilization Statistics
+#lut                 4323   out of  19600   22.06%
+#reg                  479   out of  19600    2.44%
+#le                  4326
+  #lut only          3847   out of   4326   88.93%
+  #reg only             3   out of   4326    0.07%
+  #lut&reg            476   out of   4326   11.00%
+#dsp                    2   out of     29    6.90%
+#bram                  10   out of     64   15.63%
+  #bram9k              10
+  #fifo9k               0
+#bram32k                0   out of     16    0.00%
+#pad                    3   out of    188    1.60%
+  #ireg                 0
+  #oreg                 0
+  #treg                 0
+#pll                    1   out of      4   25.00%
+
+RUN-1001 : 
+Report Hierarchy Area:
++---------------------------------------------+
+|Instance |Module        |le    |lut   |seq   |
++---------------------------------------------+
+|top      |MC8051OnBoard |4326  |4323  |479   |
++---------------------------------------------+
+
+RUN-1003 : finish command "optimize_gate -packarea mc8051_top_gate.area" in  16.225779s wall, 16.099303s user + 0.124801s system = 16.224104s CPU (100.0%)
+
+RUN-1004 : used memory is 472 MB, reserved memory is 417 MB, peak memory is 475 MB
+RUN-1002 : start command "legalize_phy_inst"
+SYN-1011 : Flatten model MC8051OnBoard
+RUN-1002 : start command "export_db mc8051_top_gate.db"
+RUN-1001 : Exported /
+RUN-1001 : Exported libs
+RUN-1001 : Exported entities
+RUN-1001 : Exported ports
+RUN-1001 : Exported pins
+RUN-1001 : Exported instances
+RUN-1001 : Exported nets
+RUN-1001 : Exported buses
+RUN-1001 : Exported models
+RUN-1001 : Exported congestions
+RUN-1001 : Exported violations
+RUN-1001 : Exported IO constraints
+RUN-1001 : Exported Inst constraints
+RUN-1001 : Exported flow parameters
+RUN-1003 : finish command "export_db mc8051_top_gate.db" in  4.969470s wall, 2.714417s user + 0.187201s system = 2.901619s CPU (58.4%)
+
+RUN-1004 : used memory is 523 MB, reserved memory is 466 MB, peak memory is 523 MB
+RUN-1002 : start command "place"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+PHY-3001 : Placer runs in 4 thread(s).
+SYN-4016 : Net u_pll/clk0_out driven by BUFG (0 clock/control pins, 1 other pins).
+SYN-4027 : Net mcu_clk_110592 is clkc1 of pll u_pll/pll_inst.
+SYN-4019 : Net sysclk_pad is refclk of pll u_pll/pll_inst.
+SYN-4020 : Net sysclk_pad is fbclk of pll u_pll/pll_inst.
+SYN-4025 : Tag rtl::Net mcu_clk_110592 as clock net
+SYN-4025 : Tag rtl::Net sysclk_pad as clock net
+SYN-4025 : Tag rtl::Net u_pll/clk0_out as clock net
+SYN-4026 : Tagged 3 rtl::Net as clock net
+PHY-1001 : Populate physical database.
+RUN-1001 : There are total 2185 instances
+RUN-1001 : 1083 mslices, 1082 lslices, 3 pads, 10 brams, 2 dsps
+RUN-1001 : There are total 4465 nets
+RUN-1001 : 2966 nets have 2 pins
+RUN-1001 : 753 nets have [3 - 5] pins
+RUN-1001 : 489 nets have [6 - 10] pins
+RUN-1001 : 168 nets have [11 - 20] pins
+RUN-1001 : 82 nets have [21 - 99] pins
+RUN-1001 : 7 nets have 100+ pins
+PHY-3001 : Initial placement ...
+PHY-3001 : design contains 2183 instances, 2165 slices, 41 macros(159 instances)
+PHY-3001 : Start timing update ...
+RUN-1002 : start command "start_timer"
+TMR-5001 WARNING: No sdc constraints found while initiating timer.
+TMR-2505 : Start building timing graph for model MC8051OnBoard.
+TMR-2506 : Build timing graph completely. Port num: 3, tpin num: 19466, tnet num: 4463, tinst num: 2183, tnode num: 20899, tedge num: 31128.
+TMR-2507 : Eliminate loop in the timing graph, delete 0 tedges.
+TMR-2508 : Levelizing timing graph completed, there are 141 levels in total.
+TMR-2501 : Timing graph initialized successfully.
+RUN-1003 : finish command "start_timer" in  1.184206s wall, 1.232408s user + 0.000000s system = 1.232408s CPU (104.1%)
+
+RUN-1004 : used memory is 537 MB, reserved memory is 481 MB, peak memory is 537 MB
+TMR-2503 : Start to update net delay, extr mode = 2.
+TMR-2504 : Update delay of 4463 nets completely.
+TMR-2502 : Annotate delay completely, extr mode = 2.
+TMR-3002 : No user constraint, initiate default constraint.
+TMR-1501 : Assign derive clock DeriveClock to 934 clock pins, and constraint 1433 relative nodes.
+TMR-3005 : Start mapping report constraints, there are 0 constraints in total.
+TMR-3003 : Constraints initiated successfully.
+TMR-3501 : Forward propagation: start to calculate arrival time...
+TMR-3502 : Backward propagation: start to calculate required time...
+TMR-3503 : Timing propagation completes.
+PHY-3001 : End timing update;  1.369089s wall, 1.404009s user + 0.015600s system = 1.419609s CPU (103.7%)
+
+PHY-3001 : Global placement ...
+PHY-3001 : Initial: Len = 1.34617e+06
+PHY-3001 : Run with size of 4
+PHY-3001 : Cell area utilization is 22%, beta_incr = 0.867449
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 0
+PHY-3002 : Step(1): len = 1.03228e+06, overlap = 24.75
+PHY-3002 : Step(2): len = 852369, overlap = 27
+PHY-3002 : Step(3): len = 758240, overlap = 25.5
+PHY-3002 : Step(4): len = 690135, overlap = 39.5
+PHY-3002 : Step(5): len = 627557, overlap = 54.25
+PHY-3002 : Step(6): len = 571470, overlap = 76
+PHY-3002 : Step(7): len = 523570, overlap = 101.25
+PHY-3002 : Step(8): len = 479460, overlap = 117.25
+PHY-3002 : Step(9): len = 439742, overlap = 136.5
+PHY-3002 : Step(10): len = 400488, overlap = 159.25
+PHY-3002 : Step(11): len = 364772, overlap = 174.25
+PHY-3002 : Step(12): len = 333545, overlap = 192
+PHY-3002 : Step(13): len = 299530, overlap = 214.75
+PHY-3002 : Step(14): len = 268431, overlap = 235.75
+PHY-3002 : Step(15): len = 246456, overlap = 255.75
+PHY-3002 : Step(16): len = 211226, overlap = 292.75
+PHY-3002 : Step(17): len = 187307, overlap = 307.25
+PHY-3002 : Step(18): len = 172232, overlap = 318.5
+PHY-3002 : Step(19): len = 136051, overlap = 342.25
+PHY-3002 : Step(20): len = 110939, overlap = 369.25
+PHY-3002 : Step(21): len = 105143, overlap = 374.5
+PHY-3002 : Step(22): len = 75714.4, overlap = 385.25
+PHY-3002 : Step(23): len = 67553.6, overlap = 416.5
+PHY-3002 : Step(24): len = 62258.9, overlap = 417.25
+PHY-3002 : Step(25): len = 56194.6, overlap = 421.5
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 1.57078e-06
+PHY-3002 : Step(26): len = 54852.5, overlap = 421
+PHY-3002 : Step(27): len = 55029.8, overlap = 419.5
+PHY-3002 : Step(28): len = 57912.1, overlap = 415
+PHY-3002 : Step(29): len = 57328.4, overlap = 410
+PHY-3002 : Step(30): len = 58841.2, overlap = 404.25
+PHY-3002 : Step(31): len = 61474.3, overlap = 400.5
+PHY-3002 : Step(32): len = 68772.3, overlap = 378.25
+PHY-3002 : Step(33): len = 70641.4, overlap = 372.5
+PHY-3002 : Step(34): len = 71588.4, overlap = 365.25
+PHY-3002 : Step(35): len = 75036.4, overlap = 359.5
+PHY-3002 : Step(36): len = 77010.2, overlap = 348.5
+PHY-3002 : Step(37): len = 77831.5, overlap = 346.25
+PHY-3002 : Step(38): len = 78917, overlap = 344.25
+PHY-3002 : Step(39): len = 79992.7, overlap = 327
+PHY-3002 : Step(40): len = 82812.3, overlap = 315.25
+PHY-3002 : Step(41): len = 85070.5, overlap = 298.75
+PHY-3002 : Step(42): len = 84610.5, overlap = 294
+PHY-3002 : Step(43): len = 83890.6, overlap = 293
+PHY-3002 : Step(44): len = 83644.1, overlap = 293
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 3.14156e-06
+PHY-3002 : Step(45): len = 83506.2, overlap = 292.75
+PHY-3002 : Step(46): len = 83831.4, overlap = 292.25
+PHY-3001 : :::3::: Try harder cell spreading with beta_ = 4.52927e-06
+PHY-3002 : Step(47): len = 84307.2, overlap = 286.25
+PHY-3002 : Step(48): len = 89504.9, overlap = 263.75
+PHY-3002 : Step(49): len = 97918.3, overlap = 233.25
+PHY-3002 : Step(50): len = 97803.4, overlap = 223.25
+PHY-3002 : Step(51): len = 97877.2, overlap = 218.75
+PHY-3002 : Step(52): len = 98456.2, overlap = 215
+PHY-3001 : :::4::: Try harder cell spreading with beta_ = 8.8774e-06
+PHY-3002 : Step(53): len = 99333.5, overlap = 210.75
+PHY-3002 : Step(54): len = 104829, overlap = 204.75
+PHY-3002 : Step(55): len = 106862, overlap = 196.25
+PHY-3002 : Step(56): len = 107982, overlap = 192.5
+PHY-3002 : Step(57): len = 110342, overlap = 181.5
+PHY-3002 : Step(58): len = 114575, overlap = 164.75
+PHY-3002 : Step(59): len = 114719, overlap = 160.25
+PHY-3002 : Step(60): len = 114939, overlap = 153
+PHY-3002 : Step(61): len = 115294, overlap = 149
+PHY-3001 : :::5::: Try harder cell spreading with beta_ = 1.77548e-05
+PHY-3002 : Step(62): len = 116320, overlap = 143.25
+PHY-3002 : Step(63): len = 119400, overlap = 133.75
+PHY-3002 : Step(64): len = 120526, overlap = 129.25
+PHY-3002 : Step(65): len = 121276, overlap = 122
+PHY-3002 : Step(66): len = 122831, overlap = 112.75
+PHY-3002 : Step(67): len = 124856, overlap = 103
+PHY-3002 : Step(68): len = 124678, overlap = 103.25
+PHY-3002 : Step(69): len = 124728, overlap = 105
+PHY-3002 : Step(70): len = 124790, overlap = 105
+PHY-3001 : :::6::: Try harder cell spreading with beta_ = 3.55096e-05
+PHY-3002 : Step(71): len = 127685, overlap = 102.75
+PHY-3002 : Step(72): len = 132932, overlap = 93
+PHY-3002 : Step(73): len = 132941, overlap = 92.75
+PHY-3002 : Step(74): len = 133290, overlap = 91
+PHY-3002 : Step(75): len = 134373, overlap = 87.75
+PHY-3001 : :::7::: Try harder cell spreading with beta_ = 7.10192e-05
+PHY-3002 : Step(76): len = 135829, overlap = 87
+PHY-3002 : Step(77): len = 141581, overlap = 73
+PHY-3002 : Step(78): len = 142360, overlap = 79
+PHY-3002 : Step(79): len = 142377, overlap = 75.75
+PHY-3002 : Step(80): len = 142601, overlap = 74.75
+PHY-3001 : :::8::: Try harder cell spreading with beta_ = 0.000142038
+PHY-3002 : Step(81): len = 143816, overlap = 77.5
+PHY-3002 : Step(82): len = 147109, overlap = 79.5
+PHY-3002 : Step(83): len = 147402, overlap = 79.25
+PHY-3002 : Step(84): len = 147694, overlap = 73.5
+PHY-3002 : Step(85): len = 147854, overlap = 76.75
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.017094s wall, 0.015600s user + 0.000000s system = 0.015600s CPU (91.3%)
+
+PHY-3001 : Run with size of 4
+PHY-3001 : Cell area utilization is 27%, beta_incr = 0.867449
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 4.01578e-06
+PHY-3002 : Step(86): len = 139030, overlap = 128.75
+PHY-3002 : Step(87): len = 129215, overlap = 159
+PHY-3002 : Step(88): len = 125413, overlap = 167
+PHY-3002 : Step(89): len = 123205, overlap = 169
+PHY-3002 : Step(90): len = 120956, overlap = 173
+PHY-3002 : Step(91): len = 117979, overlap = 181.75
+PHY-3002 : Step(92): len = 113976, overlap = 200.75
+PHY-3002 : Step(93): len = 110720, overlap = 206.75
+PHY-3002 : Step(94): len = 106546, overlap = 218.75
+PHY-3002 : Step(95): len = 102839, overlap = 226.5
+PHY-3002 : Step(96): len = 99084.2, overlap = 232.75
+PHY-3002 : Step(97): len = 96210.1, overlap = 243
+PHY-3002 : Step(98): len = 94201.3, overlap = 252
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 8.03156e-06
+PHY-3002 : Step(99): len = 95469.6, overlap = 247.25
+PHY-3002 : Step(100): len = 100308, overlap = 233.5
+PHY-3002 : Step(101): len = 102547, overlap = 232.5
+PHY-3002 : Step(102): len = 103192, overlap = 231
+PHY-3002 : Step(103): len = 104451, overlap = 229.5
+PHY-3002 : Step(104): len = 105462, overlap = 228
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 1.60631e-05
+PHY-3002 : Step(105): len = 108052, overlap = 217.75
+PHY-3002 : Step(106): len = 117324, overlap = 171.75
+PHY-3002 : Step(107): len = 118040, overlap = 169.5
+PHY-3002 : Step(108): len = 118271, overlap = 173
+PHY-3002 : Step(109): len = 119415, overlap = 172.25
+PHY-3002 : Step(110): len = 120757, overlap = 169.25
+PHY-3001 : :::3::: Try harder cell spreading with beta_ = 3.21262e-05
+PHY-3002 : Step(111): len = 124261, overlap = 167
+PHY-3002 : Step(112): len = 130931, overlap = 150.75
+PHY-3002 : Step(113): len = 131601, overlap = 147.75
+PHY-3002 : Step(114): len = 132853, overlap = 146.5
+PHY-3002 : Step(115): len = 133878, overlap = 141
+PHY-3002 : Step(116): len = 135927, overlap = 136.5
+PHY-3001 : :::4::: Try harder cell spreading with beta_ = 6.42525e-05
+PHY-3002 : Step(117): len = 138272, overlap = 124.5
+PHY-3002 : Step(118): len = 142889, overlap = 112.75
+PHY-3002 : Step(119): len = 145152, overlap = 110.25
+PHY-3002 : Step(120): len = 148005, overlap = 102
+PHY-3002 : Step(121): len = 148877, overlap = 99
+PHY-3002 : Step(122): len = 149226, overlap = 96
+PHY-3001 : :::5::: Try harder cell spreading with beta_ = 0.000128505
+PHY-3002 : Step(123): len = 151842, overlap = 94.5
+PHY-3002 : Step(124): len = 153955, overlap = 90.75
+PHY-3002 : Step(125): len = 155997, overlap = 80.75
+PHY-3001 : Run with size of 2
+PHY-3001 : Cell area utilization is 27%, beta_incr = 0.867449
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 3.77037e-05
+PHY-3002 : Step(126): len = 156053, overlap = 125.75
+PHY-3002 : Step(127): len = 154754, overlap = 129
+PHY-3002 : Step(128): len = 152951, overlap = 133.5
+PHY-3002 : Step(129): len = 149943, overlap = 135.5
+PHY-3002 : Step(130): len = 145986, overlap = 133.25
+PHY-3002 : Step(131): len = 141365, overlap = 141.5
+PHY-3002 : Step(132): len = 138393, overlap = 142.75
+PHY-3002 : Step(133): len = 135992, overlap = 147.25
+PHY-3002 : Step(134): len = 134052, overlap = 151.75
+PHY-3002 : Step(135): len = 133140, overlap = 149.5
+PHY-3002 : Step(136): len = 132163, overlap = 151.5
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 7.54075e-05
+PHY-3002 : Step(137): len = 137296, overlap = 134.25
+PHY-3002 : Step(138): len = 141592, overlap = 118.25
+PHY-3002 : Step(139): len = 144130, overlap = 117
+PHY-3002 : Step(140): len = 144886, overlap = 116
+PHY-3002 : Step(141): len = 145451, overlap = 111
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 0.000146946
+PHY-3002 : Step(142): len = 148951, overlap = 104.5
+PHY-3002 : Step(143): len = 152068, overlap = 95
+PHY-3002 : Step(144): len = 155637, overlap = 81.75
+PHY-3002 : Step(145): len = 156240, overlap = 82.5
+PHY-3002 : Step(146): len = 156055, overlap = 79.25
+PHY-3002 : Step(147): len = 155914, overlap = 79.75
+PHY-3001 : :::3::: Try harder cell spreading with beta_ = 0.000293892
+PHY-3002 : Step(148): len = 158534, overlap = 73.75
+PHY-3002 : Step(149): len = 160097, overlap = 72
+PHY-3002 : Step(150): len = 161831, overlap = 63.25
+PHY-3002 : Step(151): len = 162411, overlap = 63.5
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.422950s wall, 0.234002s user + 0.234002s system = 0.468003s CPU (110.7%)
+
+PHY-3001 : Run with size of 2
+PHY-3001 : Cell area utilization is 27%, beta_incr = 0.867449
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 0.000163576
+PHY-3002 : Step(152): len = 171780, overlap = 15.5
+PHY-3002 : Step(153): len = 167047, overlap = 26.75
+PHY-3002 : Step(154): len = 162557, overlap = 43.5
+PHY-3002 : Step(155): len = 160705, overlap = 51.5
+PHY-3002 : Step(156): len = 159359, overlap = 56.25
+PHY-3002 : Step(157): len = 158382, overlap = 60.5
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 0.000327153
+PHY-3002 : Step(158): len = 160718, overlap = 57.5
+PHY-3002 : Step(159): len = 162809, overlap = 50.5
+PHY-3002 : Step(160): len = 162789, overlap = 52
+PHY-3002 : Step(161): len = 163102, overlap = 55
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 0.000544519
+PHY-3002 : Step(162): len = 164493, overlap = 52.25
+PHY-3002 : Step(163): len = 165846, overlap = 52.75
+PHY-3002 : Step(164): len = 167179, overlap = 51.25
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.018343s wall, 0.015600s user + 0.000000s system = 0.015600s CPU (85.0%)
+
+PHY-3001 : Legalized: Len = 173249, Over = 0
+PHY-3001 : Final: Len = 173249, Over = 0
+PHY-3001 : Improving timing with driver duplication.
+RUN-1001 : Generating global routing grids ...
+PHY-1001 : Generate routing nets ...
+PHY-1001 : Global iterations in 4 thread ...
+PHY-1002 : len = 523248, over cnt = 91(0%), over = 97, worst = 2
+PHY-1002 : len = 523832, over cnt = 40(0%), over = 42, worst = 2
+PHY-1002 : len = 523648, over cnt = 12(0%), over = 12, worst = 1
+PHY-1002 : len = 523656, over cnt = 9(0%), over = 9, worst = 1
+PHY-1002 : len = 523504, over cnt = 0(0%), over = 0, worst = 0
+PHY-1001 : End global iterations;  0.125561s wall, 0.109201s user + 0.000000s system = 0.109201s CPU (87.0%)
+
+RUN-1002 : start command "place -eco"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+PHY-3001 : Placer runs in 4 thread(s).
+PHY-1001 : Populate physical database.
+PHY-3001 : Initial placement ...
+PHY-3001 : eco special cells: 1 has valid locations, 0 needs to be replaced
+PHY-3001 : eco pad cells: 3 has valid locations, 0 needs to be replaced
+PHY-3001 : eco cells: 2167 has valid locations, 68 needs to be replaced
+PHY-3001 : design contains 2241 instances, 2223 slices, 41 macros(159 instances)
+PHY-3001 : Start timing update ...
+RUN-1002 : start command "start_timer"
+TMR-5001 WARNING: No sdc constraints found while initiating timer.
+TMR-2505 : Start building timing graph for model MC8051OnBoard.
+TMR-2506 : Build timing graph completely. Port num: 3, tpin num: 19914, tnet num: 4521, tinst num: 2241, tnode num: 21359, tedge num: 31695.
+TMR-2507 : Eliminate loop in the timing graph, delete 0 tedges.
+TMR-2508 : Levelizing timing graph completed, there are 141 levels in total.
+TMR-2501 : Timing graph initialized successfully.
+RUN-1003 : finish command "start_timer" in  1.283395s wall, 1.279208s user + 0.000000s system = 1.279208s CPU (99.7%)
+
+RUN-1004 : used memory is 587 MB, reserved memory is 530 MB, peak memory is 587 MB
+TMR-2503 : Start to update net delay, extr mode = 2.
+TMR-2504 : Update delay of 4521 nets completely.
+TMR-2502 : Annotate delay completely, extr mode = 2.
+TMR-3002 : No user constraint, initiate default constraint.
+TMR-1501 : Assign derive clock DeriveClock to 942 clock pins, and constraint 1445 relative nodes.
+TMR-3005 : Start mapping report constraints, there are 0 constraints in total.
+TMR-3003 : Constraints initiated successfully.
+TMR-3501 : Forward propagation: start to calculate arrival time...
+TMR-3502 : Backward propagation: start to calculate required time...
+TMR-3503 : Timing propagation completes.
+PHY-3001 : End timing update;  1.465498s wall, 1.450809s user + 0.000000s system = 1.450809s CPU (99.0%)
+
+PHY-3001 : Global placement ...
+PHY-3001 : Initial: Len = 182396
+PHY-3001 : Run with size of 4
+PHY-3001 : Cell area utilization is 22%, beta_incr = 0.863898
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 0
+PHY-3002 : Step(165): len = 181823, overlap = 2
+PHY-3002 : Step(166): len = 181897, overlap = 2
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 0.000725682
+PHY-3002 : Step(167): len = 181780, overlap = 0.75
+PHY-3002 : Step(168): len = 181827, overlap = 0.5
+PHY-3002 : Step(169): len = 181942, overlap = 0
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.004303s wall, 0.015600s user + 0.000000s system = 0.015600s CPU (362.5%)
+
+PHY-3001 : Run with size of 4
+PHY-3001 : Cell area utilization is 28%, beta_incr = 0.863898
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 1.85495e-05
+PHY-3002 : Step(170): len = 181663, overlap = 5
+PHY-3002 : Step(171): len = 181663, overlap = 5
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 3.70991e-05
+PHY-3002 : Step(172): len = 181660, overlap = 3.75
+PHY-3002 : Step(173): len = 181660, overlap = 3.75
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 7.41982e-05
+PHY-3002 : Step(174): len = 181597, overlap = 3
+PHY-3002 : Step(175): len = 181597, overlap = 3
+PHY-3001 : Run with size of 2
+PHY-3001 : Cell area utilization is 28%, beta_incr = 0.863898
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 6.71982e-05
+PHY-3002 : Step(176): len = 181625, overlap = 8.5
+PHY-3002 : Step(177): len = 181625, overlap = 8.5
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 0.000134396
+PHY-3002 : Step(178): len = 181637, overlap = 8.25
+PHY-3002 : Step(179): len = 181689, overlap = 7.5
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 0.000268793
+PHY-3002 : Step(180): len = 181798, overlap = 6.5
+PHY-3002 : Step(181): len = 181798, overlap = 6.5
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.054172s wall, 0.046800s user + 0.015600s system = 0.062400s CPU (115.2%)
+
+PHY-3001 : Run with size of 2
+PHY-3001 : Cell area utilization is 28%, beta_incr = 0.863898
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 0.00037221
+PHY-3002 : Step(182): len = 182064, overlap = 2.75
+PHY-3002 : Step(183): len = 182086, overlap = 2.75
+PHY-3002 : Step(184): len = 182113, overlap = 3.25
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.007293s wall, 0.000000s user + 0.000000s system = 0.000000s CPU (n/a%)
+
+PHY-3001 : Legalized: Len = 182641, Over = 0
+PHY-3001 : Final: Len = 182641, Over = 0
+RUN-1003 : finish command "place -eco" in  2.282285s wall, 2.355615s user + 0.234002s system = 2.589617s CPU (113.5%)
+
+RUN-1004 : used memory is 595 MB, reserved memory is 538 MB, peak memory is 595 MB
+RUN-1001 : Eco place succeeded
+RUN-1003 : finish command "place" in  11.322170s wall, 21.465738s user + 2.215214s system = 23.680952s CPU (209.2%)
+
+RUN-1004 : used memory is 595 MB, reserved memory is 538 MB, peak memory is 595 MB
+RUN-1002 : start command "route"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+PHY-1001 : Pin misalignment score is improved from 2847 to 1996
+PHY-1001 : Pin misalignment score is improved from 1996 to 1953
+PHY-1001 : Pin misalignment score is improved from 1953 to 1951
+PHY-1001 : Pin misalignment score is improved from 1951 to 1951
+PHY-1001 : Route runs in 4 thread(s)
+RUN-1001 : There are total 2243 instances
+RUN-1001 : 1103 mslices, 1120 lslices, 3 pads, 10 brams, 2 dsps
+RUN-1001 : There are total 4523 nets
+RUN-1001 : 2937 nets have 2 pins
+RUN-1001 : 752 nets have [3 - 5] pins
+RUN-1001 : 506 nets have [6 - 10] pins
+RUN-1001 : 220 nets have [11 - 20] pins
+RUN-1001 : 105 nets have [21 - 99] pins
+RUN-1001 : 3 nets have 100+ pins
+PHY-1001 : Start global routing ...
+RUN-1001 : Generating global routing grids ...
+PHY-1001 : Generate routing nets ...
+PHY-1001 : Global iterations in 4 thread ...
+PHY-1002 : len = 511632, over cnt = 117(0%), over = 126, worst = 2
+PHY-1002 : len = 512296, over cnt = 53(0%), over = 55, worst = 2
+PHY-1002 : len = 512456, over cnt = 15(0%), over = 15, worst = 1
+PHY-1002 : len = 512240, over cnt = 4(0%), over = 4, worst = 1
+PHY-1002 : len = 511736, over cnt = 0(0%), over = 0, worst = 0
+PHY-1001 : End global iterations;  0.126967s wall, 0.171601s user + 0.000000s system = 0.171601s CPU (135.2%)
+
+PHY-1001 : End global routing;  0.281499s wall, 0.327602s user + 0.000000s system = 0.327602s CPU (116.4%)
+
+PHY-1001 : Start detail routing ...
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : Generate nets ...
+PHY-1001 : net mcu_clk_110592 will be routed on clock mesh
+PHY-1001 : net sysclk_pad will be routed on clock mesh
+PHY-1001 : clock net u_pll/clk0_out will be merged with clock u_pll/clk0_buf
+PHY-1001 : Detail Route ...
+PHY-1001 : ===== Detail Route Phase 1 =====
+PHY-1001 : Routed 0% nets.
+PHY-1002 : len = 33472, over cnt = 0(0%), over = 0, worst = 0
+PHY-1001 : End Routed; 0.012634s wall, 0.015600s user + 0.000000s system = 0.015600s CPU (123.5%)
+
+PHY-1001 : ===== Detail Route Phase 2 =====
+PHY-1001 : Routed 0% nets.
+PHY-1002 : len = 33472, over cnt = 0(0%), over = 0, worst = 0
+PHY-1001 : End Routed; 0.000015s wall, 0.000000s user + 0.000000s system = 0.000000s CPU (n/a%)
+
+PHY-1001 : ===== Detail Route Phase 3 =====
+PHY-1001 : Routed 54% nets.
+PHY-1001 : Routed 59% nets.
+PHY-1001 : Routed 67% nets.
+PHY-1001 : Routed 77% nets.
+PHY-1001 : Routed 97% nets.
+PHY-1002 : len = 776480, over cnt = 208(0%), over = 208, worst = 1
+PHY-1001 : End Routed; 7.249087s wall, 11.138471s user + 0.187201s system = 11.325673s CPU (156.2%)
+
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : Generate nets ...
+RUN-1003 : finish command "route" in  12.804451s wall, 16.692107s user + 0.280802s system = 16.972909s CPU (132.6%)
+
+RUN-1004 : used memory is 925 MB, reserved memory is 868 MB, peak memory is 928 MB
+GUI-8003 ERROR: mc8051_ram.v is missing!
+GUI-8003 ERROR: mc8051_rom.v is missing!
+GUI-8003 ERROR: ../MC8051OnBoard.v is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_p.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_core_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_core_struc.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_cy_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_cy_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_cy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_ovcy_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_ovcy_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_ovcy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alucore_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alucore_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alucore_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alumux_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alumux_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alumux_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_divider_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_divider_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_divider_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_mltplr_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_mltplr_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_mltplr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_fsm_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_fsm_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_fsm_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_mem_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_mem_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_mem_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/dcml_adjust_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/dcml_adjust_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/dcml_adjust_rtl_cfg.vhd is missing!
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/mc8051_p.vhd'
+HDL-1007 : analyze VHDL file mc8051_ram.vhd
+HDL-1007 : analyze entity mc8051_ram in mc8051_ram.vhd(19)
+HDL-1007 : analyze architecture ram_arch in mc8051_ram.vhd(33)
+HDL-1007 : analyze configuration mc8051_ram_sim_cfg in mc8051_ram.vhd(50)
+HDL-1007 : analyze VHDL file mc8051_ramx.vhd
+HDL-1007 : analyze entity mc8051_ramx in mc8051_ramx.vhd(19)
+HDL-1007 : analyze architecture ramx_arch in mc8051_ramx.vhd(32)
+HDL-1007 : analyze configuration mc8051_ramx_sim_cfg in mc8051_ramx.vhd(47)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_p.vhd
+HDL-1007 : analyze package mc8051_p in ../vhdl/mc8051_p.vhd(69)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_ovcy.vhd
+HDL-1007 : analyze entity addsub_ovcy in ../vhdl/addsub_ovcy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_ovcy.vhd(85)
+HDL-1007 : analyze configuration addsub_ovcy_rtl_cfg in ../vhdl/addsub_ovcy.vhd(159)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_cy.vhd
+HDL-1007 : analyze entity addsub_cy in ../vhdl/addsub_cy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_cy.vhd(85)
+HDL-1007 : analyze configuration addsub_cy_rtl_cfg in ../vhdl/addsub_cy.vhd(115)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_core.vhd
+HDL-1007 : analyze entity addsub_core in ../vhdl/addsub_core.vhd(76)
+HDL-1007 : analyze architecture struc in ../vhdl/addsub_core.vhd(91)
+HDL-1007 : analyze configuration addsub_core_struc_cfg in ../vhdl/addsub_core.vhd(142)
+HDL-1007 : analyze VHDL file ../vhdl/alucore.vhd
+HDL-1007 : analyze entity alucore in ../vhdl/alucore.vhd(73)
+HDL-1007 : analyze architecture rtl in ../vhdl/alucore.vhd(94)
+HDL-1007 : analyze configuration alucore_rtl_cfg in ../vhdl/alucore.vhd(191)
+HDL-1007 : analyze VHDL file ../vhdl/alumux.vhd
+HDL-1007 : analyze entity alumux in ../vhdl/alumux.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/alumux.vhd(125)
+HDL-1007 : analyze configuration alumux_rtl_cfg in ../vhdl/alumux.vhd(494)
+HDL-1007 : analyze VHDL file ../vhdl/comb_divider.vhd
+HDL-1007 : analyze entity comb_divider in ../vhdl/comb_divider.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_divider.vhd(82)
+HDL-1007 : analyze configuration comb_divider_rtl_cfg in ../vhdl/comb_divider.vhd(130)
+HDL-1007 : analyze VHDL file ../vhdl/comb_mltplr.vhd
+HDL-1007 : analyze entity comb_mltplr in ../vhdl/comb_mltplr.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_mltplr.vhd(82)
+HDL-1007 : analyze configuration comb_mltplr_rtl_cfg in ../vhdl/comb_mltplr.vhd(104)
+HDL-1007 : analyze VHDL file ../vhdl/control_fsm.vhd
+HDL-1007 : analyze entity control_fsm in ../vhdl/control_fsm.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_fsm.vhd(126)
+HDL-1007 : analyze configuration control_fsm_rtl_cfg in ../vhdl/control_fsm.vhd(2231)
+HDL-1007 : analyze VHDL file ../vhdl/control_mem.vhd
+HDL-1007 : analyze entity control_mem in ../vhdl/control_mem.vhd(75)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_mem.vhd(206)
+HDL-1007 : analyze configuration control_mem_rtl_cfg in ../vhdl/control_mem.vhd(1285)
+HDL-1007 : analyze VHDL file ../vhdl/dcml_adjust.vhd
+HDL-1007 : analyze entity dcml_adjust in ../vhdl/dcml_adjust.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/dcml_adjust.vhd(90)
+HDL-1007 : analyze configuration dcml_adjust_rtl_cfg in ../vhdl/dcml_adjust.vhd(168)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_alu.vhd
+HDL-1007 : analyze entity mc8051_alu in ../vhdl/mc8051_alu.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_alu.vhd(104)
+HDL-1007 : analyze configuration mc8051_alu_struc_cfg in ../vhdl/mc8051_alu.vhd(235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_control.vhd
+HDL-1007 : analyze entity mc8051_control in ../vhdl/mc8051_control.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_control.vhd(142)
+HDL-1007 : analyze configuration mc8051_control_struc_cfg in ../vhdl/mc8051_control.vhd(344)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_siu.vhd
+HDL-1007 : analyze entity mc8051_siu in ../vhdl/mc8051_siu.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_siu.vhd(92)
+HDL-1007 : analyze configuration mc8051_siu_rtl_cfg in ../vhdl/mc8051_siu.vhd(1235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_tmrctr.vhd
+HDL-1007 : analyze entity mc8051_tmrctr in ../vhdl/mc8051_tmrctr.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_tmrctr.vhd(96)
+HDL-1007 : analyze configuration mc8051_tmrctr_rtl_cfg in ../vhdl/mc8051_tmrctr.vhd(797)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_core.vhd
+HDL-1007 : analyze entity mc8051_core in ../vhdl/mc8051_core.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_core.vhd(121)
+HDL-1007 : analyze configuration mc8051_core_struc_cfg in ../vhdl/mc8051_core.vhd(276)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_top.vhd
+HDL-1007 : analyze entity mc8051_top in ../vhdl/mc8051_top.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_top.vhd(104)
+HDL-1007 : analyze configuration mc8051_top_struc_cfg in ../vhdl/mc8051_top.vhd(200)
+HDL-1007 : analyze verilog file al_ip/pll.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom_td.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom.v
+HDL-1007 : analyze verilog file MC8051OnBoard.v
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/mc8051_p.vhd'
+HDL-1007 : analyze VHDL file mc8051_ram.vhd
+HDL-1007 : analyze entity mc8051_ram in mc8051_ram.vhd(19)
+HDL-1007 : analyze architecture ram_arch in mc8051_ram.vhd(33)
+HDL-1007 : analyze configuration mc8051_ram_sim_cfg in mc8051_ram.vhd(50)
+HDL-1007 : analyze VHDL file mc8051_ramx.vhd
+HDL-1007 : analyze entity mc8051_ramx in mc8051_ramx.vhd(19)
+HDL-1007 : analyze architecture ramx_arch in mc8051_ramx.vhd(32)
+HDL-1007 : analyze configuration mc8051_ramx_sim_cfg in mc8051_ramx.vhd(47)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_p.vhd
+HDL-1007 : analyze package mc8051_p in ../vhdl/mc8051_p.vhd(69)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_ovcy.vhd
+HDL-1007 : analyze entity addsub_ovcy in ../vhdl/addsub_ovcy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_ovcy.vhd(85)
+HDL-1007 : analyze configuration addsub_ovcy_rtl_cfg in ../vhdl/addsub_ovcy.vhd(159)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_cy.vhd
+HDL-1007 : analyze entity addsub_cy in ../vhdl/addsub_cy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_cy.vhd(85)
+HDL-1007 : analyze configuration addsub_cy_rtl_cfg in ../vhdl/addsub_cy.vhd(115)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_core.vhd
+HDL-1007 : analyze entity addsub_core in ../vhdl/addsub_core.vhd(76)
+HDL-1007 : analyze architecture struc in ../vhdl/addsub_core.vhd(91)
+HDL-1007 : analyze configuration addsub_core_struc_cfg in ../vhdl/addsub_core.vhd(142)
+HDL-1007 : analyze VHDL file ../vhdl/alucore.vhd
+HDL-1007 : analyze entity alucore in ../vhdl/alucore.vhd(73)
+HDL-1007 : analyze architecture rtl in ../vhdl/alucore.vhd(94)
+HDL-1007 : analyze configuration alucore_rtl_cfg in ../vhdl/alucore.vhd(191)
+HDL-1007 : analyze VHDL file ../vhdl/alumux.vhd
+HDL-1007 : analyze entity alumux in ../vhdl/alumux.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/alumux.vhd(125)
+HDL-1007 : analyze configuration alumux_rtl_cfg in ../vhdl/alumux.vhd(494)
+HDL-1007 : analyze VHDL file ../vhdl/comb_divider.vhd
+HDL-1007 : analyze entity comb_divider in ../vhdl/comb_divider.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_divider.vhd(82)
+HDL-1007 : analyze configuration comb_divider_rtl_cfg in ../vhdl/comb_divider.vhd(130)
+HDL-1007 : analyze VHDL file ../vhdl/comb_mltplr.vhd
+HDL-1007 : analyze entity comb_mltplr in ../vhdl/comb_mltplr.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_mltplr.vhd(82)
+HDL-1007 : analyze configuration comb_mltplr_rtl_cfg in ../vhdl/comb_mltplr.vhd(104)
+HDL-1007 : analyze VHDL file ../vhdl/control_fsm.vhd
+HDL-1007 : analyze entity control_fsm in ../vhdl/control_fsm.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_fsm.vhd(126)
+HDL-1007 : analyze configuration control_fsm_rtl_cfg in ../vhdl/control_fsm.vhd(2231)
+HDL-1007 : analyze VHDL file ../vhdl/control_mem.vhd
+HDL-1007 : analyze entity control_mem in ../vhdl/control_mem.vhd(75)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_mem.vhd(206)
+HDL-1007 : analyze configuration control_mem_rtl_cfg in ../vhdl/control_mem.vhd(1285)
+HDL-1007 : analyze VHDL file ../vhdl/dcml_adjust.vhd
+HDL-1007 : analyze entity dcml_adjust in ../vhdl/dcml_adjust.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/dcml_adjust.vhd(90)
+HDL-1007 : analyze configuration dcml_adjust_rtl_cfg in ../vhdl/dcml_adjust.vhd(168)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_alu.vhd
+HDL-1007 : analyze entity mc8051_alu in ../vhdl/mc8051_alu.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_alu.vhd(104)
+HDL-1007 : analyze configuration mc8051_alu_struc_cfg in ../vhdl/mc8051_alu.vhd(235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_control.vhd
+HDL-1007 : analyze entity mc8051_control in ../vhdl/mc8051_control.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_control.vhd(142)
+HDL-1007 : analyze configuration mc8051_control_struc_cfg in ../vhdl/mc8051_control.vhd(344)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_siu.vhd
+HDL-1007 : analyze entity mc8051_siu in ../vhdl/mc8051_siu.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_siu.vhd(92)
+HDL-1007 : analyze configuration mc8051_siu_rtl_cfg in ../vhdl/mc8051_siu.vhd(1235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_tmrctr.vhd
+HDL-1007 : analyze entity mc8051_tmrctr in ../vhdl/mc8051_tmrctr.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_tmrctr.vhd(96)
+HDL-1007 : analyze configuration mc8051_tmrctr_rtl_cfg in ../vhdl/mc8051_tmrctr.vhd(797)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_core.vhd
+HDL-1007 : analyze entity mc8051_core in ../vhdl/mc8051_core.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_core.vhd(121)
+HDL-1007 : analyze configuration mc8051_core_struc_cfg in ../vhdl/mc8051_core.vhd(276)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_top.vhd
+HDL-1007 : analyze entity mc8051_top in ../vhdl/mc8051_top.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_top.vhd(104)
+HDL-1007 : analyze configuration mc8051_top_struc_cfg in ../vhdl/mc8051_top.vhd(200)
+HDL-1007 : analyze verilog file al_ip/pll.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom_td.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom.v
+HDL-1007 : analyze verilog file MC8051OnBoard.v
+RUN-1002 : start command "elaborate -top MC8051OnBoard"
+HDL-1007 : elaborate module MC8051OnBoard in MC8051OnBoard.v(1)
+HDL-1007 : elaborate module pll in al_ip/pll.v(24)
+HDL-1007 : elaborate module EG_LOGIC_BUFG in C:/Anlogic/TD4.6.2/arch/eagle_macro.v(81)
+HDL-1007 : elaborate module EG_PHY_PLL(FIN="24.000",REFCLK_DIV=2,CLKC0_DIV=59,CLKC1_DIV=64,CLKC2_DIV=118,CLKC0_ENABLE="ENABLE",CLKC1_ENABLE="ENABLE",CLKC2_ENABLE="ENABLE",FEEDBK_PATH="CLKC0_EXT",STDBY_ENABLE="DISABLE",CLKC0_CPHASE=58,CLKC1_CPHASE=63,CLKC2_CPHASE=117,GMC_GAIN=0,ICP_CURRENT=9,KVCO=2,LPF_CAPACITOR=2,LPF_RESISTOR=8,SYNC_ENABLE="DISABLE") in C:/Anlogic/TD4.6.2/arch/eagle_macro.v(986)
+HDL-1007 : switch to vhdl to elaborate module mc8051_top in MC8051OnBoard.v(49)
+HDL-1007 : elaborate mc8051_top(struc) in ../vhdl/mc8051_top.vhd(74)
+HDL-1007 : elaborate mc8051_core(struc) in ../vhdl/mc8051_core.vhd(75)
+HDL-1007 : elaborate mc8051_control(struc) in ../vhdl/mc8051_control.vhd(74)
+HDL-1007 : elaborate control_fsm(rtl) in ../vhdl/control_fsm.vhd(74)
+HDL-1007 : others clause is never selected in ../vhdl/control_fsm.vhd(2223)
+HDL-1007 : elaborate control_mem(rtl) in ../vhdl/control_mem.vhd(75)
+HDL-1007 : others clause is never selected in ../vhdl/control_mem.vhd(833)
+HDL-1007 : others clause is never selected in ../vhdl/control_mem.vhd(932)
+HDL-1007 : others clause is never selected in ../vhdl/control_mem.vhd(938)
+HDL-1007 : others clause is never selected in ../vhdl/control_mem.vhd(1250)
+HDL-1007 : elaborate mc8051_alu(struc) in ../vhdl/mc8051_alu.vhd(75)
+HDL-1007 : elaborate alumux(rtl) in ../vhdl/alumux.vhd(74)
+HDL-1007 : elaborate alucore(rtl) in ../vhdl/alucore.vhd(73)
+HDL-1007 : elaborate addsub_core(dwidth=8)(struc) in ../vhdl/addsub_core.vhd(76)
+HDL-1007 : elaborate addsub_cy(rtl) in ../vhdl/addsub_cy.vhd(72)
+HDL-1007 : elaborate addsub_ovcy(rtl) in ../vhdl/addsub_ovcy.vhd(72)
+HDL-1007 : elaborate comb_mltplr(rtl) in ../vhdl/comb_mltplr.vhd(72)
+HDL-1007 : elaborate comb_divider(rtl) in ../vhdl/comb_divider.vhd(72)
+HDL-1007 : elaborate dcml_adjust(dwidth=8)(rtl) in ../vhdl/dcml_adjust.vhd(72)
+HDL-1007 : elaborate mc8051_siu(rtl) in ../vhdl/mc8051_siu.vhd(71)
+HDL-1007 : others clause is never selected in ../vhdl/mc8051_siu.vhd(816)
+HDL-1007 : others clause is never selected in ../vhdl/mc8051_siu.vhd(1215)
+HDL-1007 : elaborate mc8051_tmrctr(rtl) in ../vhdl/mc8051_tmrctr.vhd(71)
+HDL-1007 : others clause is never selected in ../vhdl/mc8051_tmrctr.vhd(541)
+HDL-1007 : others clause is never selected in ../vhdl/mc8051_tmrctr.vhd(784)
+HDL-1007 : elaborate mc8051_ram(ram_arch) in mc8051_ram.vhd(19)
+HDL-1007 : extracting RAM for identifier 'ram_mem' in mc8051_ram.vhd(36)
+HDL-1007 : switch to vlog to elaborate module mc8051_rom in ../vhdl/mc8051_top.vhd(181)
+HDL-1007 : elaborate module mc8051_rom in al_ip/mc8051_rom.v(1)
+HDL-1007 : elaborate module mc8051_rom_td in al_ip/mc8051_rom_td.v(14)
+HDL-1007 : elaborate module EG_LOGIC_BRAM(DATA_WIDTH_A=8,DATA_WIDTH_B=8,ADDR_WIDTH_A=8,ADDR_WIDTH_B=8,DATA_DEPTH_A=191,DATA_DEPTH_B=191,MODE="SP",INIT_FILE="led.mif") in C:/Anlogic/TD4.6.2/arch/eagle_macro.v(1072)
+HDL-5007 WARNING: actual bit length 16 differs from formal bit length 8 for port 'addra' in al_ip/mc8051_rom.v(9)
+HDL-1007 : back to vhdl to elaborate in ../vhdl/mc8051_top.vhd(181)
+HDL-1007 : elaborate mc8051_ramx(ramx_arch) in mc8051_ramx.vhd(19)
+HDL-1007 : extracting RAM for identifier 'ramx_mem' in mc8051_ramx.vhd(34)
+HDL-1007 : back to vlog to elaborate in MC8051OnBoard.v(49)
+HDL-1200 : Current top model is MC8051OnBoard
+HDL-1100 : Inferred 2 RAMs.
+RUN-1002 : start command "read_adc MC8051DEMO.adc"
+RUN-1002 : start command "set_pin_assignment key  LOCATION = T4;  "
+RUN-1002 : start command "set_pin_assignment sysclk  LOCATION = K14;  "
+RUN-1002 : start command "set_pin_assignment led  LOCATION = N3;  "
+RUN-1002 : start command "optimize_rtl"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+SYN-1012 : SanityCheck: Model "MC8051OnBoard"
+SYN-1012 : SanityCheck: Model "mc8051_top"
+SYN-1012 : SanityCheck: Model "mc8051_core"
+SYN-1012 : SanityCheck: Model "mc8051_siu"
+SYN-1012 : SanityCheck: Model "mc8051_tmrctr"
+SYN-1012 : SanityCheck: Model "mc8051_alu"
+SYN-1012 : SanityCheck: Model "dcml_adjust(dwidth=8)"
+SYN-1012 : SanityCheck: Model "comb_divider"
+SYN-1012 : SanityCheck: Model "comb_mltplr"
+SYN-1012 : SanityCheck: Model "addsub_core(dwidth=8)"
+SYN-1012 : SanityCheck: Model "addsub_cy"
+SYN-1012 : SanityCheck: Model "addsub_ovcy"
+SYN-1012 : SanityCheck: Model "alucore"
+SYN-1012 : SanityCheck: Model "alumux"
+SYN-1012 : SanityCheck: Model "mc8051_control"
+SYN-1012 : SanityCheck: Model "control_fsm"
+SYN-1012 : SanityCheck: Model "control_mem"
+SYN-1012 : SanityCheck: Model "mc8051_ram"
+SYN-1012 : SanityCheck: Model "mc8051_ramx"
+SYN-1012 : SanityCheck: Model "mc8051_rom"
+SYN-1012 : SanityCheck: Model "mc8051_rom_td"
+SYN-1012 : SanityCheck: Model "pll"
+SYN-1043 : Mark pll as IO macro for instance bufg_feedback
+SYN-1016 : Merged 592 instances.
+SYN-1016 : Merged 3 instances.
+SYN-1016 : Merged 866 instances.
+SYN-1016 : Merged 23 instances.
+SYN-1026 : Infer Logic BRAM(ram_ram_mem0)
+	 port mode: single port
+	 port a size: 128 x 8	 write mode: READBEFOREWRITE
+	 port b size: 128 x 8	 write mode: NORMAL
+SYN-1023 : Infer 0 Logic DRAMs, 1 Logic BRAMs.
+SYN-1026 : Infer Logic BRAM(ram_ramx_mem0)
+	 port mode: single port
+	 port a size: 8192 x 8	 write mode: READBEFOREWRITE
+	 port b size: 8192 x 8	 write mode: NORMAL
+SYN-1023 : Infer 0 Logic DRAMs, 1 Logic BRAMs.
+SYN-1011 : Flatten model MC8051OnBoard
+SYN-1011 : Flatten model mc8051_top
+SYN-1011 : Flatten model mc8051_core
+SYN-1011 : Flatten model mc8051_siu
+SYN-1011 : Flatten model mc8051_tmrctr
+SYN-1011 : Flatten model mc8051_alu
+SYN-1011 : Flatten model dcml_adjust(dwidth=8)
+SYN-1011 : Flatten model comb_divider
+SYN-1011 : Flatten model comb_mltplr
+SYN-1011 : Flatten model addsub_core(dwidth=8)
+SYN-1011 : Flatten model addsub_cy
+SYN-1011 : Flatten model addsub_ovcy
+SYN-1016 : Merged 2 instances.
+SYN-1011 : Flatten model alucore
+SYN-1011 : Flatten model alumux
+SYN-1016 : Merged 7 instances.
+SYN-1011 : Flatten model mc8051_control
+SYN-1011 : Flatten model control_fsm
+SYN-1011 : Flatten model control_mem
+SYN-1016 : Merged 30 instances.
+SYN-1016 : Merged 10 instances.
+SYN-1011 : Flatten model mc8051_ram
+SYN-1011 : Flatten model mc8051_ramx
+SYN-1011 : Flatten model mc8051_rom
+SYN-1011 : Flatten model mc8051_rom_td
+SYN-1016 : Merged 6 instances.
+SYN-1011 : Flatten model pll
+SYN-1016 : Merged 44 instances.
+SYN-1014 : Optimize round 1
+SYN-1032 : 6215/594 useful/useless nets, 5955/525 useful/useless insts
+SYN-1017 : Remove 6 const input seq instances
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/reg0_b0
+SYN-1002 :     u8051_inst/i_mc8051_core/i_mc8051_control/i_control_mem/reg6_b0
+SYN-1002 :     u8051_inst/i_mc8051_core/i_mc8051_control/i_control_mem/s_int0_h1_reg[0]
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/reg0_b1
+SYN-1002 :     u8051_inst/i_mc8051_core/i_mc8051_control/i_control_mem/s_int0_h2_reg[0]
+SYN-1002 :     u8051_inst/i_mc8051_core/i_mc8051_control/i_control_mem/s_int0_h3_reg[0]
+SYN-1018 : Transformed 3 mux instances.
+SYN-1019 : Optimized 45 mux instances.
+SYN-1021 : Optimized 128 onehot mux instances.
+SYN-1020 : Optimized 1568 distributor mux.
+SYN-1016 : Merged 3226 instances.
+SYN-1015 : Optimize round 1, 6083 better
+SYN-1014 : Optimize round 2
+SYN-1044 : Optimized 2 inv instances.
+SYN-1032 : 5703/131 useful/useless nets, 5459/2417 useful/useless insts
+SYN-1019 : Optimized 7 mux instances.
+SYN-1020 : Optimized 2 distributor mux.
+SYN-1016 : Merged 4 instances.
+SYN-1015 : Optimize round 2, 2502 better
+SYN-1014 : Optimize round 3
+SYN-1032 : 5666/40 useful/useless nets, 5422/39 useful/useless insts
+SYN-1017 : Remove 4 const input seq instances
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t0ff1_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t1ff1_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t0ff2_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t1ff2_reg
+SYN-1019 : Optimized 0 mux instances.
+SYN-1016 : Merged 3 instances.
+SYN-1015 : Optimize round 3, 79 better
+SYN-1014 : Optimize round 4
+SYN-1032 : 5647/1 useful/useless nets, 5403/3 useful/useless insts
+SYN-1019 : Optimized 0 mux instances.
+SYN-1016 : Merged 4 instances.
+SYN-1015 : Optimize round 4, 17 better
+SYN-1014 : Optimize round 5
+SYN-1032 : 5643/0 useful/useless nets, 5399/0 useful/useless insts
+SYN-1019 : Optimized 0 mux instances.
+SYN-1015 : Optimize round 5, 0 better
+RUN-1003 : finish command "optimize_rtl" in  2.983506s wall, 2.839218s user + 0.062400s system = 2.901619s CPU (97.3%)
+
+RUN-1004 : used memory is 551 MB, reserved memory is 518 MB, peak memory is 928 MB
+RUN-1002 : start command "report_area -file mc8051_top_rtl.area"
+RUN-1001 : standard
+***Report Model: MC8051OnBoard***
+
+IO Statistics
+#IO                     3
+  #input                2
+  #output               1
+  #inout                0
+
+Gate Statistics
+#Basic gates         3849
+  #and               1691
+  #nand                 0
+  #or                 358
+  #nor                  0
+  #xor                 15
+  #xnor                 0
+  #buf                  0
+  #not                360
+  #bufif1               0
+  #MX21               948
+  #FADD                 0
+  #DFF                477
+  #LATCH                0
+#MACRO_ADD             48
+#MACRO_EQ             250
+#MACRO_MULT             2
+#MACRO_MUX           1242
+
+RUN-1001 : 
+Report Hierarchy Area:
++------------------------------------------------+
+|Instance |Module        |gates  |seq    |macros |
++------------------------------------------------+
+|top      |MC8051OnBoard |3372   |477    |304    |
++------------------------------------------------+
+
+RUN-1002 : start command "export_db mc8051_top_rtl.db"
+RUN-1001 : Exported /
+RUN-1001 : Exported libs
+RUN-1001 : Exported entities
+RUN-1001 : Exported ports
+RUN-1001 : Exported pins
+RUN-1001 : Exported instances
+RUN-1001 : Exported nets
+RUN-1001 : Exported buses
+RUN-1001 : Exported models
+RUN-1001 : Exported congestions
+RUN-1001 : Exported violations
+RUN-1001 : Exported IO constraints
+RUN-1001 : Exported Inst constraints
+RUN-1001 : Exported flow parameters
+RUN-1003 : finish command "export_db mc8051_top_rtl.db" in  3.754918s wall, 1.950012s user + 0.062400s system = 2.012413s CPU (53.6%)
+
+RUN-1004 : used memory is 571 MB, reserved memory is 528 MB, peak memory is 928 MB
+RUN-1002 : start command "optimize_gate -packarea mc8051_top_gate.area"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+SYN-2001 : Map 3 IOs to PADs
+SYN-2501 : Processed 0 LOGIC_BUF instances.
+SYN-2501 : 1 BUFG to GCLK
+SYN-2512 : LOGIC BRAM "u8051_inst/i_mc8051_ram/ram_ram_mem0"
+SYN-2512 : LOGIC BRAM "u8051_inst/i_mc8051_ramx/ram_ramx_mem0"
+SYN-2512 : LOGIC BRAM "u8051_inst/i_mc8051_rom/u_rom/inst"
+SYN-2541 : Reading BRAM "u8051_inst/i_mc8051_rom/u_rom/inst" init file "I:/Version1_6_TDV5\td_proj\al_ip\led.mif"
+SYN-2542 : Parsing MIF init file
+SYN-2571 : Map 2 macro multiplier
+SYN-2571 : Optimize after map_dsp, round 1
+SYN-1032 : 5646/0 useful/useless nets, 5410/0 useful/useless insts
+SYN-2571 : Optimize after map_dsp, round 1, 0 better
+SYN-2501 : Optimize round 1
+SYN-1032 : 7802/0 useful/useless nets, 7566/0 useful/useless insts
+SYN-1016 : Merged 1584 instances.
+SYN-2501 : Optimize round 1, 3304 better
+SYN-2501 : Optimize round 2
+SYN-1032 : 6218/0 useful/useless nets, 5982/0 useful/useless insts
+SYN-2501 : Optimize round 2, 0 better
+SYN-2501 : Map 48 macro adder
+SYN-3001 : Mapper mapped 63 instances into 3 LUTs, name keeping = 33%.
+SYN-3001 : Mapper mapped 63 instances into 3 LUTs, name keeping = 33%.
+SYN-3001 : Mapper mapped 63 instances into 3 LUTs, name keeping = 100%.
+SYN-3001 : Mapper mapped 63 instances into 2 LUTs, name keeping = 50%.
+SYN-3001 : Mapper mapped 63 instances into 3 LUTs, name keeping = 100%.
+SYN-1032 : 18526/9 useful/useless nets, 18290/0 useful/useless insts
+SYN-3001 : X or Z is treated as constant in optimizing instance u8051_inst/i_mc8051_core/i_mc8051_control/_al_const_x.
+SYN-3001 : Running gate level optimization.
+SYN-2581 : Mapping with K=4, #lut = 4148 (3.33), #lev = 41 (30.79)
+SYN-2551 : Post LUT mapping optimization.
+SYN-3001 : Logic optimization runtime opt =   3.91 sec, map =   0.00 sec
+SYN-3001 : Mapper mapped 17383 instances into 3949 LUTs, name keeping = 20%.
+SYN-1001 : Packing model "MC8051OnBoard" ...
+SYN-4010 : Pack lib has 42 rtl pack models with 15 top pack blocks
+SYN-1014 : Optimize round 1
+SYN-1032 : 5049/5 useful/useless nets, 4816/5 useful/useless insts
+SYN-1015 : Optimize round 1, 10 better
+SYN-1014 : Optimize round 2
+SYN-1032 : 5049/0 useful/useless nets, 4816/0 useful/useless insts
+SYN-1015 : Optimize round 2, 0 better
+SYN-4002 : Packing 476 DFF/LATCH to SEQ ...
+SYN-4009 : Pack 14 carry chain into lslice
+SYN-4007 : Packing 203 adder to BLE ...
+SYN-4008 : Packed 203 adder and 4 SEQ to BLE.
+SYN-4007 : Packing 0 gate4 to BLE ...
+SYN-4008 : Packed 0 gate4 and 0 SEQ to BLE.
+SYN-4012 : Packed 0 FxMUX
+SYN-4007 : Packing 0 MUX to BLE ...
+SYN-4008 : Packed 0 MUX and 0 SEQ to BLE.
+SYN-4007 : Packing 3945 LUT to BLE ...
+SYN-4008 : Packed 3945 LUT and 453 SEQ to BLE.
+SYN-4003 : Packing 19 remaining SEQ's ...
+SYN-4004 : #0: Packed 0 SEQ (19 nodes)...
+SYN-4004 : #1: Packed 18 SEQ (20 nodes)...
+SYN-4005 : Packed 18 SEQ with LUT/SLICE
+SYN-4006 : 3474 single LUT's are left
+SYN-4006 : 1 single SEQ's are left
+SYN-4011 : Packing model "MC8051OnBoard" (AL_USER_NORMAL) with 3946/4125 primitive instances ...
+RUN-1002 : start command "report_area -file mc8051_top_gate.area"
+RUN-1001 : standard
+***Report Model: MC8051OnBoard***
+
+IO Statistics
+#IO                     3
+  #input                2
+  #output               1
+  #inout                0
+
+Utilization Statistics
+#lut                 4263   out of  19600   21.75%
+#reg                  476   out of  19600    2.43%
+#le                  4264
+  #lut only          3788   out of   4264   88.84%
+  #reg only             1   out of   4264    0.02%
+  #lut&reg            475   out of   4264   11.14%
+#dsp                    2   out of     29    6.90%
+#bram                  10   out of     64   15.63%
+  #bram9k              10
+  #fifo9k               0
+#bram32k                0   out of     16    0.00%
+#pad                    3   out of    188    1.60%
+  #ireg                 0
+  #oreg                 0
+  #treg                 0
+#pll                    1   out of      4   25.00%
+
+RUN-1001 : 
+Report Hierarchy Area:
++---------------------------------------------+
+|Instance |Module        |le    |lut   |seq   |
++---------------------------------------------+
+|top      |MC8051OnBoard |4264  |4263  |476   |
++---------------------------------------------+
+
+RUN-1003 : finish command "optimize_gate -packarea mc8051_top_gate.area" in  16.642043s wall, 16.582906s user + 0.015600s system = 16.598506s CPU (99.7%)
+
+RUN-1004 : used memory is 601 MB, reserved memory is 549 MB, peak memory is 928 MB
+RUN-1002 : start command "legalize_phy_inst"
+SYN-1011 : Flatten model MC8051OnBoard
+RUN-1002 : start command "export_db mc8051_top_gate.db"
+RUN-1001 : Exported /
+RUN-1001 : Exported libs
+RUN-1001 : Exported entities
+RUN-1001 : Exported ports
+RUN-1001 : Exported pins
+RUN-1001 : Exported instances
+RUN-1001 : Exported nets
+RUN-1001 : Exported buses
+RUN-1001 : Exported models
+RUN-1001 : Exported congestions
+RUN-1001 : Exported violations
+RUN-1001 : Exported IO constraints
+RUN-1001 : Exported Inst constraints
+RUN-1001 : Exported flow parameters
+RUN-1003 : finish command "export_db mc8051_top_gate.db" in  4.823974s wall, 2.496016s user + 0.109201s system = 2.605217s CPU (54.0%)
+
+RUN-1004 : used memory is 638 MB, reserved memory is 581 MB, peak memory is 928 MB
+RUN-1002 : start command "place"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+PHY-3001 : Placer runs in 4 thread(s).
+SYN-4016 : Net u_pll/clk0_out driven by BUFG (0 clock/control pins, 1 other pins).
+SYN-4027 : Net mcu_clk_110592 is clkc1 of pll u_pll/pll_inst.
+SYN-4019 : Net sysclk_pad is refclk of pll u_pll/pll_inst.
+SYN-4020 : Net sysclk_pad is fbclk of pll u_pll/pll_inst.
+SYN-4025 : Tag rtl::Net mcu_clk_110592 as clock net
+SYN-4025 : Tag rtl::Net sysclk_pad as clock net
+SYN-4025 : Tag rtl::Net u_pll/clk0_out as clock net
+SYN-4026 : Tagged 3 rtl::Net as clock net
+PHY-1001 : Populate physical database.
+RUN-1001 : There are total 2153 instances
+RUN-1001 : 1067 mslices, 1066 lslices, 3 pads, 10 brams, 2 dsps
+RUN-1001 : There are total 4402 nets
+RUN-1001 : 2919 nets have 2 pins
+RUN-1001 : 737 nets have [3 - 5] pins
+RUN-1001 : 505 nets have [6 - 10] pins
+RUN-1001 : 155 nets have [11 - 20] pins
+RUN-1001 : 80 nets have [21 - 99] pins
+RUN-1001 : 6 nets have 100+ pins
+PHY-3001 : Initial placement ...
+PHY-3001 : design contains 2151 instances, 2133 slices, 41 macros(159 instances)
+PHY-3001 : Start timing update ...
+RUN-1002 : start command "start_timer"
+TMR-5001 WARNING: No sdc constraints found while initiating timer.
+TMR-2505 : Start building timing graph for model MC8051OnBoard.
+TMR-2506 : Build timing graph completely. Port num: 3, tpin num: 18727, tnet num: 4400, tinst num: 2151, tnode num: 19719, tedge num: 29773.
+TMR-2507 : Eliminate loop in the timing graph, delete 0 tedges.
+TMR-2508 : Levelizing timing graph completed, there are 139 levels in total.
+TMR-2501 : Timing graph initialized successfully.
+RUN-1003 : finish command "start_timer" in  1.117512s wall, 1.107607s user + 0.000000s system = 1.107607s CPU (99.1%)
+
+RUN-1004 : used memory is 652 MB, reserved memory is 595 MB, peak memory is 928 MB
+TMR-2503 : Start to update net delay, extr mode = 2.
+TMR-2504 : Update delay of 4400 nets completely.
+TMR-2502 : Annotate delay completely, extr mode = 2.
+TMR-3002 : No user constraint, initiate default constraint.
+TMR-1501 : Assign derive clock DeriveClock to 932 clock pins, and constraint 992 relative nodes.
+TMR-3005 : Start mapping report constraints, there are 0 constraints in total.
+TMR-3003 : Constraints initiated successfully.
+TMR-3501 : Forward propagation: start to calculate arrival time...
+TMR-3502 : Backward propagation: start to calculate required time...
+TMR-3503 : Timing propagation completes.
+PHY-3001 : End timing update;  1.296947s wall, 1.279208s user + 0.031200s system = 1.310408s CPU (101.0%)
+
+PHY-3001 : Global placement ...
+PHY-3001 : Initial: Len = 1.31785e+06
+PHY-3001 : Run with size of 4
+PHY-3001 : Cell area utilization is 21%, beta_incr = 0.869408
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 0
+PHY-3002 : Step(185): len = 1.0122e+06, overlap = 24.75
+PHY-3002 : Step(186): len = 834315, overlap = 27.5
+PHY-3002 : Step(187): len = 745164, overlap = 31.75
+PHY-3002 : Step(188): len = 682043, overlap = 39.75
+PHY-3002 : Step(189): len = 625626, overlap = 54
+PHY-3002 : Step(190): len = 575398, overlap = 72.5
+PHY-3002 : Step(191): len = 527424, overlap = 99
+PHY-3002 : Step(192): len = 487179, overlap = 113.75
+PHY-3002 : Step(193): len = 447483, overlap = 135.5
+PHY-3002 : Step(194): len = 408002, overlap = 153.5
+PHY-3002 : Step(195): len = 372309, overlap = 165
+PHY-3002 : Step(196): len = 340339, overlap = 184.25
+PHY-3002 : Step(197): len = 309049, overlap = 196.5
+PHY-3002 : Step(198): len = 277669, overlap = 218
+PHY-3002 : Step(199): len = 254616, overlap = 229.25
+PHY-3002 : Step(200): len = 232406, overlap = 247.5
+PHY-3002 : Step(201): len = 201186, overlap = 274.25
+PHY-3002 : Step(202): len = 174980, overlap = 299.25
+PHY-3002 : Step(203): len = 160307, overlap = 311.5
+PHY-3002 : Step(204): len = 141606, overlap = 324.75
+PHY-3002 : Step(205): len = 111967, overlap = 345.5
+PHY-3002 : Step(206): len = 100520, overlap = 357.25
+PHY-3002 : Step(207): len = 92900.5, overlap = 363
+PHY-3002 : Step(208): len = 66501.4, overlap = 394.25
+PHY-3002 : Step(209): len = 64073.7, overlap = 395
+PHY-3002 : Step(210): len = 57907.7, overlap = 398.25
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 1.37351e-06
+PHY-3002 : Step(211): len = 56824.6, overlap = 398.5
+PHY-3002 : Step(212): len = 56501.1, overlap = 398.5
+PHY-3002 : Step(213): len = 56487.6, overlap = 398.25
+PHY-3002 : Step(214): len = 56140, overlap = 397.5
+PHY-3002 : Step(215): len = 57115.6, overlap = 395.25
+PHY-3002 : Step(216): len = 58835.6, overlap = 387
+PHY-3002 : Step(217): len = 66654.7, overlap = 372
+PHY-3002 : Step(218): len = 70930.9, overlap = 361.75
+PHY-3002 : Step(219): len = 70621.5, overlap = 357.25
+PHY-3002 : Step(220): len = 71224.9, overlap = 354.5
+PHY-3002 : Step(221): len = 71901.7, overlap = 344.5
+PHY-3002 : Step(222): len = 71670.7, overlap = 342.25
+PHY-3002 : Step(223): len = 71320.8, overlap = 341.25
+PHY-3002 : Step(224): len = 71569.1, overlap = 327
+PHY-3002 : Step(225): len = 71312.7, overlap = 325.25
+PHY-3002 : Step(226): len = 72087, overlap = 321.25
+PHY-3002 : Step(227): len = 72157.1, overlap = 324.25
+PHY-3002 : Step(228): len = 71477.8, overlap = 328.5
+PHY-3002 : Step(229): len = 70622, overlap = 327
+PHY-3002 : Step(230): len = 70481.8, overlap = 324.5
+PHY-3002 : Step(231): len = 68550.8, overlap = 323.5
+PHY-3002 : Step(232): len = 68142.3, overlap = 324.25
+PHY-3002 : Step(233): len = 67144.3, overlap = 325
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 2.74702e-06
+PHY-3002 : Step(234): len = 67007.4, overlap = 324.25
+PHY-3002 : Step(235): len = 67426, overlap = 323.75
+PHY-3001 : :::3::: Try harder cell spreading with beta_ = 4.30461e-06
+PHY-3002 : Step(236): len = 67896.2, overlap = 321
+PHY-3002 : Step(237): len = 69445.1, overlap = 316.75
+PHY-3002 : Step(238): len = 72929.4, overlap = 303.75
+PHY-3002 : Step(239): len = 76121.2, overlap = 293
+PHY-3002 : Step(240): len = 78457.9, overlap = 285.25
+PHY-3002 : Step(241): len = 85221.3, overlap = 258.5
+PHY-3002 : Step(242): len = 86922, overlap = 235
+PHY-3002 : Step(243): len = 87946.1, overlap = 228
+PHY-3001 : :::4::: Try harder cell spreading with beta_ = 8.60922e-06
+PHY-3002 : Step(244): len = 88364.9, overlap = 221.75
+PHY-3002 : Step(245): len = 89054.7, overlap = 217.75
+PHY-3001 : :::5::: Try harder cell spreading with beta_ = 1.22719e-05
+PHY-3002 : Step(246): len = 89906.3, overlap = 213.25
+PHY-3002 : Step(247): len = 93270.2, overlap = 200.5
+PHY-3002 : Step(248): len = 96327.8, overlap = 194.5
+PHY-3002 : Step(249): len = 98841.3, overlap = 176
+PHY-3002 : Step(250): len = 108048, overlap = 150.25
+PHY-3002 : Step(251): len = 108725, overlap = 145
+PHY-3002 : Step(252): len = 109418, overlap = 142.75
+PHY-3002 : Step(253): len = 109867, overlap = 136.25
+PHY-3002 : Step(254): len = 110196, overlap = 135.25
+PHY-3002 : Step(255): len = 109464, overlap = 133.25
+PHY-3002 : Step(256): len = 109156, overlap = 132.25
+PHY-3001 : :::6::: Try harder cell spreading with beta_ = 2.45438e-05
+PHY-3002 : Step(257): len = 109006, overlap = 133.25
+PHY-3002 : Step(258): len = 110316, overlap = 132.5
+PHY-3002 : Step(259): len = 114189, overlap = 113.75
+PHY-3002 : Step(260): len = 115508, overlap = 106.5
+PHY-3002 : Step(261): len = 115427, overlap = 94.5
+PHY-3002 : Step(262): len = 115687, overlap = 90
+PHY-3001 : :::7::: Try harder cell spreading with beta_ = 4.90876e-05
+PHY-3002 : Step(263): len = 116674, overlap = 86
+PHY-3002 : Step(264): len = 119539, overlap = 87
+PHY-3002 : Step(265): len = 120703, overlap = 82.75
+PHY-3002 : Step(266): len = 121461, overlap = 82.25
+PHY-3002 : Step(267): len = 121948, overlap = 83.5
+PHY-3002 : Step(268): len = 122664, overlap = 83.5
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.017737s wall, 0.015600s user + 0.015600s system = 0.031200s CPU (175.9%)
+
+PHY-3001 : Run with size of 4
+PHY-3001 : Cell area utilization is 27%, beta_incr = 0.869408
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 2.78282e-06
+PHY-3002 : Step(269): len = 125041, overlap = 139.75
+PHY-3002 : Step(270): len = 121271, overlap = 142.5
+PHY-3002 : Step(271): len = 115335, overlap = 161
+PHY-3002 : Step(272): len = 112205, overlap = 171.75
+PHY-3002 : Step(273): len = 107749, overlap = 188.75
+PHY-3002 : Step(274): len = 102657, overlap = 205.25
+PHY-3002 : Step(275): len = 99816.5, overlap = 213.5
+PHY-3002 : Step(276): len = 97088.4, overlap = 223.75
+PHY-3002 : Step(277): len = 94467.7, overlap = 243.25
+PHY-3002 : Step(278): len = 92499.1, overlap = 249.25
+PHY-3002 : Step(279): len = 90594.2, overlap = 257.25
+PHY-3002 : Step(280): len = 89098.5, overlap = 261.25
+PHY-3002 : Step(281): len = 87599.7, overlap = 263.25
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 5.56564e-06
+PHY-3002 : Step(282): len = 87987.9, overlap = 261.5
+PHY-3002 : Step(283): len = 88457.7, overlap = 260.25
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 7.89589e-06
+PHY-3002 : Step(284): len = 88837.9, overlap = 260.25
+PHY-3002 : Step(285): len = 91396.1, overlap = 252.25
+PHY-3002 : Step(286): len = 96627.4, overlap = 231.5
+PHY-3002 : Step(287): len = 97582.5, overlap = 225.5
+PHY-3002 : Step(288): len = 99691.8, overlap = 211.5
+PHY-3002 : Step(289): len = 101477, overlap = 200
+PHY-3001 : :::3::: Try harder cell spreading with beta_ = 1.57918e-05
+PHY-3002 : Step(290): len = 102449, overlap = 199
+PHY-3002 : Step(291): len = 103807, overlap = 198
+PHY-3002 : Step(292): len = 105640, overlap = 196.5
+PHY-3002 : Step(293): len = 113477, overlap = 186.5
+PHY-3002 : Step(294): len = 114831, overlap = 182
+PHY-3002 : Step(295): len = 114889, overlap = 181.5
+PHY-3002 : Step(296): len = 115387, overlap = 179.5
+PHY-3001 : :::4::: Try harder cell spreading with beta_ = 3.15835e-05
+PHY-3002 : Step(297): len = 118103, overlap = 172.25
+PHY-3002 : Step(298): len = 123511, overlap = 156.75
+PHY-3002 : Step(299): len = 123660, overlap = 151.75
+PHY-3002 : Step(300): len = 124095, overlap = 147.5
+PHY-3002 : Step(301): len = 125345, overlap = 139.5
+PHY-3002 : Step(302): len = 127278, overlap = 111.5
+PHY-3002 : Step(303): len = 127584, overlap = 107.25
+PHY-3002 : Step(304): len = 127936, overlap = 106
+PHY-3001 : :::5::: Try harder cell spreading with beta_ = 6.31671e-05
+PHY-3002 : Step(305): len = 131907, overlap = 89.75
+PHY-3002 : Step(306): len = 135716, overlap = 76.75
+PHY-3002 : Step(307): len = 135695, overlap = 75.25
+PHY-3002 : Step(308): len = 136200, overlap = 74.25
+PHY-3002 : Step(309): len = 137299, overlap = 70
+PHY-3001 : :::6::: Try harder cell spreading with beta_ = 0.000126334
+PHY-3002 : Step(310): len = 141452, overlap = 63.75
+PHY-3002 : Step(311): len = 145969, overlap = 61.75
+PHY-3002 : Step(312): len = 145147, overlap = 57.5
+PHY-3002 : Step(313): len = 145033, overlap = 58.75
+PHY-3002 : Step(314): len = 144878, overlap = 58.75
+PHY-3001 : Run with size of 2
+PHY-3001 : Cell area utilization is 27%, beta_incr = 0.869408
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 3.84985e-05
+PHY-3002 : Step(315): len = 144835, overlap = 140.75
+PHY-3002 : Step(316): len = 144190, overlap = 139.75
+PHY-3002 : Step(317): len = 141764, overlap = 140.5
+PHY-3002 : Step(318): len = 139828, overlap = 143.5
+PHY-3002 : Step(319): len = 137448, overlap = 145.25
+PHY-3002 : Step(320): len = 135457, overlap = 143.25
+PHY-3002 : Step(321): len = 133313, overlap = 141.5
+PHY-3002 : Step(322): len = 132130, overlap = 139.5
+PHY-3002 : Step(323): len = 130637, overlap = 138.25
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 7.6997e-05
+PHY-3002 : Step(324): len = 135081, overlap = 128.5
+PHY-3002 : Step(325): len = 137727, overlap = 121.5
+PHY-3002 : Step(326): len = 139591, overlap = 118
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 0.000153994
+PHY-3002 : Step(327): len = 142772, overlap = 112
+PHY-3002 : Step(328): len = 147600, overlap = 106.75
+PHY-3002 : Step(329): len = 148630, overlap = 101.75
+PHY-3002 : Step(330): len = 148865, overlap = 93.75
+PHY-3002 : Step(331): len = 149385, overlap = 92.25
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.329319s wall, 0.171601s user + 0.187201s system = 0.358802s CPU (109.0%)
+
+PHY-3001 : Run with size of 2
+PHY-3001 : Cell area utilization is 26%, beta_incr = 0.869408
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 0.000146918
+PHY-3002 : Step(332): len = 161981, overlap = 22
+PHY-3002 : Step(333): len = 157837, overlap = 35.75
+PHY-3002 : Step(334): len = 154798, overlap = 50.5
+PHY-3002 : Step(335): len = 152649, overlap = 60.5
+PHY-3002 : Step(336): len = 151365, overlap = 67.25
+PHY-3002 : Step(337): len = 150554, overlap = 69.75
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 0.000293836
+PHY-3002 : Step(338): len = 153256, overlap = 67
+PHY-3002 : Step(339): len = 155186, overlap = 62.75
+PHY-3002 : Step(340): len = 155853, overlap = 68
+PHY-3002 : Step(341): len = 156097, overlap = 68.25
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 0.000585786
+PHY-3002 : Step(342): len = 157959, overlap = 67.25
+PHY-3002 : Step(343): len = 159385, overlap = 60.25
+PHY-3002 : Step(344): len = 160256, overlap = 57.5
+PHY-3002 : Step(345): len = 161029, overlap = 57
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.019174s wall, 0.015600s user + 0.000000s system = 0.015600s CPU (81.4%)
+
+PHY-3001 : Legalized: Len = 169236, Over = 0
+PHY-3001 : Final: Len = 169236, Over = 0
+PHY-3001 : Improving timing with driver duplication.
+RUN-1001 : Generating global routing grids ...
+PHY-1001 : Generate routing nets ...
+PHY-1001 : Global iterations in 4 thread ...
+PHY-1002 : len = 454328, over cnt = 104(0%), over = 115, worst = 2
+PHY-1002 : len = 454920, over cnt = 61(0%), over = 63, worst = 2
+PHY-1002 : len = 454992, over cnt = 28(0%), over = 30, worst = 2
+PHY-1002 : len = 454784, over cnt = 8(0%), over = 8, worst = 1
+PHY-1002 : len = 454648, over cnt = 0(0%), over = 0, worst = 0
+PHY-1001 : End global iterations;  0.104726s wall, 0.124801s user + 0.000000s system = 0.124801s CPU (119.2%)
+
+RUN-1002 : start command "place -eco"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+PHY-3001 : Placer runs in 4 thread(s).
+PHY-1001 : Populate physical database.
+PHY-3001 : Initial placement ...
+PHY-3001 : eco special cells: 1 has valid locations, 0 needs to be replaced
+PHY-3001 : eco pad cells: 3 has valid locations, 0 needs to be replaced
+PHY-3001 : eco cells: 2137 has valid locations, 61 needs to be replaced
+PHY-3001 : design contains 2204 instances, 2186 slices, 41 macros(159 instances)
+PHY-3001 : Start timing update ...
+RUN-1002 : start command "start_timer"
+TMR-5001 WARNING: No sdc constraints found while initiating timer.
+TMR-2505 : Start building timing graph for model MC8051OnBoard.
+TMR-2506 : Build timing graph completely. Port num: 3, tpin num: 19084, tnet num: 4453, tinst num: 2204, tnode num: 20084, tedge num: 30233.
+TMR-2507 : Eliminate loop in the timing graph, delete 0 tedges.
+TMR-2508 : Levelizing timing graph completed, there are 139 levels in total.
+TMR-2501 : Timing graph initialized successfully.
+RUN-1003 : finish command "start_timer" in  1.209172s wall, 1.216808s user + 0.000000s system = 1.216808s CPU (100.6%)
+
+RUN-1004 : used memory is 699 MB, reserved memory is 643 MB, peak memory is 928 MB
+TMR-2503 : Start to update net delay, extr mode = 2.
+TMR-2504 : Update delay of 4453 nets completely.
+TMR-2502 : Annotate delay completely, extr mode = 2.
+TMR-3002 : No user constraint, initiate default constraint.
+TMR-1501 : Assign derive clock DeriveClock to 940 clock pins, and constraint 1000 relative nodes.
+TMR-3005 : Start mapping report constraints, there are 0 constraints in total.
+TMR-3003 : Constraints initiated successfully.
+TMR-3501 : Forward propagation: start to calculate arrival time...
+TMR-3502 : Backward propagation: start to calculate required time...
+TMR-3503 : Timing propagation completes.
+PHY-3001 : End timing update;  1.383077s wall, 1.388409s user + 0.015600s system = 1.404009s CPU (101.5%)
+
+PHY-3001 : Global placement ...
+PHY-3001 : Initial: Len = 178152
+PHY-3001 : Run with size of 4
+PHY-3001 : Cell area utilization is 22%, beta_incr = 0.866163
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 0
+PHY-3002 : Step(346): len = 177651, overlap = 0
+PHY-3002 : Step(347): len = 177651, overlap = 0
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.004089s wall, 0.000000s user + 0.000000s system = 0.000000s CPU (n/a%)
+
+PHY-3001 : Run with size of 4
+PHY-3001 : Cell area utilization is 27%, beta_incr = 0.866163
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 1.68414e-05
+PHY-3002 : Step(348): len = 177525, overlap = 2.5
+PHY-3002 : Step(349): len = 177525, overlap = 2.5
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 3.36828e-05
+PHY-3002 : Step(350): len = 177336, overlap = 2.75
+PHY-3002 : Step(351): len = 177336, overlap = 2.75
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 6.73656e-05
+PHY-3002 : Step(352): len = 177356, overlap = 1
+PHY-3002 : Step(353): len = 177356, overlap = 1
+PHY-3001 : Run with size of 2
+PHY-3001 : Cell area utilization is 27%, beta_incr = 0.866163
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 0.000114477
+PHY-3002 : Step(354): len = 177130, overlap = 5.25
+PHY-3002 : Step(355): len = 177130, overlap = 5.25
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.038716s wall, 0.031200s user + 0.015600s system = 0.046800s CPU (120.9%)
+
+PHY-3001 : Run with size of 2
+PHY-3001 : Cell area utilization is 27%, beta_incr = 0.866163
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 0.000143916
+PHY-3002 : Step(356): len = 177248, overlap = 1.5
+PHY-3002 : Step(357): len = 177248, overlap = 1.5
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.007297s wall, 0.000000s user + 0.000000s system = 0.000000s CPU (n/a%)
+
+PHY-3001 : Legalized: Len = 177488, Over = 0
+PHY-3001 : Final: Len = 177488, Over = 0
+RUN-1003 : finish command "place -eco" in  1.963200s wall, 1.965613s user + 0.156001s system = 2.121614s CPU (108.1%)
+
+RUN-1004 : used memory is 705 MB, reserved memory is 648 MB, peak memory is 928 MB
+RUN-1001 : Eco place succeeded
+RUN-1003 : finish command "place" in  10.117420s wall, 17.175710s user + 2.246414s system = 19.422124s CPU (192.0%)
+
+RUN-1004 : used memory is 705 MB, reserved memory is 648 MB, peak memory is 928 MB
+RUN-1002 : start command "route"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+PHY-1001 : Pin misalignment score is improved from 2769 to 1959
+PHY-1001 : Pin misalignment score is improved from 1959 to 1937
+PHY-1001 : Pin misalignment score is improved from 1937 to 1934
+PHY-1001 : Pin misalignment score is improved from 1934 to 1933
+PHY-1001 : Pin misalignment score is improved from 1933 to 1933
+PHY-1001 : Route runs in 4 thread(s)
+RUN-1001 : There are total 2206 instances
+RUN-1001 : 1101 mslices, 1085 lslices, 3 pads, 10 brams, 2 dsps
+RUN-1001 : There are total 4455 nets
+RUN-1001 : 2900 nets have 2 pins
+RUN-1001 : 732 nets have [3 - 5] pins
+RUN-1001 : 513 nets have [6 - 10] pins
+RUN-1001 : 209 nets have [11 - 20] pins
+RUN-1001 : 99 nets have [21 - 99] pins
+RUN-1001 : 2 nets have 100+ pins
+PHY-1001 : Start global routing ...
+RUN-1001 : Generating global routing grids ...
+PHY-1001 : Generate routing nets ...
+PHY-1001 : Global iterations in 4 thread ...
+PHY-1002 : len = 438584, over cnt = 131(0%), over = 149, worst = 3
+PHY-1002 : len = 439328, over cnt = 66(0%), over = 70, worst = 3
+PHY-1002 : len = 439024, over cnt = 14(0%), over = 14, worst = 1
+PHY-1002 : len = 439112, over cnt = 5(0%), over = 5, worst = 1
+PHY-1002 : len = 438696, over cnt = 0(0%), over = 0, worst = 0
+PHY-1001 : End global iterations;  0.108559s wall, 0.093601s user + 0.015600s system = 0.109201s CPU (100.6%)
+
+PHY-1001 : End global routing;  0.263326s wall, 0.265202s user + 0.015600s system = 0.280802s CPU (106.6%)
+
+PHY-1001 : Start detail routing ...
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : Generate nets ...
+PHY-1001 : net mcu_clk_110592 will be routed on clock mesh
+PHY-1001 : net sysclk_pad will be routed on clock mesh
+PHY-1001 : clock net u_pll/clk0_out will be merged with clock u_pll/clk0_buf
+PHY-1001 : Detail Route ...
+PHY-1001 : ===== Detail Route Phase 1 =====
+PHY-1001 : Routed 0% nets.
+PHY-1002 : len = 29680, over cnt = 0(0%), over = 0, worst = 0
+PHY-1001 : End Routed; 0.012238s wall, 0.000000s user + 0.000000s system = 0.000000s CPU (n/a%)
+
+PHY-1001 : ===== Detail Route Phase 2 =====
+PHY-1001 : Routed 0% nets.
+PHY-1002 : len = 29680, over cnt = 0(0%), over = 0, worst = 0
+PHY-1001 : End Routed; 0.000017s wall, 0.000000s user + 0.000000s system = 0.000000s CPU (n/a%)
+
+PHY-1001 : ===== Detail Route Phase 3 =====
+PHY-1001 : Routed 51% nets.
+PHY-1001 : Routed 57% nets.
+PHY-1001 : Routed 64% nets.
+PHY-1001 : Routed 76% nets.
+PHY-1001 : Routed 97% nets.
+PHY-1002 : len = 659336, over cnt = 159(0%), over = 161, worst = 2
+PHY-1001 : End Routed; 6.378188s wall, 9.796863s user + 0.187201s system = 9.984064s CPU (156.5%)
+
+PHY-1001 : ===== DR Iter 1 =====
+PHY-1002 : len = 655160, over cnt = 31(0%), over = 31, worst = 1
+PHY-1001 : End DR Iter 1; 0.280876s wall, 0.296402s user + 0.015600s system = 0.312002s CPU (111.1%)
+
+PHY-1001 : ===== DR Iter 2 =====
+PHY-1002 : len = 654368, over cnt = 6(0%), over = 6, worst = 1
+PHY-1001 : End DR Iter 2; 0.060088s wall, 0.062400s user + 0.000000s system = 0.062400s CPU (103.8%)
+
+PHY-1001 : ===== DR Iter 3 =====
+PHY-1002 : len = 654432, over cnt = 0(0%), over = 0, worst = 0
+PHY-1003 : Routed, final wirelength = 654432
+PHY-1001 : End DR Iter 3; 0.041096s wall, 0.031200s user + 0.000000s system = 0.031200s CPU (75.9%)
+
+PHY-1001 : 0 feed throughs used by 0 nets
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : Generate nets ...
+PHY-1001 : net mcu_clk_110592 will be routed on clock mesh
+PHY-1001 : net sysclk_pad will be routed on clock mesh
+PHY-1001 : clock net u_pll/clk0_out will be merged with clock u_pll/clk0_buf
+PHY-1001 : eco open net = 0
+PHY-1001 : End detail routing;  8.876863s wall, 12.246078s user + 0.296402s system = 12.542480s CPU (141.3%)
+
+PHY-1001 : Routing violations:
+PHY-1001 : End of Routing Violations.
+RUN-1003 : finish command "route" in  9.853535s wall, 13.244485s user + 0.312002s system = 13.556487s CPU (137.6%)
+
+RUN-1004 : used memory is 790 MB, reserved memory is 733 MB, peak memory is 975 MB
+RUN-1002 : start command "report_area -io_info -file mc8051_top_phy.area"
+RUN-1001 : standard
+***Report Model: MC8051OnBoard***
+
+IO Statistics
+#IO                     3
+  #input                2
+  #output               1
+  #inout                0
+
+Utilization Statistics
+#lut                 4369   out of  19600   22.29%
+#reg                  480   out of  19600    2.45%
+#le                  4370
+  #lut only          3890   out of   4370   89.02%
+  #reg only             1   out of   4370    0.02%
+  #lut&reg            479   out of   4370   10.96%
+#dsp                    2   out of     29    6.90%
+#bram                  10   out of     64   15.63%
+  #bram9k              10
+  #fifo9k               0
+#bram32k                0   out of     16    0.00%
+#pad                    3   out of    188    1.60%
+  #ireg                 0
+  #oreg                 0
+  #treg                 0
+#pll                    1   out of      4   25.00%
+
+RUN-1001 : 
+
+RUN-1002 : start command "export_db mc8051_top_pr.db"
+RUN-1001 : Exported /
+RUN-1001 : Exported libs
+RUN-1001 : Exported entities
+RUN-1001 : Exported ports
+RUN-1001 : Exported pins
+RUN-1001 : Exported instances
+RUN-1001 : Exported nets
+RUN-1001 : Exported buses
+RUN-1001 : Exported models
+RUN-1001 : Exported congestions
+RUN-1001 : Exported violations
+RUN-1001 : Exported IO constraints
+RUN-1001 : Exported Inst constraints
+RUN-1001 : Exported flow parameters
+RUN-1003 : finish command "export_db mc8051_top_pr.db" in  4.901809s wall, 2.558416s user + 0.156001s system = 2.714417s CPU (55.4%)
+
+RUN-1004 : used memory is 790 MB, reserved memory is 733 MB, peak memory is 975 MB
+RUN-1002 : start command "bitgen -bit mc8051_top.bit -version 0X00 -g ucode:00000000011111010000000000000000"
+BIT-1003 : Start to generate bitstream. 
+BIT-1002 : Init instances with 4 threads.
+BIT-1002 : Init instances completely, inst num: 2206
+BIT-1002 : Init pips with 4 threads.
+BIT-1002 : Init pips completely, net num: 4455, pip num: 45416
+BIT-1003 : Multithreading accelaration with 4 threads.
+BIT-1003 : Generate bitstream completely, there are 1376 valid insts, and 132628 bits set as '1'.
+BIT-1004 : PLL setting string = 0001
+BIT-1004 : Generate bits file mc8051_top.bit.
+RUN-1003 : finish command "bitgen -bit mc8051_top.bit -version 0X00 -g ucode:00000000011111010000000000000000" in  6.940658s wall, 19.936928s user + 0.140401s system = 20.077329s CPU (289.3%)
+
+RUN-1004 : used memory is 791 MB, reserved memory is 733 MB, peak memory is 975 MB
+GUI-8003 ERROR: mc8051_ram.v is missing!
+GUI-8003 ERROR: mc8051_rom.v is missing!
+GUI-8003 ERROR: ../MC8051OnBoard.v is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_cy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/addsub_ovcy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alucore_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/alumux_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_divider_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/comb_mltplr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_fsm_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/control_mem_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/dcml_adjust_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_alu_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_control_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_p.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_siu_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_rtl.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_tmrctr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_struc.vhd is missing!
+GUI-8003 ERROR: ../../vhdl/mc8051_top_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_core_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_core_struc.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_core_struc_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_cy_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_cy_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_cy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_ovcy_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_ovcy_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/addsub_ovcy_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alucore_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alucore_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alucore_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alumux_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alumux_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/alumux_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_divider_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_divider_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_divider_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_mltplr_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_mltplr_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/comb_mltplr_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_fsm_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_fsm_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_fsm_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_mem_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_mem_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/control_mem_rtl_cfg.vhd is missing!
+GUI-8003 ERROR: ../vhdl/dcml_adjust_.vhd is missing!
+GUI-8003 ERROR: ../vhdl/dcml_adjust_rtl.vhd is missing!
+GUI-8003 ERROR: ../vhdl/dcml_adjust_rtl_cfg.vhd is missing!
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/mc8051_p.vhd'
+HDL-1007 : analyze VHDL file mc8051_ram.vhd
+HDL-1007 : analyze entity mc8051_ram in mc8051_ram.vhd(19)
+HDL-1007 : analyze architecture ram_arch in mc8051_ram.vhd(33)
+HDL-1007 : analyze configuration mc8051_ram_sim_cfg in mc8051_ram.vhd(50)
+HDL-1007 : analyze VHDL file mc8051_ramx.vhd
+HDL-1007 : analyze entity mc8051_ramx in mc8051_ramx.vhd(19)
+HDL-1007 : analyze architecture ramx_arch in mc8051_ramx.vhd(32)
+HDL-1007 : analyze configuration mc8051_ramx_sim_cfg in mc8051_ramx.vhd(47)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_p.vhd
+HDL-1007 : analyze package mc8051_p in ../vhdl/mc8051_p.vhd(69)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_ovcy.vhd
+HDL-1007 : analyze entity addsub_ovcy in ../vhdl/addsub_ovcy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_ovcy.vhd(85)
+HDL-1007 : analyze configuration addsub_ovcy_rtl_cfg in ../vhdl/addsub_ovcy.vhd(159)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_cy.vhd
+HDL-1007 : analyze entity addsub_cy in ../vhdl/addsub_cy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_cy.vhd(85)
+HDL-1007 : analyze configuration addsub_cy_rtl_cfg in ../vhdl/addsub_cy.vhd(115)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_core.vhd
+HDL-1007 : analyze entity addsub_core in ../vhdl/addsub_core.vhd(76)
+HDL-1007 : analyze architecture struc in ../vhdl/addsub_core.vhd(91)
+HDL-1007 : analyze configuration addsub_core_struc_cfg in ../vhdl/addsub_core.vhd(142)
+HDL-1007 : analyze VHDL file ../vhdl/alucore.vhd
+HDL-1007 : analyze entity alucore in ../vhdl/alucore.vhd(73)
+HDL-1007 : analyze architecture rtl in ../vhdl/alucore.vhd(94)
+HDL-1007 : analyze configuration alucore_rtl_cfg in ../vhdl/alucore.vhd(191)
+HDL-1007 : analyze VHDL file ../vhdl/alumux.vhd
+HDL-1007 : analyze entity alumux in ../vhdl/alumux.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/alumux.vhd(125)
+HDL-1007 : analyze configuration alumux_rtl_cfg in ../vhdl/alumux.vhd(494)
+HDL-1007 : analyze VHDL file ../vhdl/comb_divider.vhd
+HDL-1007 : analyze entity comb_divider in ../vhdl/comb_divider.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_divider.vhd(82)
+HDL-1007 : analyze configuration comb_divider_rtl_cfg in ../vhdl/comb_divider.vhd(130)
+HDL-1007 : analyze VHDL file ../vhdl/comb_mltplr.vhd
+HDL-1007 : analyze entity comb_mltplr in ../vhdl/comb_mltplr.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_mltplr.vhd(82)
+HDL-1007 : analyze configuration comb_mltplr_rtl_cfg in ../vhdl/comb_mltplr.vhd(104)
+HDL-1007 : analyze VHDL file ../vhdl/control_fsm.vhd
+HDL-1007 : analyze entity control_fsm in ../vhdl/control_fsm.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_fsm.vhd(126)
+HDL-1007 : analyze configuration control_fsm_rtl_cfg in ../vhdl/control_fsm.vhd(2231)
+HDL-1007 : analyze VHDL file ../vhdl/control_mem.vhd
+HDL-1007 : analyze entity control_mem in ../vhdl/control_mem.vhd(75)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_mem.vhd(206)
+HDL-1007 : analyze configuration control_mem_rtl_cfg in ../vhdl/control_mem.vhd(1285)
+HDL-1007 : analyze VHDL file ../vhdl/dcml_adjust.vhd
+HDL-1007 : analyze entity dcml_adjust in ../vhdl/dcml_adjust.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/dcml_adjust.vhd(90)
+HDL-1007 : analyze configuration dcml_adjust_rtl_cfg in ../vhdl/dcml_adjust.vhd(168)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_alu.vhd
+HDL-1007 : analyze entity mc8051_alu in ../vhdl/mc8051_alu.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_alu.vhd(104)
+HDL-1007 : analyze configuration mc8051_alu_struc_cfg in ../vhdl/mc8051_alu.vhd(235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_control.vhd
+HDL-1007 : analyze entity mc8051_control in ../vhdl/mc8051_control.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_control.vhd(142)
+HDL-1007 : analyze configuration mc8051_control_struc_cfg in ../vhdl/mc8051_control.vhd(344)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_siu.vhd
+HDL-1007 : analyze entity mc8051_siu in ../vhdl/mc8051_siu.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_siu.vhd(92)
+HDL-1007 : analyze configuration mc8051_siu_rtl_cfg in ../vhdl/mc8051_siu.vhd(1235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_tmrctr.vhd
+HDL-1007 : analyze entity mc8051_tmrctr in ../vhdl/mc8051_tmrctr.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_tmrctr.vhd(96)
+HDL-1007 : analyze configuration mc8051_tmrctr_rtl_cfg in ../vhdl/mc8051_tmrctr.vhd(797)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_core.vhd
+HDL-1007 : analyze entity mc8051_core in ../vhdl/mc8051_core.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_core.vhd(121)
+HDL-1007 : analyze configuration mc8051_core_struc_cfg in ../vhdl/mc8051_core.vhd(276)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_top.vhd
+HDL-1007 : analyze entity mc8051_top in ../vhdl/mc8051_top.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_top.vhd(104)
+HDL-1007 : analyze configuration mc8051_top_struc_cfg in ../vhdl/mc8051_top.vhd(200)
+HDL-1007 : analyze verilog file al_ip/pll.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom_td.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom.v
+HDL-1007 : analyze verilog file MC8051OnBoard.v
+HDL-1007 : analyze verilog file MC8051OnBoard.v
+HDL-8007 ERROR: cannot open vhdl file '../../vhdl/mc8051_p.vhd'
+HDL-1007 : analyze VHDL file mc8051_ram.vhd
+HDL-1007 : analyze entity mc8051_ram in mc8051_ram.vhd(19)
+HDL-1007 : analyze architecture ram_arch in mc8051_ram.vhd(33)
+HDL-1007 : analyze configuration mc8051_ram_sim_cfg in mc8051_ram.vhd(50)
+HDL-1007 : analyze VHDL file mc8051_ramx.vhd
+HDL-1007 : analyze entity mc8051_ramx in mc8051_ramx.vhd(19)
+HDL-1007 : analyze architecture ramx_arch in mc8051_ramx.vhd(32)
+HDL-1007 : analyze configuration mc8051_ramx_sim_cfg in mc8051_ramx.vhd(47)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_p.vhd
+HDL-1007 : analyze package mc8051_p in ../vhdl/mc8051_p.vhd(69)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_ovcy.vhd
+HDL-1007 : analyze entity addsub_ovcy in ../vhdl/addsub_ovcy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_ovcy.vhd(85)
+HDL-1007 : analyze configuration addsub_ovcy_rtl_cfg in ../vhdl/addsub_ovcy.vhd(159)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_cy.vhd
+HDL-1007 : analyze entity addsub_cy in ../vhdl/addsub_cy.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/addsub_cy.vhd(85)
+HDL-1007 : analyze configuration addsub_cy_rtl_cfg in ../vhdl/addsub_cy.vhd(115)
+HDL-1007 : analyze VHDL file ../vhdl/addsub_core.vhd
+HDL-1007 : analyze entity addsub_core in ../vhdl/addsub_core.vhd(76)
+HDL-1007 : analyze architecture struc in ../vhdl/addsub_core.vhd(91)
+HDL-1007 : analyze configuration addsub_core_struc_cfg in ../vhdl/addsub_core.vhd(142)
+HDL-1007 : analyze VHDL file ../vhdl/alucore.vhd
+HDL-1007 : analyze entity alucore in ../vhdl/alucore.vhd(73)
+HDL-1007 : analyze architecture rtl in ../vhdl/alucore.vhd(94)
+HDL-1007 : analyze configuration alucore_rtl_cfg in ../vhdl/alucore.vhd(191)
+HDL-1007 : analyze VHDL file ../vhdl/alumux.vhd
+HDL-1007 : analyze entity alumux in ../vhdl/alumux.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/alumux.vhd(125)
+HDL-1007 : analyze configuration alumux_rtl_cfg in ../vhdl/alumux.vhd(494)
+HDL-1007 : analyze VHDL file ../vhdl/comb_divider.vhd
+HDL-1007 : analyze entity comb_divider in ../vhdl/comb_divider.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_divider.vhd(82)
+HDL-1007 : analyze configuration comb_divider_rtl_cfg in ../vhdl/comb_divider.vhd(130)
+HDL-1007 : analyze VHDL file ../vhdl/comb_mltplr.vhd
+HDL-1007 : analyze entity comb_mltplr in ../vhdl/comb_mltplr.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/comb_mltplr.vhd(82)
+HDL-1007 : analyze configuration comb_mltplr_rtl_cfg in ../vhdl/comb_mltplr.vhd(104)
+HDL-1007 : analyze VHDL file ../vhdl/control_fsm.vhd
+HDL-1007 : analyze entity control_fsm in ../vhdl/control_fsm.vhd(74)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_fsm.vhd(126)
+HDL-1007 : analyze configuration control_fsm_rtl_cfg in ../vhdl/control_fsm.vhd(2231)
+HDL-1007 : analyze VHDL file ../vhdl/control_mem.vhd
+HDL-1007 : analyze entity control_mem in ../vhdl/control_mem.vhd(75)
+HDL-1007 : analyze architecture rtl in ../vhdl/control_mem.vhd(206)
+HDL-1007 : analyze configuration control_mem_rtl_cfg in ../vhdl/control_mem.vhd(1285)
+HDL-1007 : analyze VHDL file ../vhdl/dcml_adjust.vhd
+HDL-1007 : analyze entity dcml_adjust in ../vhdl/dcml_adjust.vhd(72)
+HDL-1007 : analyze architecture rtl in ../vhdl/dcml_adjust.vhd(90)
+HDL-1007 : analyze configuration dcml_adjust_rtl_cfg in ../vhdl/dcml_adjust.vhd(168)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_alu.vhd
+HDL-1007 : analyze entity mc8051_alu in ../vhdl/mc8051_alu.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_alu.vhd(104)
+HDL-1007 : analyze configuration mc8051_alu_struc_cfg in ../vhdl/mc8051_alu.vhd(235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_control.vhd
+HDL-1007 : analyze entity mc8051_control in ../vhdl/mc8051_control.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_control.vhd(142)
+HDL-1007 : analyze configuration mc8051_control_struc_cfg in ../vhdl/mc8051_control.vhd(344)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_siu.vhd
+HDL-1007 : analyze entity mc8051_siu in ../vhdl/mc8051_siu.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_siu.vhd(92)
+HDL-1007 : analyze configuration mc8051_siu_rtl_cfg in ../vhdl/mc8051_siu.vhd(1235)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_tmrctr.vhd
+HDL-1007 : analyze entity mc8051_tmrctr in ../vhdl/mc8051_tmrctr.vhd(71)
+HDL-1007 : analyze architecture rtl in ../vhdl/mc8051_tmrctr.vhd(96)
+HDL-1007 : analyze configuration mc8051_tmrctr_rtl_cfg in ../vhdl/mc8051_tmrctr.vhd(797)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_core.vhd
+HDL-1007 : analyze entity mc8051_core in ../vhdl/mc8051_core.vhd(75)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_core.vhd(121)
+HDL-1007 : analyze configuration mc8051_core_struc_cfg in ../vhdl/mc8051_core.vhd(276)
+HDL-1007 : analyze VHDL file ../vhdl/mc8051_top.vhd
+HDL-1007 : analyze entity mc8051_top in ../vhdl/mc8051_top.vhd(74)
+HDL-1007 : analyze architecture struc in ../vhdl/mc8051_top.vhd(104)
+HDL-1007 : analyze configuration mc8051_top_struc_cfg in ../vhdl/mc8051_top.vhd(200)
+HDL-1007 : analyze verilog file al_ip/pll.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom_td.v
+HDL-1007 : analyze verilog file al_ip/mc8051_rom.v
+HDL-1007 : analyze verilog file MC8051OnBoard.v
+RUN-1002 : start command "elaborate -top MC8051OnBoard"
+HDL-1007 : elaborate module MC8051OnBoard in MC8051OnBoard.v(1)
+HDL-1007 : elaborate module pll in al_ip/pll.v(24)
+HDL-1007 : elaborate module EG_LOGIC_BUFG in C:/Anlogic/TD4.6.2/arch/eagle_macro.v(81)
+HDL-1007 : elaborate module EG_PHY_PLL(FIN="24.000",REFCLK_DIV=2,CLKC0_DIV=59,CLKC1_DIV=64,CLKC2_DIV=118,CLKC0_ENABLE="ENABLE",CLKC1_ENABLE="ENABLE",CLKC2_ENABLE="ENABLE",FEEDBK_PATH="CLKC0_EXT",STDBY_ENABLE="DISABLE",CLKC0_CPHASE=58,CLKC1_CPHASE=63,CLKC2_CPHASE=117,GMC_GAIN=0,ICP_CURRENT=9,KVCO=2,LPF_CAPACITOR=2,LPF_RESISTOR=8,SYNC_ENABLE="DISABLE") in C:/Anlogic/TD4.6.2/arch/eagle_macro.v(986)
+HDL-1007 : switch to vhdl to elaborate module mc8051_top in MC8051OnBoard.v(51)
+HDL-1007 : elaborate mc8051_top(struc) in ../vhdl/mc8051_top.vhd(74)
+HDL-1007 : elaborate mc8051_core(struc) in ../vhdl/mc8051_core.vhd(75)
+HDL-1007 : elaborate mc8051_control(struc) in ../vhdl/mc8051_control.vhd(74)
+HDL-1007 : elaborate control_fsm(rtl) in ../vhdl/control_fsm.vhd(74)
+HDL-1007 : others clause is never selected in ../vhdl/control_fsm.vhd(2223)
+HDL-1007 : elaborate control_mem(rtl) in ../vhdl/control_mem.vhd(75)
+HDL-1007 : others clause is never selected in ../vhdl/control_mem.vhd(833)
+HDL-1007 : others clause is never selected in ../vhdl/control_mem.vhd(932)
+HDL-1007 : others clause is never selected in ../vhdl/control_mem.vhd(938)
+HDL-1007 : others clause is never selected in ../vhdl/control_mem.vhd(1250)
+HDL-1007 : elaborate mc8051_alu(struc) in ../vhdl/mc8051_alu.vhd(75)
+HDL-1007 : elaborate alumux(rtl) in ../vhdl/alumux.vhd(74)
+HDL-1007 : elaborate alucore(rtl) in ../vhdl/alucore.vhd(73)
+HDL-1007 : elaborate addsub_core(dwidth=8)(struc) in ../vhdl/addsub_core.vhd(76)
+HDL-1007 : elaborate addsub_cy(rtl) in ../vhdl/addsub_cy.vhd(72)
+HDL-1007 : elaborate addsub_ovcy(rtl) in ../vhdl/addsub_ovcy.vhd(72)
+HDL-1007 : elaborate comb_mltplr(rtl) in ../vhdl/comb_mltplr.vhd(72)
+HDL-1007 : elaborate comb_divider(rtl) in ../vhdl/comb_divider.vhd(72)
+HDL-1007 : elaborate dcml_adjust(dwidth=8)(rtl) in ../vhdl/dcml_adjust.vhd(72)
+HDL-1007 : elaborate mc8051_siu(rtl) in ../vhdl/mc8051_siu.vhd(71)
+HDL-1007 : others clause is never selected in ../vhdl/mc8051_siu.vhd(816)
+HDL-1007 : others clause is never selected in ../vhdl/mc8051_siu.vhd(1215)
+HDL-1007 : elaborate mc8051_tmrctr(rtl) in ../vhdl/mc8051_tmrctr.vhd(71)
+HDL-1007 : others clause is never selected in ../vhdl/mc8051_tmrctr.vhd(541)
+HDL-1007 : others clause is never selected in ../vhdl/mc8051_tmrctr.vhd(784)
+HDL-1007 : elaborate mc8051_ram(ram_arch) in mc8051_ram.vhd(19)
+HDL-1007 : extracting RAM for identifier 'ram_mem' in mc8051_ram.vhd(36)
+HDL-1007 : switch to vlog to elaborate module mc8051_rom in ../vhdl/mc8051_top.vhd(181)
+HDL-1007 : elaborate module mc8051_rom in al_ip/mc8051_rom.v(1)
+HDL-1007 : elaborate module mc8051_rom_td in al_ip/mc8051_rom_td.v(14)
+HDL-1007 : elaborate module EG_LOGIC_BRAM(DATA_WIDTH_A=8,DATA_WIDTH_B=8,ADDR_WIDTH_A=8,ADDR_WIDTH_B=8,DATA_DEPTH_A=191,DATA_DEPTH_B=191,MODE="SP",INIT_FILE="led.mif") in C:/Anlogic/TD4.6.2/arch/eagle_macro.v(1072)
+HDL-5007 WARNING: actual bit length 16 differs from formal bit length 8 for port 'addra' in al_ip/mc8051_rom.v(9)
+HDL-1007 : back to vhdl to elaborate in ../vhdl/mc8051_top.vhd(181)
+HDL-1007 : elaborate mc8051_ramx(ramx_arch) in mc8051_ramx.vhd(19)
+HDL-1007 : extracting RAM for identifier 'ramx_mem' in mc8051_ramx.vhd(34)
+HDL-1007 : back to vlog to elaborate in MC8051OnBoard.v(51)
+HDL-1200 : Current top model is MC8051OnBoard
+HDL-1100 : Inferred 2 RAMs.
+RUN-1003 : finish command "elaborate -top MC8051OnBoard" in  1.088393s wall, 1.029607s user + 0.000000s system = 1.029607s CPU (94.6%)
+
+RUN-1004 : used memory is 554 MB, reserved memory is 526 MB, peak memory is 975 MB
+RUN-1002 : start command "read_adc MC8051DEMO.adc"
+RUN-1002 : start command "set_pin_assignment key  LOCATION = T4;  "
+RUN-1002 : start command "set_pin_assignment sysclk  LOCATION = K14;  "
+RUN-1002 : start command "set_pin_assignment led  LOCATION = N3;  "
+RUN-1002 : start command "set_pin_assignment pllclk  LOCATION = A10;  "
+RUN-1002 : start command "optimize_rtl"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+SYN-1012 : SanityCheck: Model "MC8051OnBoard"
+SYN-1012 : SanityCheck: Model "mc8051_top"
+SYN-1012 : SanityCheck: Model "mc8051_core"
+SYN-1012 : SanityCheck: Model "mc8051_siu"
+SYN-1012 : SanityCheck: Model "mc8051_tmrctr"
+SYN-1012 : SanityCheck: Model "mc8051_alu"
+SYN-1012 : SanityCheck: Model "dcml_adjust(dwidth=8)"
+SYN-1012 : SanityCheck: Model "comb_divider"
+SYN-1012 : SanityCheck: Model "comb_mltplr"
+SYN-1012 : SanityCheck: Model "addsub_core(dwidth=8)"
+SYN-1012 : SanityCheck: Model "addsub_cy"
+SYN-1012 : SanityCheck: Model "addsub_ovcy"
+SYN-1012 : SanityCheck: Model "alucore"
+SYN-1012 : SanityCheck: Model "alumux"
+SYN-1012 : SanityCheck: Model "mc8051_control"
+SYN-1012 : SanityCheck: Model "control_fsm"
+SYN-1012 : SanityCheck: Model "control_mem"
+SYN-1012 : SanityCheck: Model "mc8051_ram"
+SYN-1012 : SanityCheck: Model "mc8051_ramx"
+SYN-1012 : SanityCheck: Model "mc8051_rom"
+SYN-1012 : SanityCheck: Model "mc8051_rom_td"
+SYN-1012 : SanityCheck: Model "pll"
+SYN-1043 : Mark pll as IO macro for instance bufg_feedback
+SYN-1016 : Merged 592 instances.
+SYN-1016 : Merged 3 instances.
+SYN-1016 : Merged 866 instances.
+SYN-1016 : Merged 23 instances.
+SYN-1026 : Infer Logic BRAM(ram_ram_mem0)
+	 port mode: single port
+	 port a size: 128 x 8	 write mode: READBEFOREWRITE
+	 port b size: 128 x 8	 write mode: NORMAL
+SYN-1023 : Infer 0 Logic DRAMs, 1 Logic BRAMs.
+SYN-1026 : Infer Logic BRAM(ram_ramx_mem0)
+	 port mode: single port
+	 port a size: 8192 x 8	 write mode: READBEFOREWRITE
+	 port b size: 8192 x 8	 write mode: NORMAL
+SYN-1023 : Infer 0 Logic DRAMs, 1 Logic BRAMs.
+SYN-1011 : Flatten model MC8051OnBoard
+SYN-1011 : Flatten model mc8051_top
+SYN-1011 : Flatten model mc8051_core
+SYN-1011 : Flatten model mc8051_siu
+SYN-1011 : Flatten model mc8051_tmrctr
+SYN-1011 : Flatten model mc8051_alu
+SYN-1011 : Flatten model dcml_adjust(dwidth=8)
+SYN-1011 : Flatten model comb_divider
+SYN-1011 : Flatten model comb_mltplr
+SYN-1011 : Flatten model addsub_core(dwidth=8)
+SYN-1011 : Flatten model addsub_cy
+SYN-1011 : Flatten model addsub_ovcy
+SYN-1016 : Merged 2 instances.
+SYN-1011 : Flatten model alucore
+SYN-1011 : Flatten model alumux
+SYN-1016 : Merged 7 instances.
+SYN-1011 : Flatten model mc8051_control
+SYN-1011 : Flatten model control_fsm
+SYN-1011 : Flatten model control_mem
+SYN-1016 : Merged 30 instances.
+SYN-1016 : Merged 10 instances.
+SYN-1011 : Flatten model mc8051_ram
+SYN-1011 : Flatten model mc8051_ramx
+SYN-1011 : Flatten model mc8051_rom
+SYN-1011 : Flatten model mc8051_rom_td
+SYN-1016 : Merged 6 instances.
+SYN-1011 : Flatten model pll
+SYN-1016 : Merged 44 instances.
+SYN-1014 : Optimize round 1
+SYN-1032 : 6216/593 useful/useless nets, 5955/525 useful/useless insts
+SYN-1017 : Remove 6 const input seq instances
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/reg0_b0
+SYN-1002 :     u8051_inst/i_mc8051_core/i_mc8051_control/i_control_mem/reg6_b0
+SYN-1002 :     u8051_inst/i_mc8051_core/i_mc8051_control/i_control_mem/s_int0_h1_reg[0]
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/reg0_b1
+SYN-1002 :     u8051_inst/i_mc8051_core/i_mc8051_control/i_control_mem/s_int0_h2_reg[0]
+SYN-1002 :     u8051_inst/i_mc8051_core/i_mc8051_control/i_control_mem/s_int0_h3_reg[0]
+SYN-1018 : Transformed 3 mux instances.
+SYN-1019 : Optimized 45 mux instances.
+SYN-1021 : Optimized 128 onehot mux instances.
+SYN-1020 : Optimized 1568 distributor mux.
+SYN-1016 : Merged 3226 instances.
+SYN-1015 : Optimize round 1, 6082 better
+SYN-1014 : Optimize round 2
+SYN-1044 : Optimized 2 inv instances.
+SYN-1032 : 5704/131 useful/useless nets, 5459/2417 useful/useless insts
+SYN-1019 : Optimized 7 mux instances.
+SYN-1020 : Optimized 2 distributor mux.
+SYN-1016 : Merged 4 instances.
+SYN-1015 : Optimize round 2, 2502 better
+SYN-1014 : Optimize round 3
+SYN-1032 : 5667/40 useful/useless nets, 5422/39 useful/useless insts
+SYN-1017 : Remove 4 const input seq instances
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t0ff1_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t1ff1_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t0ff2_reg
+SYN-1002 :     u8051_inst/i_mc8051_core/gen_mc8051_tmrctr[0]$i_mc8051_tmrctr/s_t1ff2_reg
+SYN-1019 : Optimized 0 mux instances.
+SYN-1016 : Merged 3 instances.
+SYN-1015 : Optimize round 3, 79 better
+SYN-1014 : Optimize round 4
+SYN-1032 : 5648/1 useful/useless nets, 5403/3 useful/useless insts
+SYN-1019 : Optimized 0 mux instances.
+SYN-1016 : Merged 4 instances.
+SYN-1015 : Optimize round 4, 17 better
+SYN-1014 : Optimize round 5
+SYN-1032 : 5644/0 useful/useless nets, 5399/0 useful/useless insts
+SYN-1019 : Optimized 0 mux instances.
+SYN-1015 : Optimize round 5, 0 better
+RUN-1003 : finish command "optimize_rtl" in  2.933639s wall, 2.854818s user + 0.078001s system = 2.932819s CPU (100.0%)
+
+RUN-1004 : used memory is 621 MB, reserved memory is 603 MB, peak memory is 975 MB
+RUN-1002 : start command "report_area -file mc8051_top_rtl.area"
+RUN-1001 : standard
+***Report Model: MC8051OnBoard***
+
+IO Statistics
+#IO                     4
+  #input                2
+  #output               2
+  #inout                0
+
+Gate Statistics
+#Basic gates         3849
+  #and               1691
+  #nand                 0
+  #or                 358
+  #nor                  0
+  #xor                 15
+  #xnor                 0
+  #buf                  0
+  #not                360
+  #bufif1               0
+  #MX21               948
+  #FADD                 0
+  #DFF                477
+  #LATCH                0
+#MACRO_ADD             48
+#MACRO_EQ             250
+#MACRO_MULT             2
+#MACRO_MUX           1242
+
+RUN-1001 : 
+Report Hierarchy Area:
++------------------------------------------------+
+|Instance |Module        |gates  |seq    |macros |
++------------------------------------------------+
+|top      |MC8051OnBoard |3372   |477    |304    |
++------------------------------------------------+
+
+RUN-1002 : start command "export_db mc8051_top_rtl.db"
+RUN-1001 : Exported /
+RUN-1001 : Exported libs
+RUN-1001 : Exported entities
+RUN-1001 : Exported ports
+RUN-1001 : Exported pins
+RUN-1001 : Exported instances
+RUN-1001 : Exported nets
+RUN-1001 : Exported buses
+RUN-1001 : Exported models
+RUN-1001 : Exported congestions
+RUN-1001 : Exported violations
+RUN-1001 : Exported IO constraints
+RUN-1001 : Exported Inst constraints
+RUN-1001 : Exported flow parameters
+RUN-1003 : finish command "export_db mc8051_top_rtl.db" in  3.784585s wall, 2.012413s user + 0.046800s system = 2.059213s CPU (54.4%)
+
+RUN-1004 : used memory is 644 MB, reserved memory is 620 MB, peak memory is 975 MB
+RUN-1002 : start command "optimize_gate -packarea mc8051_top_gate.area"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+SYN-2001 : Map 4 IOs to PADs
+SYN-2501 : Processed 0 LOGIC_BUF instances.
+SYN-2501 : 1 BUFG to GCLK
+SYN-2512 : LOGIC BRAM "u8051_inst/i_mc8051_ram/ram_ram_mem0"
+SYN-2512 : LOGIC BRAM "u8051_inst/i_mc8051_ramx/ram_ramx_mem0"
+SYN-2512 : LOGIC BRAM "u8051_inst/i_mc8051_rom/u_rom/inst"
+SYN-2541 : Reading BRAM "u8051_inst/i_mc8051_rom/u_rom/inst" init file "I:/Version1_6_TDV5\td_proj\al_ip\led.mif"
+SYN-2542 : Parsing MIF init file
+SYN-2571 : Map 2 macro multiplier
+SYN-2571 : Optimize after map_dsp, round 1
+SYN-1032 : 5648/0 useful/useless nets, 5411/0 useful/useless insts
+SYN-2571 : Optimize after map_dsp, round 1, 0 better
+SYN-2501 : Optimize round 1
+SYN-1032 : 7804/0 useful/useless nets, 7567/0 useful/useless insts
+SYN-1016 : Merged 1584 instances.
+SYN-2501 : Optimize round 1, 3304 better
+SYN-2501 : Optimize round 2
+SYN-1032 : 6220/0 useful/useless nets, 5983/0 useful/useless insts
+SYN-2501 : Optimize round 2, 0 better
+SYN-2501 : Map 48 macro adder
+SYN-3001 : Mapper mapped 63 instances into 3 LUTs, name keeping = 33%.
+SYN-3001 : Mapper mapped 63 instances into 3 LUTs, name keeping = 33%.
+SYN-3001 : Mapper mapped 63 instances into 3 LUTs, name keeping = 100%.
+SYN-3001 : Mapper mapped 63 instances into 2 LUTs, name keeping = 50%.
+SYN-3001 : Mapper mapped 63 instances into 3 LUTs, name keeping = 100%.
+SYN-1032 : 18528/9 useful/useless nets, 18291/0 useful/useless insts
+SYN-3001 : X or Z is treated as constant in optimizing instance u8051_inst/i_mc8051_core/i_mc8051_control/_al_const_x.
+SYN-3001 : Running gate level optimization.
+SYN-2581 : Mapping with K=4, #lut = 4148 (3.33), #lev = 41 (30.79)
+SYN-2551 : Post LUT mapping optimization.
+SYN-3001 : Logic optimization runtime opt =   4.01 sec, map =   0.00 sec
+SYN-3001 : Mapper mapped 17383 instances into 3949 LUTs, name keeping = 20%.
+SYN-1001 : Packing model "MC8051OnBoard" ...
+SYN-4010 : Pack lib has 42 rtl pack models with 15 top pack blocks
+SYN-1014 : Optimize round 1
+SYN-1032 : 5051/5 useful/useless nets, 4817/5 useful/useless insts
+SYN-1015 : Optimize round 1, 10 better
+SYN-1014 : Optimize round 2
+SYN-1032 : 5051/0 useful/useless nets, 4817/0 useful/useless insts
+SYN-1015 : Optimize round 2, 0 better
+SYN-4002 : Packing 476 DFF/LATCH to SEQ ...
+SYN-4009 : Pack 14 carry chain into lslice
+SYN-4007 : Packing 203 adder to BLE ...
+SYN-4008 : Packed 203 adder and 4 SEQ to BLE.
+SYN-4007 : Packing 0 gate4 to BLE ...
+SYN-4008 : Packed 0 gate4 and 0 SEQ to BLE.
+SYN-4012 : Packed 0 FxMUX
+SYN-4007 : Packing 0 MUX to BLE ...
+SYN-4008 : Packed 0 MUX and 0 SEQ to BLE.
+SYN-4007 : Packing 3945 LUT to BLE ...
+SYN-4008 : Packed 3945 LUT and 453 SEQ to BLE.
+SYN-4003 : Packing 19 remaining SEQ's ...
+SYN-4004 : #0: Packed 0 SEQ (19 nodes)...
+SYN-4004 : #1: Packed 18 SEQ (20 nodes)...
+SYN-4005 : Packed 18 SEQ with LUT/SLICE
+SYN-4006 : 3474 single LUT's are left
+SYN-4006 : 1 single SEQ's are left
+SYN-4011 : Packing model "MC8051OnBoard" (AL_USER_NORMAL) with 3946/4126 primitive instances ...
+RUN-1002 : start command "report_area -file mc8051_top_gate.area"
+RUN-1001 : standard
+***Report Model: MC8051OnBoard***
+
+IO Statistics
+#IO                     4
+  #input                2
+  #output               2
+  #inout                0
+
+Utilization Statistics
+#lut                 4263   out of  19600   21.75%
+#reg                  476   out of  19600    2.43%
+#le                  4264
+  #lut only          3788   out of   4264   88.84%
+  #reg only             1   out of   4264    0.02%
+  #lut&reg            475   out of   4264   11.14%
+#dsp                    2   out of     29    6.90%
+#bram                  10   out of     64   15.63%
+  #bram9k              10
+  #fifo9k               0
+#bram32k                0   out of     16    0.00%
+#pad                    4   out of    188    2.13%
+  #ireg                 0
+  #oreg                 0
+  #treg                 0
+#pll                    1   out of      4   25.00%
+
+RUN-1001 : 
+Report Hierarchy Area:
++---------------------------------------------+
+|Instance |Module        |le    |lut   |seq   |
++---------------------------------------------+
+|top      |MC8051OnBoard |4264  |4263  |476   |
++---------------------------------------------+
+
+RUN-1003 : finish command "optimize_gate -packarea mc8051_top_gate.area" in  16.923743s wall, 16.894908s user + 0.421203s system = 17.316111s CPU (102.3%)
+
+RUN-1004 : used memory is 679 MB, reserved memory is 647 MB, peak memory is 975 MB
+RUN-1002 : start command "legalize_phy_inst"
+SYN-1011 : Flatten model MC8051OnBoard
+RUN-1002 : start command "export_db mc8051_top_gate.db"
+RUN-1001 : Exported /
+RUN-1001 : Exported libs
+RUN-1001 : Exported entities
+RUN-1001 : Exported ports
+RUN-1001 : Exported pins
+RUN-1001 : Exported instances
+RUN-1001 : Exported nets
+RUN-1001 : Exported buses
+RUN-1001 : Exported models
+RUN-1001 : Exported congestions
+RUN-1001 : Exported violations
+RUN-1001 : Exported IO constraints
+RUN-1001 : Exported Inst constraints
+RUN-1001 : Exported flow parameters
+RUN-1003 : finish command "export_db mc8051_top_gate.db" in  4.949835s wall, 2.574016s user + 0.062400s system = 2.636417s CPU (53.3%)
+
+RUN-1004 : used memory is 712 MB, reserved memory is 666 MB, peak memory is 975 MB
+RUN-1002 : start command "place"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+PHY-3001 : Placer runs in 4 thread(s).
+SYN-4016 : Net u_pll/clk0_out driven by BUFG (0 clock/control pins, 1 other pins).
+SYN-4027 : Net mcu_clk_110592 is clkc1 of pll u_pll/pll_inst.
+SYN-4027 : Net pllclk_pad is clkc2 of pll u_pll/pll_inst.
+SYN-4019 : Net sysclk_pad is refclk of pll u_pll/pll_inst.
+SYN-4020 : Net sysclk_pad is fbclk of pll u_pll/pll_inst.
+SYN-4025 : Tag rtl::Net mcu_clk_110592 as clock net
+SYN-4025 : Tag rtl::Net pllclk_pad as clock net
+SYN-4025 : Tag rtl::Net sysclk_pad as clock net
+SYN-4025 : Tag rtl::Net u_pll/clk0_out as clock net
+SYN-4026 : Tagged 4 rtl::Net as clock net
+PHY-1001 : Populate physical database.
+RUN-1001 : There are total 2154 instances
+RUN-1001 : 1067 mslices, 1066 lslices, 4 pads, 10 brams, 2 dsps
+RUN-1001 : There are total 4404 nets
+RUN-1001 : 2921 nets have 2 pins
+RUN-1001 : 737 nets have [3 - 5] pins
+RUN-1001 : 505 nets have [6 - 10] pins
+RUN-1001 : 155 nets have [11 - 20] pins
+RUN-1001 : 80 nets have [21 - 99] pins
+RUN-1001 : 6 nets have 100+ pins
+PHY-3001 : Initial placement ...
+PHY-3001 : design contains 2152 instances, 2133 slices, 41 macros(159 instances)
+PHY-3001 : Start timing update ...
+RUN-1002 : start command "start_timer"
+TMR-5001 WARNING: No sdc constraints found while initiating timer.
+TMR-2505 : Start building timing graph for model MC8051OnBoard.
+TMR-2506 : Build timing graph completely. Port num: 4, tpin num: 18731, tnet num: 4402, tinst num: 2152, tnode num: 19723, tedge num: 29776.
+TMR-2507 : Eliminate loop in the timing graph, delete 0 tedges.
+TMR-2508 : Levelizing timing graph completed, there are 139 levels in total.
+TMR-2501 : Timing graph initialized successfully.
+RUN-1003 : finish command "start_timer" in  1.108229s wall, 1.138807s user + 0.000000s system = 1.138807s CPU (102.8%)
+
+RUN-1004 : used memory is 723 MB, reserved memory is 675 MB, peak memory is 975 MB
+TMR-2503 : Start to update net delay, extr mode = 2.
+TMR-2504 : Update delay of 4402 nets completely.
+TMR-2502 : Annotate delay completely, extr mode = 2.
+TMR-3002 : No user constraint, initiate default constraint.
+TMR-1501 : Assign derive clock DeriveClock to 932 clock pins, and constraint 992 relative nodes.
+TMR-3005 : Start mapping report constraints, there are 0 constraints in total.
+TMR-3003 : Constraints initiated successfully.
+TMR-3501 : Forward propagation: start to calculate arrival time...
+TMR-3502 : Backward propagation: start to calculate required time...
+TMR-3503 : Timing propagation completes.
+PHY-3001 : End timing update;  1.283872s wall, 1.341609s user + 0.015600s system = 1.357209s CPU (105.7%)
+
+PHY-3001 : Global placement ...
+PHY-3001 : Initial: Len = 1.32117e+06
+PHY-3001 : Run with size of 4
+PHY-3001 : Cell area utilization is 21%, beta_incr = 0.869408
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 0
+PHY-3002 : Step(358): len = 1.01768e+06, overlap = 24.75
+PHY-3002 : Step(359): len = 841270, overlap = 27
+PHY-3002 : Step(360): len = 748745, overlap = 27.75
+PHY-3002 : Step(361): len = 684667, overlap = 41.25
+PHY-3002 : Step(362): len = 628437, overlap = 52.25
+PHY-3002 : Step(363): len = 577718, overlap = 63
+PHY-3002 : Step(364): len = 530568, overlap = 79.5
+PHY-3002 : Step(365): len = 488181, overlap = 91.75
+PHY-3002 : Step(366): len = 446075, overlap = 115.25
+PHY-3002 : Step(367): len = 410898, overlap = 132
+PHY-3002 : Step(368): len = 377525, overlap = 145
+PHY-3002 : Step(369): len = 339703, overlap = 171.25
+PHY-3002 : Step(370): len = 313128, overlap = 183
+PHY-3002 : Step(371): len = 284017, overlap = 209.25
+PHY-3002 : Step(372): len = 248014, overlap = 236.25
+PHY-3002 : Step(373): len = 229622, overlap = 257.5
+PHY-3002 : Step(374): len = 209560, overlap = 272.75
+PHY-3002 : Step(375): len = 161520, overlap = 309.75
+PHY-3002 : Step(376): len = 145641, overlap = 324.25
+PHY-3002 : Step(377): len = 137906, overlap = 329.5
+PHY-3002 : Step(378): len = 93094.3, overlap = 360
+PHY-3002 : Step(379): len = 85314.9, overlap = 367
+PHY-3002 : Step(380): len = 79145.7, overlap = 368.5
+PHY-3002 : Step(381): len = 69809.9, overlap = 371.75
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 2.02363e-06
+PHY-3002 : Step(382): len = 68199.6, overlap = 373
+PHY-3002 : Step(383): len = 67879.8, overlap = 372
+PHY-3002 : Step(384): len = 69411.7, overlap = 370.75
+PHY-3002 : Step(385): len = 69463.2, overlap = 371.25
+PHY-3002 : Step(386): len = 72571, overlap = 370.5
+PHY-3002 : Step(387): len = 76575.3, overlap = 368
+PHY-3002 : Step(388): len = 80842.3, overlap = 368.75
+PHY-3002 : Step(389): len = 85056.7, overlap = 364.5
+PHY-3002 : Step(390): len = 86081.1, overlap = 360
+PHY-3002 : Step(391): len = 87546.4, overlap = 347.75
+PHY-3002 : Step(392): len = 92326.7, overlap = 314
+PHY-3002 : Step(393): len = 93082.3, overlap = 295.5
+PHY-3002 : Step(394): len = 92851.9, overlap = 292.25
+PHY-3002 : Step(395): len = 92740, overlap = 294.5
+PHY-3002 : Step(396): len = 92027.6, overlap = 293
+PHY-3002 : Step(397): len = 91415, overlap = 284.75
+PHY-3002 : Step(398): len = 90055.7, overlap = 286.5
+PHY-3002 : Step(399): len = 88892.7, overlap = 285.25
+PHY-3002 : Step(400): len = 88271.9, overlap = 282.75
+PHY-3002 : Step(401): len = 87266, overlap = 284
+PHY-3002 : Step(402): len = 86551.6, overlap = 286.5
+PHY-3002 : Step(403): len = 85455.6, overlap = 287.5
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 4.04726e-06
+PHY-3002 : Step(404): len = 85443.7, overlap = 287.25
+PHY-3002 : Step(405): len = 86131, overlap = 287.25
+PHY-3001 : :::3::: Try harder cell spreading with beta_ = 5.51531e-06
+PHY-3002 : Step(406): len = 86627.4, overlap = 286
+PHY-3002 : Step(407): len = 94222, overlap = 255.25
+PHY-3002 : Step(408): len = 103608, overlap = 204
+PHY-3002 : Step(409): len = 102623, overlap = 201.75
+PHY-3002 : Step(410): len = 102719, overlap = 201.25
+PHY-3002 : Step(411): len = 102961, overlap = 201
+PHY-3001 : :::4::: Try harder cell spreading with beta_ = 1.10306e-05
+PHY-3002 : Step(412): len = 104282, overlap = 195.75
+PHY-3002 : Step(413): len = 108958, overlap = 177.75
+PHY-3002 : Step(414): len = 111417, overlap = 162.5
+PHY-3002 : Step(415): len = 112954, overlap = 151.75
+PHY-3002 : Step(416): len = 114372, overlap = 140.75
+PHY-3002 : Step(417): len = 116165, overlap = 131.25
+PHY-3002 : Step(418): len = 118907, overlap = 126.25
+PHY-3002 : Step(419): len = 120601, overlap = 122.25
+PHY-3002 : Step(420): len = 120555, overlap = 123.75
+PHY-3001 : :::5::: Try harder cell spreading with beta_ = 2.20612e-05
+PHY-3002 : Step(421): len = 121621, overlap = 120.5
+PHY-3002 : Step(422): len = 124175, overlap = 116
+PHY-3001 : :::6::: Try harder cell spreading with beta_ = 3.67795e-05
+PHY-3002 : Step(423): len = 125007, overlap = 113.5
+PHY-3002 : Step(424): len = 130884, overlap = 102.75
+PHY-3002 : Step(425): len = 136128, overlap = 84.25
+PHY-3002 : Step(426): len = 136252, overlap = 85.25
+PHY-3002 : Step(427): len = 136541, overlap = 87
+PHY-3002 : Step(428): len = 136680, overlap = 88
+PHY-3001 : :::7::: Try harder cell spreading with beta_ = 7.24094e-05
+PHY-3002 : Step(429): len = 140118, overlap = 79.25
+PHY-3002 : Step(430): len = 143659, overlap = 79.75
+PHY-3002 : Step(431): len = 147857, overlap = 75.25
+PHY-3002 : Step(432): len = 147951, overlap = 72.5
+PHY-3002 : Step(433): len = 147830, overlap = 75.25
+PHY-3001 : :::8::: Try harder cell spreading with beta_ = 0.000144819
+PHY-3002 : Step(434): len = 149191, overlap = 76
+PHY-3002 : Step(435): len = 151292, overlap = 78.75
+PHY-3002 : Step(436): len = 152502, overlap = 79.25
+PHY-3002 : Step(437): len = 152859, overlap = 80.5
+PHY-3002 : Step(438): len = 152370, overlap = 83.25
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.015831s wall, 0.031200s user + 0.000000s system = 0.031200s CPU (197.1%)
+
+PHY-3001 : Run with size of 4
+PHY-3001 : Cell area utilization is 27%, beta_incr = 0.869408
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 4.03902e-06
+PHY-3002 : Step(439): len = 150429, overlap = 129.25
+PHY-3002 : Step(440): len = 138998, overlap = 146.75
+PHY-3002 : Step(441): len = 134016, overlap = 165.25
+PHY-3002 : Step(442): len = 131648, overlap = 175.25
+PHY-3002 : Step(443): len = 128083, overlap = 193.5
+PHY-3002 : Step(444): len = 124381, overlap = 205.25
+PHY-3002 : Step(445): len = 121282, overlap = 207
+PHY-3002 : Step(446): len = 116631, overlap = 212
+PHY-3002 : Step(447): len = 113021, overlap = 223.25
+PHY-3002 : Step(448): len = 108169, overlap = 234.25
+PHY-3002 : Step(449): len = 103991, overlap = 248
+PHY-3002 : Step(450): len = 99013.4, overlap = 264.25
+PHY-3002 : Step(451): len = 95799.5, overlap = 270.25
+PHY-3002 : Step(452): len = 92630.6, overlap = 272.75
+PHY-3002 : Step(453): len = 89808.4, overlap = 273
+PHY-3002 : Step(454): len = 87687, overlap = 276.5
+PHY-3002 : Step(455): len = 86558.6, overlap = 281.75
+PHY-3002 : Step(456): len = 86015.5, overlap = 291
+PHY-3002 : Step(457): len = 86169, overlap = 286.75
+PHY-3002 : Step(458): len = 87071.8, overlap = 279.75
+PHY-3002 : Step(459): len = 87700, overlap = 279.75
+PHY-3002 : Step(460): len = 88447.3, overlap = 278.25
+PHY-3002 : Step(461): len = 89159.9, overlap = 277
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 8.07804e-06
+PHY-3002 : Step(462): len = 90365.6, overlap = 274.25
+PHY-3002 : Step(463): len = 92693.6, overlap = 268.25
+PHY-3002 : Step(464): len = 94901.4, overlap = 254.75
+PHY-3002 : Step(465): len = 96973.4, overlap = 239.75
+PHY-3002 : Step(466): len = 100874, overlap = 222
+PHY-3002 : Step(467): len = 102640, overlap = 220
+PHY-3002 : Step(468): len = 103741, overlap = 217.5
+PHY-3002 : Step(469): len = 104594, overlap = 209.5
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 1.61561e-05
+PHY-3002 : Step(470): len = 106773, overlap = 204.75
+PHY-3002 : Step(471): len = 109633, overlap = 197.25
+PHY-3002 : Step(472): len = 111086, overlap = 190
+PHY-3002 : Step(473): len = 115214, overlap = 177.25
+PHY-3002 : Step(474): len = 119639, overlap = 160
+PHY-3002 : Step(475): len = 119475, overlap = 158.5
+PHY-3002 : Step(476): len = 119446, overlap = 159.5
+PHY-3002 : Step(477): len = 119787, overlap = 158.75
+PHY-3001 : :::3::: Try harder cell spreading with beta_ = 3.15584e-05
+PHY-3002 : Step(478): len = 123954, overlap = 156.75
+PHY-3002 : Step(479): len = 132324, overlap = 148.25
+PHY-3002 : Step(480): len = 131848, overlap = 146.75
+PHY-3002 : Step(481): len = 131709, overlap = 146.5
+PHY-3002 : Step(482): len = 131894, overlap = 145.5
+PHY-3002 : Step(483): len = 131971, overlap = 143.75
+PHY-3001 : :::4::: Try harder cell spreading with beta_ = 6.10114e-05
+PHY-3002 : Step(484): len = 136528, overlap = 130.25
+PHY-3002 : Step(485): len = 141745, overlap = 105
+PHY-3002 : Step(486): len = 141836, overlap = 101.75
+PHY-3002 : Step(487): len = 142094, overlap = 100
+PHY-3002 : Step(488): len = 142231, overlap = 96
+PHY-3001 : :::5::: Try harder cell spreading with beta_ = 0.000113275
+PHY-3002 : Step(489): len = 147559, overlap = 84.5
+PHY-3002 : Step(490): len = 150871, overlap = 81
+PHY-3002 : Step(491): len = 151445, overlap = 77.5
+PHY-3002 : Step(492): len = 151528, overlap = 74.25
+PHY-3002 : Step(493): len = 151732, overlap = 71.5
+PHY-3001 : Run with size of 2
+PHY-3001 : Cell area utilization is 27%, beta_incr = 0.869408
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 3.58762e-05
+PHY-3002 : Step(494): len = 151835, overlap = 143.5
+PHY-3002 : Step(495): len = 150566, overlap = 132.75
+PHY-3002 : Step(496): len = 148645, overlap = 130.5
+PHY-3002 : Step(497): len = 145335, overlap = 132.75
+PHY-3002 : Step(498): len = 143258, overlap = 134
+PHY-3002 : Step(499): len = 141226, overlap = 133.25
+PHY-3002 : Step(500): len = 138931, overlap = 130
+PHY-3002 : Step(501): len = 136466, overlap = 139.5
+PHY-3002 : Step(502): len = 134463, overlap = 147.25
+PHY-3002 : Step(503): len = 132922, overlap = 154
+PHY-3002 : Step(504): len = 131618, overlap = 158
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 7.17525e-05
+PHY-3002 : Step(505): len = 135962, overlap = 142.75
+PHY-3002 : Step(506): len = 138900, overlap = 130.25
+PHY-3002 : Step(507): len = 141763, overlap = 118.5
+PHY-3002 : Step(508): len = 142109, overlap = 118.25
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 0.000143505
+PHY-3002 : Step(509): len = 146077, overlap = 109.5
+PHY-3002 : Step(510): len = 151518, overlap = 99
+PHY-3002 : Step(511): len = 154427, overlap = 88.25
+PHY-3002 : Step(512): len = 154300, overlap = 92.5
+PHY-3002 : Step(513): len = 154262, overlap = 95
+PHY-3002 : Step(514): len = 154463, overlap = 97.5
+PHY-3001 : :::3::: Try harder cell spreading with beta_ = 0.000278177
+PHY-3002 : Step(515): len = 158144, overlap = 86.5
+PHY-3002 : Step(516): len = 160028, overlap = 80.75
+PHY-3002 : Step(517): len = 162505, overlap = 77
+PHY-3002 : Step(518): len = 163743, overlap = 77.25
+PHY-3002 : Step(519): len = 163840, overlap = 71.25
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.421646s wall, 0.265202s user + 0.265202s system = 0.530403s CPU (125.8%)
+
+PHY-3001 : Run with size of 2
+PHY-3001 : Cell area utilization is 26%, beta_incr = 0.869408
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 0.000195873
+PHY-3002 : Step(520): len = 173169, overlap = 20
+PHY-3002 : Step(521): len = 169290, overlap = 29.25
+PHY-3002 : Step(522): len = 166185, overlap = 43.75
+PHY-3002 : Step(523): len = 164517, overlap = 54
+PHY-3002 : Step(524): len = 163384, overlap = 61
+PHY-3002 : Step(525): len = 162417, overlap = 68.5
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 0.000391746
+PHY-3002 : Step(526): len = 164523, overlap = 64.25
+PHY-3002 : Step(527): len = 166025, overlap = 61
+PHY-3002 : Step(528): len = 166686, overlap = 59.5
+PHY-3002 : Step(529): len = 167039, overlap = 59
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 0.000766691
+PHY-3002 : Step(530): len = 168587, overlap = 58.5
+PHY-3002 : Step(531): len = 169884, overlap = 54.25
+PHY-3002 : Step(532): len = 171367, overlap = 50
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.019311s wall, 0.015600s user + 0.000000s system = 0.015600s CPU (80.8%)
+
+PHY-3001 : Legalized: Len = 178724, Over = 0
+PHY-3001 : Final: Len = 178724, Over = 0
+PHY-3001 : Improving timing with driver duplication.
+RUN-1001 : Generating global routing grids ...
+PHY-1001 : Generate routing nets ...
+PHY-1001 : Global iterations in 4 thread ...
+PHY-1002 : len = 482816, over cnt = 71(0%), over = 74, worst = 3
+PHY-1002 : len = 482952, over cnt = 39(0%), over = 41, worst = 2
+PHY-1002 : len = 482992, over cnt = 31(0%), over = 32, worst = 2
+PHY-1002 : len = 482664, over cnt = 6(0%), over = 6, worst = 1
+PHY-1002 : len = 482616, over cnt = 0(0%), over = 0, worst = 0
+PHY-1001 : End global iterations;  0.113467s wall, 0.171601s user + 0.015600s system = 0.187201s CPU (165.0%)
+
+RUN-1002 : start command "place -eco"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+PHY-3001 : Placer runs in 4 thread(s).
+PHY-1001 : Populate physical database.
+PHY-3001 : Initial placement ...
+PHY-3001 : eco special cells: 1 has valid locations, 0 needs to be replaced
+PHY-3001 : eco pad cells: 4 has valid locations, 0 needs to be replaced
+PHY-3001 : eco cells: 2138 has valid locations, 57 needs to be replaced
+PHY-3001 : design contains 2202 instances, 2183 slices, 41 macros(159 instances)
+PHY-3001 : Start timing update ...
+RUN-1002 : start command "start_timer"
+TMR-5001 WARNING: No sdc constraints found while initiating timer.
+TMR-2505 : Start building timing graph for model MC8051OnBoard.
+TMR-2506 : Build timing graph completely. Port num: 4, tpin num: 19067, tnet num: 4452, tinst num: 2202, tnode num: 20067, tedge num: 30206.
+TMR-2507 : Eliminate loop in the timing graph, delete 0 tedges.
+TMR-2508 : Levelizing timing graph completed, there are 139 levels in total.
+TMR-2501 : Timing graph initialized successfully.
+RUN-1003 : finish command "start_timer" in  1.209761s wall, 1.201208s user + 0.000000s system = 1.201208s CPU (99.3%)
+
+RUN-1004 : used memory is 770 MB, reserved memory is 714 MB, peak memory is 975 MB
+TMR-2503 : Start to update net delay, extr mode = 2.
+TMR-2504 : Update delay of 4452 nets completely.
+TMR-2502 : Annotate delay completely, extr mode = 2.
+TMR-3002 : No user constraint, initiate default constraint.
+TMR-1501 : Assign derive clock DeriveClock to 940 clock pins, and constraint 1000 relative nodes.
+TMR-3005 : Start mapping report constraints, there are 0 constraints in total.
+TMR-3003 : Constraints initiated successfully.
+TMR-3501 : Forward propagation: start to calculate arrival time...
+TMR-3502 : Backward propagation: start to calculate required time...
+TMR-3503 : Timing propagation completes.
+PHY-3001 : End timing update;  1.388727s wall, 1.388409s user + 0.015600s system = 1.404009s CPU (101.1%)
+
+PHY-3001 : Global placement ...
+PHY-3001 : Initial: Len = 186418
+PHY-3001 : Run with size of 4
+PHY-3001 : Cell area utilization is 22%, beta_incr = 0.866347
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 0
+PHY-3002 : Step(533): len = 186007, overlap = 0
+PHY-3002 : Step(534): len = 186007, overlap = 0
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.008612s wall, 0.015600s user + 0.000000s system = 0.015600s CPU (181.1%)
+
+PHY-3001 : Run with size of 4
+PHY-3001 : Cell area utilization is 27%, beta_incr = 0.866347
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 3.85821e-05
+PHY-3002 : Step(535): len = 185965, overlap = 0.5
+PHY-3002 : Step(536): len = 185965, overlap = 0.5
+PHY-3001 : Run with size of 2
+PHY-3001 : Cell area utilization is 27%, beta_incr = 0.866347
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 0.000101168
+PHY-3002 : Step(537): len = 185794, overlap = 3
+PHY-3002 : Step(538): len = 185794, overlap = 3
+PHY-3001 : :::1::: Try harder cell spreading with beta_ = 0.000202336
+PHY-3002 : Step(539): len = 185786, overlap = 2
+PHY-3002 : Step(540): len = 185786, overlap = 2
+PHY-3001 : :::2::: Try harder cell spreading with beta_ = 0.000329061
+PHY-3002 : Step(541): len = 185824, overlap = 1.25
+PHY-3002 : Step(542): len = 185824, overlap = 1.25
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.071919s wall, 0.062400s user + 0.015600s system = 0.078001s CPU (108.5%)
+
+PHY-3001 : Run with size of 2
+PHY-3001 : Cell area utilization is 27%, beta_incr = 0.866347
+PHY-3001 : :::0::: Try harder cell spreading with beta_ = 0.000362951
+PHY-3002 : Step(543): len = 186082, overlap = 0.25
+PHY-3002 : Step(544): len = 186082, overlap = 0.25
+PHY-3002 : Step(545): len = 186009, overlap = 0.75
+PHY-3001 : Legalization ...
+PHY-3001 : End legalization;  0.007653s wall, 0.000000s user + 0.000000s system = 0.000000s CPU (n/a%)
+
+PHY-3001 : Legalized: Len = 186162, Over = 0
+PHY-3001 : Final: Len = 186162, Over = 0
+RUN-1003 : finish command "place -eco" in  2.044424s wall, 2.043613s user + 0.249602s system = 2.293215s CPU (112.2%)
+
+RUN-1004 : used memory is 776 MB, reserved memory is 719 MB, peak memory is 975 MB
+RUN-1001 : Eco place succeeded
+RUN-1003 : finish command "place" in  10.908533s wall, 18.174117s user + 2.979619s system = 21.153736s CPU (193.9%)
+
+RUN-1004 : used memory is 776 MB, reserved memory is 719 MB, peak memory is 975 MB
+RUN-1002 : start command "route"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+PHY-1001 : Pin misalignment score is improved from 2743 to 1921
+PHY-1001 : Pin misalignment score is improved from 1921 to 1882
+PHY-1001 : Pin misalignment score is improved from 1882 to 1881
+PHY-1001 : Pin misalignment score is improved from 1881 to 1881
+PHY-1001 : Route runs in 4 thread(s)
+RUN-1001 : There are total 2204 instances
+RUN-1001 : 1101 mslices, 1082 lslices, 4 pads, 10 brams, 2 dsps
+RUN-1001 : There are total 4454 nets
+RUN-1001 : 2905 nets have 2 pins
+RUN-1001 : 732 nets have [3 - 5] pins
+RUN-1001 : 507 nets have [6 - 10] pins
+RUN-1001 : 206 nets have [11 - 20] pins
+RUN-1001 : 102 nets have [21 - 99] pins
+RUN-1001 : 2 nets have 100+ pins
+PHY-1001 : Start global routing ...
+RUN-1001 : Generating global routing grids ...
+PHY-1001 : Generate routing nets ...
+PHY-1001 : Global iterations in 4 thread ...
+PHY-1002 : len = 467096, over cnt = 98(0%), over = 100, worst = 2
+PHY-1002 : len = 467680, over cnt = 49(0%), over = 51, worst = 2
+PHY-1002 : len = 466712, over cnt = 26(0%), over = 26, worst = 1
+PHY-1002 : len = 466288, over cnt = 16(0%), over = 16, worst = 1
+PHY-1002 : len = 465496, over cnt = 0(0%), over = 0, worst = 0
+PHY-1001 : End global iterations;  0.117748s wall, 0.187201s user + 0.015600s system = 0.202801s CPU (172.2%)
+
+PHY-1001 : End global routing;  0.267158s wall, 0.327602s user + 0.015600s system = 0.343202s CPU (128.5%)
+
+PHY-1001 : Start detail routing ...
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : Generate nets ...
+PHY-1001 : net mcu_clk_110592 will be routed on clock mesh
+PHY-1001 : net pllclk_pad will be routed on clock mesh
+PHY-1001 : net sysclk_pad will be routed on clock mesh
+PHY-1001 : clock net u_pll/clk0_out will be merged with clock u_pll/clk0_buf
+PHY-1001 : Detail Route ...
+PHY-1001 : ===== Detail Route Phase 1 =====
+PHY-1001 : Routed 0% nets.
+PHY-1002 : len = 35816, over cnt = 0(0%), over = 0, worst = 0
+PHY-1001 : End Routed; 0.064314s wall, 0.062400s user + 0.000000s system = 0.062400s CPU (97.0%)
+
+PHY-1001 : ===== Detail Route Phase 2 =====
+PHY-1001 : Routed 0% nets.
+PHY-1002 : len = 35816, over cnt = 0(0%), over = 0, worst = 0
+PHY-1001 : End Routed; 0.000016s wall, 0.000000s user + 0.000000s system = 0.000000s CPU (n/a%)
+
+PHY-1001 : ===== Detail Route Phase 3 =====
+PHY-1001 : Routed 51% nets.
+PHY-1001 : Routed 57% nets.
+PHY-1001 : Routed 65% nets.
+PHY-1001 : Routed 76% nets.
+PHY-1001 : Routed 97% nets.
+PHY-1002 : len = 704944, over cnt = 77(0%), over = 77, worst = 1
+PHY-1001 : End Routed; 6.876951s wall, 11.528474s user + 0.218401s system = 11.746875s CPU (170.8%)
+
+PHY-1001 : ===== DR Iter 1 =====
+PHY-1002 : len = 703248, over cnt = 9(0%), over = 9, worst = 1
+PHY-1001 : End DR Iter 1; 0.078747s wall, 0.109201s user + 0.000000s system = 0.109201s CPU (138.7%)
+
+PHY-1001 : ===== DR Iter 2 =====
+PHY-1002 : len = 702704, over cnt = 2(0%), over = 2, worst = 1
+PHY-1001 : End DR Iter 2; 0.095820s wall, 0.109201s user + 0.000000s system = 0.109201s CPU (114.0%)
+
+PHY-1001 : ===== DR Iter 3 =====
+PHY-1002 : len = 702648, over cnt = 0(0%), over = 0, worst = 0
+PHY-1003 : Routed, final wirelength = 702648
+PHY-1001 : End DR Iter 3; 0.034212s wall, 0.031200s user + 0.000000s system = 0.031200s CPU (91.2%)
+
+PHY-1001 : 0 feed throughs used by 0 nets
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : Generate nets ...
+PHY-1001 : net mcu_clk_110592 will be routed on clock mesh
+PHY-1001 : net pllclk_pad will be routed on clock mesh
+PHY-1001 : net sysclk_pad will be routed on clock mesh
+PHY-1001 : clock net u_pll/clk0_out will be merged with clock u_pll/clk0_buf
+PHY-1001 : eco open net = 0
+PHY-1001 : End detail routing;  9.290704s wall, 13.884089s user + 0.327602s system = 14.211691s CPU (153.0%)
+
+PHY-1001 : Routing violations:
+PHY-1001 : End of Routing Violations.
+RUN-1003 : finish command "route" in  10.184424s wall, 14.882495s user + 0.390002s system = 15.272498s CPU (150.0%)
+
+RUN-1004 : used memory is 853 MB, reserved memory is 796 MB, peak memory is 1041 MB
+RUN-1002 : start command "report_area -io_info -file mc8051_top_phy.area"
+RUN-1001 : standard
+***Report Model: MC8051OnBoard***
+
+IO Statistics
+#IO                     4
+  #input                2
+  #output               2
+  #inout                0
+
+Utilization Statistics
+#lut                 4363   out of  19600   22.26%
+#reg                  480   out of  19600    2.45%
+#le                  4364
+  #lut only          3884   out of   4364   89.00%
+  #reg only             1   out of   4364    0.02%
+  #lut&reg            479   out of   4364   10.98%
+#dsp                    2   out of     29    6.90%
+#bram                  10   out of     64   15.63%
+  #bram9k              10
+  #fifo9k               0
+#bram32k                0   out of     16    0.00%
+#pad                    4   out of    188    2.13%
+  #ireg                 0
+  #oreg                 0
+  #treg                 0
+#pll                    1   out of      4   25.00%
+
+RUN-1001 : 
+
+RUN-1002 : start command "export_db mc8051_top_pr.db"
+RUN-1001 : Exported /
+RUN-1001 : Exported libs
+RUN-1001 : Exported entities
+RUN-1001 : Exported ports
+RUN-1001 : Exported pins
+RUN-1001 : Exported instances
+RUN-1001 : Exported nets
+RUN-1001 : Exported buses
+RUN-1001 : Exported models
+RUN-1001 : Exported congestions
+RUN-1001 : Exported violations
+RUN-1001 : Exported IO constraints
+RUN-1001 : Exported Inst constraints
+RUN-1001 : Exported flow parameters
+RUN-1003 : finish command "export_db mc8051_top_pr.db" in  5.126116s wall, 2.714417s user + 0.109201s system = 2.823618s CPU (55.1%)
+
+RUN-1004 : used memory is 853 MB, reserved memory is 796 MB, peak memory is 1041 MB
+RUN-1002 : start command "bitgen -bit mc8051_top.bit -version 0X00 -g ucode:00000000011111010000000000000000"
+BIT-1003 : Start to generate bitstream. 
+BIT-1002 : Init instances with 4 threads.
+BIT-1002 : Init instances completely, inst num: 2204
+BIT-1002 : Init pips with 4 threads.
+BIT-1002 : Init pips completely, net num: 4454, pip num: 46514
+BIT-1003 : Multithreading accelaration with 4 threads.
+BIT-1003 : Generate bitstream completely, there are 1437 valid insts, and 134736 bits set as '1'.
+BIT-1004 : PLL setting string = 0001
+BIT-1004 : Generate bits file mc8051_top.bit.
+RUN-1003 : finish command "bitgen -bit mc8051_top.bit -version 0X00 -g ucode:00000000011111010000000000000000" in  6.629535s wall, 20.077329s user + 0.062400s system = 20.139729s CPU (303.8%)
+
+RUN-1004 : used memory is 853 MB, reserved memory is 796 MB, peak memory is 1041 MB

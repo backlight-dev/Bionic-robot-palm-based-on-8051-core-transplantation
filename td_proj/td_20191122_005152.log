@@ -1,0 +1,50 @@
+============================================================
+   Tang Dynasty, V4.6.14314
+   Copyright:   Shanghai Anlogic Infotech Co., Ltd.
+                2011 - 2021
+   Executable = C:/Anlogic/TD4.6.2/bin/td.exe
+   Built at =   11:20:06 Sep 19 2019
+   Run by =     lenovo
+   Run Date =   Fri Nov 22 00:51:52 2019
+
+   Run on =     LAPTOP-PJMQ6JE7
+============================================================
+RUN-1002 : start command "import_device eagle_s20.db -package BG256 -basic"
+ARC-1001 : Device Initialization.
+ARC-1001 : ------------------------------------------------------------------
+ARC-1001 :            OPTION            |          IO          |   SETTING   
+ARC-1001 : ------------------------------------------------------------------
+ARC-1001 :   cso_b/cclk/mosi/miso/dout  |  T3/R11/T10/P10/S11  |    gpio    
+ARC-1001 :             done             |         P13          |    gpio    
+ARC-1001 :           program_b          |          T2          |  dedicated  
+ARC-1001 :        tdi/tms/tck/tdo       |   C12/A15/C14/E14    |  dedicated  
+ARC-1001 : ------------------------------------------------------------------
+ARC-1004 : Device setting, marked 5 dedicate IOs in total.
+RUN-1002 : start command "read_verilog -file al_ip/mc8051_rom_td.v"
+HDL-1007 : analyze verilog file al_ip/mc8051_rom_td.v
+HDL-1007 : elaborate module mc8051_rom_td in al_ip/mc8051_rom_td.v(14)
+HDL-1007 : elaborate module EG_LOGIC_BRAM(DATA_WIDTH_A=8,DATA_WIDTH_B=8,ADDR_WIDTH_A=11,ADDR_WIDTH_B=11,DATA_DEPTH_A=1426,DATA_DEPTH_B=1426,MODE="SP",INIT_FILE="../../tools/keil/hand76.mif") in C:/Anlogic/TD4.6.2/arch/eagle_macro.v(1072)
+HDL-1200 : Current top model is mc8051_rom_td
+HDL-1100 : Inferred 0 RAMs.
+RUN-1002 : start command "optimize_rtl"
+RUN-1001 : Open license file C:/Anlogic/TD4.6.2/license/Anlogic.lic
+SYN-1012 : SanityCheck: Model "mc8051_rom_td"
+SYN-1011 : Flatten model mc8051_rom_td
+SYN-1014 : Optimize round 1
+SYN-1032 : 23/0 useful/useless nets, 3/0 useful/useless insts
+SYN-1019 : Optimized 0 mux instances.
+SYN-1015 : Optimize round 1, 0 better
+RUN-1002 : start command "map_macro -nopad"
+SYN-2501 : Processed 0 LOGIC_BUF instances.
+SYN-2512 : LOGIC BRAM "inst"
+SYN-2541 : Reading BRAM "inst" init file "C:/Users\lenovo\Desktop\MC8051_Version1_6_TDV5\MC8051_Version1_6_TDV5\tools\keil\hand76.mif"
+SYN-2542 : Parsing MIF init file
+SYN-2571 : Optimize after map_dsp, round 1
+SYN-1032 : 23/0 useful/useless nets, 5/0 useful/useless insts
+SYN-2571 : Optimize after map_dsp, round 1, 0 better
+SYN-2501 : Optimize round 1
+SYN-1032 : 23/0 useful/useless nets, 5/0 useful/useless insts
+SYN-2501 : Optimize round 1, 0 better
+SYN-1032 : 23/0 useful/useless nets, 5/0 useful/useless insts
+RUN-1002 : start command "write_verilog al_ip/mc8051_rom_td_sim.v"
+HDL-1201 : write out verilog file al_ip/mc8051_rom_td_sim.v

@@ -1,0 +1,33 @@
+standard
+***Report Model: MC8051OnBoard***
+
+IO Statistics
+#IO                    37
+  #input               18
+  #output              19
+  #inout                0
+
+Utilization Statistics
+#lut                 4456   out of  19600   22.73%
+#reg                  491   out of  19600    2.51%
+#le                  4458
+  #lut only          3967   out of   4458   88.99%
+  #reg only             2   out of   4458    0.04%
+  #lut&reg            489   out of   4458   10.97%
+#dsp                    2   out of     29    6.90%
+#bram                  11   out of     64   17.19%
+  #bram9k              11
+  #fifo9k               0
+#bram32k                0   out of     16    0.00%
+#pad                   37   out of    188   19.68%
+  #ireg                16
+  #oreg                 0
+  #treg                 0
+#pll                    1   out of      4   25.00%
+
+Report Hierarchy Area:
++---------------------------------------------+
+|Instance |Module        |le    |lut   |seq   |
++---------------------------------------------+
+|top      |MC8051OnBoard |4458  |4456  |491   |
++---------------------------------------------+

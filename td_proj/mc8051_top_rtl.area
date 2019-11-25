@@ -1,0 +1,35 @@
+standard
+***Report Model: MC8051OnBoard***
+
+IO Statistics
+#IO                    37
+  #input               18
+  #output              19
+  #inout                0
+
+Gate Statistics
+#Basic gates         3972
+  #and               1753
+  #nand                 0
+  #or                 358
+  #nor                  0
+  #xor                 15
+  #xnor                 0
+  #buf                  0
+  #not                360
+  #bufif1               0
+  #MX21               978
+  #FADD                 0
+  #DFF                508
+  #LATCH                0
+#MACRO_ADD             48
+#MACRO_EQ             250
+#MACRO_MULT             2
+#MACRO_MUX           1259
+
+Report Hierarchy Area:
++------------------------------------------------+
+|Instance |Module        |gates  |seq    |macros |
++------------------------------------------------+
+|top      |MC8051OnBoard |3464   |508    |304    |
++------------------------------------------------+
